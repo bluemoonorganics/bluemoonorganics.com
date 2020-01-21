@@ -16,5 +16,6 @@ fields:
   label: Description
   description: A description of the page that appears on Google and other search engines
 pages:
+- content/pages/contact-us.md
 - content/pages/faq.md
 - content/pages/pet-food.md
