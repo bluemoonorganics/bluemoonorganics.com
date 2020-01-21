@@ -6,6 +6,8 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 Call Blue Moon Organics today, or SIGN UP right now!
 
+***
+
 ## What’s in the Box?
 
 January 20th – 24th 2020
@@ -39,6 +41,8 @@ Vegetables
 * 2.5lbs Satsuma Mandarins cal
 * 1.5lb D’Anjou Pears  BC
 
+***
+
 ## Extras for purchase or substitutions
 
 * Spring Mix cal (5oz) — $6.99
@@ -56,6 +60,8 @@ Vegetables
 * Lemons  cal (1lb) — $2.75
 * Pears D’Anjou BC (1lb) — $2.99
 
+***
+
 ## Weekly Specials
 
 * Red Grape Tomatoes $4.90/ pint
@@ -67,6 +73,14 @@ Vegetables
 
 If your changes bring your order to more than $38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
 
+***
+
 ## Grocery items
 
 **Organic Grocery Items** – we have flax oil, apple cider vinegar, flour, grains, oats, maple syrup, sugar, pancake mix, semolina pasta, peanut butter, rice, tomato paste, pasta sauces, cleaning supplies, honey. [**View Grocery Items page**](/groceries)
+
+***
+
+## Our family
+
+![](./uploads/IMG_1376-copy.jpg)
