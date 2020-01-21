@@ -8,11 +8,11 @@ Call Blue Moon Organics today, or SIGN UP right now!
 
 ## What’s in the Box?
 
-**January 20th – 24th 2020**
+January 20th – 24th 2020
 
 ### Regular Box ($38.00)
 
-##### Fruits
+Fruits
 
 * 5 Braeburn Apples wa
 * 2 Grapefruit Rio Red  cal
@@ -20,7 +20,7 @@ Call Blue Moon Organics today, or SIGN UP right now!
 * 3 Navel Oranges cal
 * 2 Avocados  mex
 
-##### Vegetables
+Vegetables
 
 * 2lbs Russet Potatoes BC
 * 1lb Table Carrots  BC
@@ -39,11 +39,34 @@ Call Blue Moon Organics today, or SIGN UP right now!
 * 2.5lbs Satsuma Mandarins cal
 * 1.5lb D’Anjou Pears  BC
 
-## **Extras for purchase or substitutions**
+## Extras for purchase or substitutions
 
 * Spring Mix cal (5oz) — $6.99
 * Baby Spinach   cal (5oz) — $6.99
 * Yellow  Onions wa (1lb) — $2.50
 * Mushroom White BC (227g)— $3.80
-* Cauliflower cal (each) — $5.99 
-* Ginger peru  (227g )— $4.99
+* Cauliflower cal (each) — $5.99
+* Ginger peru  (227g) — $4.99
+* Garlic BC (each) — $3.50
+* Yams  cal (1lb) — $2.99
+* Brussel Sprout  cal (1lb) — $8.99
+* Satsuma Mandarines  cal (1lb) — $4.45
+* Red Grape Tomatoes cal (pint) — $4.90
+* Blackberries  mex (6oz) — $5.55
+* Lemons  cal (1lb) — $2.75
+* Pears D’Anjou BC (1lb) — $2.99
+
+## Weekly Specials
+
+* Red Grape Tomatoes $4.90/ pint
+* Satsuma Mandarins cal $4.45/ lb
+* Cauliflower cal $5.99/ each
+* Brussel Sprouts cal $8.99/ lb
+* Blackberries mex $5.55/ 6oz
+* Lemons cal $2.99/ lb
+
+If your changes bring your order to more than $38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
+
+## Grocery items
+
+**Organic Grocery Items** – we have flax oil, apple cider vinegar, flour, grains, oats, maple syrup, sugar, pancake mix, semolina pasta, peanut butter, rice, tomato paste, pasta sauces, cleaning supplies, honey. [**View Grocery Items page**](/groceries)
