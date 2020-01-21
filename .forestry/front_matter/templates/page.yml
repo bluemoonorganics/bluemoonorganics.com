@@ -15,3 +15,5 @@ fields:
       format: markdown
   label: Description
   description: A description of the page that appears on Google and other search engines
+pages:
+- content/pages/pet-food.md
