@@ -10,7 +10,7 @@ Call Blue Moon Organics today, or SIGN UP right now!
 
 **January 20th – 24th 2020**
 
-#### Regular Box ($38.00)
+### Regular Box ($38.00)
 
 ##### Fruits
 
@@ -29,7 +29,7 @@ Call Blue Moon Organics today, or SIGN UP right now!
 * Bunch of Cilantro  cal
 * Rainbow Chard  cal
 
-#### Fruit Box ($38.00)
+### Fruit Box ($38.00)
 
 * 7 Braeburn Apples  wa
 * 7 Bananas  mex
