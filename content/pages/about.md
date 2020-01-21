@@ -14,7 +14,7 @@ As a customer of Blue Moon Organics, you’ll receive a fresh selection of Certi
 
 Blue Moon Organics has seen tremendous growth and a growing public interest in organically farmed produce. Re-discover the great taste of our grandparents’ era. Visit our product profile page and discover how convenient home delivery can be. Call Blue Moon Organics today, or sign up right now!
 
-![](http://www.bluemoonorganics.com/wp-content/uploads/2010/10/antaljess9e1.jpg)
+![](./uploads/antaljess9e1.jpg)
 
 ## Here’s what our customers are saying about Blue Moon Organics!
 
