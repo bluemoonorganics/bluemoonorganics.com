@@ -12,6 +12,7 @@
     "@sendgrid/mail": "^6.5.0",
     "gridsome": "^0.7.0",
     "gridsome-plugin-netlify-cms": "^1.0.9",
-    "netlify-cms": "^2.10.8"
+    "netlify-cms": "^2.10.8",
+    "netlify-lambda": "^1.6.3"
   }
 }
