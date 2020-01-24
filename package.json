@@ -2,7 +2,7 @@
   "name": "bluemoonorganics.com",
   "private": true,
   "scripts": {
-    "build": "gridsome build",
+    "build": "gridsome build && netlify-lambda build functions",
     "develop": "gridsome develop",
     "explore": "gridsome explore"
   },
