@@ -53,4 +53,9 @@ body {
 .nav__link {
   margin-left: 20px;
 }
+
+table {
+  width: 100%;
+  text-align: left;
+}
 </style>
