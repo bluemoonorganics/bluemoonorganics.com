@@ -14,14 +14,6 @@ April 6th – April 10th 2020
 
 ### Regular Box (\$38.00)
 
-Fruits
-
-- 5 Braeburn Apples wa
-- 2 Grapefruit Rio Red cal
-- 5 Bananas mex
-- 3 Navel Oranges cal
-- 2 Avocados mex
-
 | Fruits                   | Vegetables              |
 | ------------------------ | ----------------------- |
 | 5 Braeburn Apples wa     | 2lbs Russet Potatoes BC |
@@ -30,15 +22,6 @@ Fruits
 | 3 Navel Oranges cal      | 1 Acorn Squash mex      |
 | 2 Avocados mex           | Bunch of Cilantro cal   |
 |                          | Rainbow Chard cal       |
-
-Vegetables
-
-- 2lbs Russet Potatoes BC
-- 1lb Table Carrots BC
-- 1 Romaine Lettuce cal
-- 1 Acorn Squash mex
-- Bunch of Cilantro cal
-- Rainbow Chard cal
 
 ### Fruit Box (\$38.00)
 
@@ -53,6 +36,8 @@ Vegetables
 ---
 
 ## Extras for purchase or substitutions
+
+If your changes bring your order to more than \$38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
 
 - Spring Mix cal (5oz) — \$6.99
 - Baby Spinach cal (5oz) — \$6.99
@@ -69,9 +54,7 @@ Vegetables
 - Lemons cal (1lb) — \$2.75
 - Pears D’Anjou BC (1lb) — \$2.99
 
----
-
-## Weekly Specials
+### Weekly Specials
 
 - Red Grape Tomatoes \$4.90/ pint
 - Satsuma Mandarins cal \$4.45/ lb
@@ -79,8 +62,6 @@ Vegetables
 - Brussel Sprouts cal \$8.99/ lb
 - Blackberries mex \$5.55/ 6oz
 - Lemons cal \$2.99/ lb
-
-If your changes bring your order to more than \$38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
 
 ---
 
