@@ -22,6 +22,15 @@ Fruits
 * 3 Navel Oranges cal
 * 2 Avocados  mex
 
+| Fruits                   | Vegetables         | 
+| --------------------     | ------------------ |
+| 5 Braeburn Apples wa     | 2lbs Russet Potatoes BC |
+| 2 Grapefruit Rio Red cal | 1lb Table Carrots BC |
+| 5 Bananas mex            | 1 Romaine Lettuce cal |
+| 3 Navel Oranges cal      | 1 Acorn Squash mex |
+| 2 Avocados mex           | Bunch of Cilantro cal |
+|                          | Rainbow Chard cal |
+
 Vegetables
 
 * 2lbs Russet Potatoes BC
