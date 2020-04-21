@@ -1,11 +1,17 @@
 body {
-	font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto,
-		'Helvetica Neue', Arial, sans-serif;
+	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+		"Helvetica Neue", Arial, sans-serif;
 	margin: 0;
 	padding: 0;
 	line-height: 1.5;
 }
-
+#captcha {
+	display: none;
+}
+button {
+	padding: 1rem;
+	background: lightgreen;
+}
 .header-banner {
 	display: block;
 }
@@ -27,7 +33,7 @@ input {
 	padding: 1rem;
 	font-size: 1.2rem;
 	width: 100%;
-	&[type='radio'] {
+	&[type="radio"] {
 		display: inline;
 		width: auto;
 	}
