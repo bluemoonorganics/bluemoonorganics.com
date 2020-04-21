@@ -10,7 +10,28 @@ body {
 .header-banner {
   display: block;
 }
-
+label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  &.radio {
+    display: inline;
+    font-size: initial;
+    font-weight: initial;
+  }
+}
+label, input {
+  display: block;
+}
+input {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: 1.2rem;
+  width: 100%;
+  &[type="radio"] {
+ display: inline;
+ width: auto;
+  }
+}
 .layout {
   max-width: 760px;
   margin: 0 auto;
@@ -33,4 +54,8 @@ body {
 table {
   width: 100%;
   text-align: left;
+}
+
+img {
+  max-width: 100%;
 }

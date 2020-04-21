@@ -7,47 +7,49 @@
     </p>
     <form>
       <label>
-        Full name
-        <input type="text" name="name" />
+        Full name*
+        <input type="text" name="name" required/>
       </label>
 
       <label>
-        Phone Number
-        <input type="tel" name="phone" />
+        Phone number*
+        <input type="tel" name="phone" required />
       </label>
 
       <label>
-        Address
-        <input type="text" name="address1" />
+        Address - line 1*
+        <input type="text" name="address1" required />
       </label>
+
       <label>
-        Address - Line 2
+        Address - line 2
         <input type="text" name="address2" />
       </label>
 
       <label>
-        City
+        City*
         <input type="text" name="city" required />
       </label>
 
       <label>
-        E-mail Address
+        Email address*
         <input type="email" name="email" required />
       </label>
 
-      <label>How often would you like delivery?</label>
-
+      <label>How often would you like delivery?*</label>
       <input id="everyweek" type="radio" name="frequency" value="Every week" required />
-      <label for="everyweek">Every week</label>
+      <label class="radio" for="everyweek">Every week</label>
 
       <input id="everyotherweek" type="radio" name="frequency" value="Every other week" />
-      <label for="everyotherweek">Every other week</label>
+      <label class="radio" for="everyotherweek">Every other week</label>
 
-      <label for="startdate">Start Date</label>
+      <label for="startdate">Start date*</label>
       <input type="date" name="startdate" required />
 
-      <label for="promocode">Promo Code</label>
+      <label for="promocode">Promo code</label>
       <input type="text" name="promocode" />
+
+      <button type="submit">Submit</button>
     </form>
   </Layout>
 </template>
