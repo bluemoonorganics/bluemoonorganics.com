@@ -5,13 +5,17 @@
 			Thank you for your interest in Blue Moon Organics. Please complete the
 			Sign-up form and we will contact you to confirm your first delivery date.
 		</p>
-		<form>
+		<div v-if="submitted" class="thanks">
+			<p>Thank you for signing up! We will be in touch with you shortly.</p>
+		</div>
+		<form v-else>
 			<label for="fullName">Full name*</label>
 			<input
 				placeholder="John Appleseed"
 				v-model="fullName"
 				type="text"
 				name="fullName"
+				required
 			/>
 
 			<label for="phone">Phone number*</label>
@@ -20,6 +24,7 @@
 				v-model="phone"
 				type="tel"
 				name="phone"
+				required
 			/>
 
 			<label for="address1">Address - line 1*</label>
@@ -28,6 +33,7 @@
 				v-model="address1"
 				type="text"
 				name="address1"
+				required
 			/>
 
 			<label for="address2">Address - line 2</label>
@@ -39,7 +45,13 @@
 			/>
 
 			<label for="city">City*</label>
-			<input placeholder="Coquitlam" v-model="city" type="text" name="city" />
+			<input
+				placeholder="Coquitlam"
+				v-model="city"
+				type="text"
+				name="city"
+				required
+			/>
 
 			<label for="email">Email address*</label>
 			<input
@@ -47,6 +59,7 @@
 				v-model="email"
 				type="email"
 				name="email"
+				required
 			/>
 
 			<label>How often would you like delivery?*</label>
@@ -55,6 +68,7 @@
 				type="radio"
 				name="frequency"
 				value="Every week"
+				required
 				v-model="frequency"
 			/>
 			<label class="radio" for="everyweek">Every week</label>
@@ -69,7 +83,7 @@
 			<label class="radio" for="everyotherweek">Every other week</label>
 
 			<label for="startDate">Start date*</label>
-			<input v-model="startDate" type="date" name="startDate" />
+			<input v-model="startDate" type="date" name="startDate" required />
 
 			<label for="promocode">Promo code</label>
 			<input v-model="promoCode" type="text" name="promoCode" />
@@ -90,7 +104,16 @@ export default {
 			event.preventDefault();
 			console.log("Submitting...");
 			let data = {
-				fullName: this.fullName
+				type: "Sign up",
+				fullName: this.fullName,
+				phone: this.phone,
+				email: this.email,
+				address1: this.address1,
+				address2: this.address2,
+				city: this.city,
+				startDate: this.startDate,
+				frequency: this.frequency,
+				promoCode: this.promoCode
 			};
 			fetch(".netlify/functions/sendEmail", {
 				method: "POST",
@@ -99,7 +122,11 @@ export default {
 				},
 				body: JSON.stringify(data)
 			})
-				.then(response => console.log(response.data))
+				.then(response => {
+					if (response.status == 200) {
+						this.submitted = true;
+					}
+				})
 				.catch(error => console.error(error));
 		}
 	},
@@ -114,7 +141,8 @@ export default {
 			email: "",
 			startDate: "",
 			promoCode: "",
-			captcha: ""
+			captcha: "",
+			submitted: false
 		};
 	}
 };

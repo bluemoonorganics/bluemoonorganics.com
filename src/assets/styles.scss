@@ -38,8 +38,9 @@ input {
 		width: auto;
 	}
 }
-.layout {
-	max-width: 760px;
+
+.container {
+	max-width: 1200px;
 	margin: 0 auto;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -64,4 +65,8 @@ table {
 
 img {
 	max-width: 100%;
+}
+footer {
+	background: green;
+	padding: 3rem 0;
 }
