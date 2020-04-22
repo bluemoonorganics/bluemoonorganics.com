@@ -108,6 +108,9 @@
 
 <script>
 export default {
+	metaInfo: {
+		title: "Sign up"
+	},
 	methods: {
 		submit(event) {
 			event.preventDefault();

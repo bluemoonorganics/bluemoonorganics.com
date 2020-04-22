@@ -115,6 +115,9 @@
 </template>
 <script>
 export default {
+	metaInfo: {
+		title: "Substitutions"
+	},
 	methods: {
 		submit() {
 			event.preventDefault();
