@@ -1,12 +1,11 @@
 <template>
 	<div>
-		<h1>Sign up</h1>
-		<p>
-			Thank you for your interest in Blue Moon Organics. Please complete the
-			Sign-up form and we will contact you to confirm your first delivery date.
-		</p>
-		<div v-if="submitted" class="thanks">
-			<p>Thank you for signing up! We will be in touch with you shortly.</p>
+		<h1>Substitutions</h1>
+		<div v-if="success" class="panel--success">
+			<p>Substitution submitted successfully.</p>
+		</div>
+		<div v-else-if="error" class="panel--error">
+			<p>An error occurred: {{ errorMessage }}</p>
 		</div>
 		<form v-else>
 			<label for="fullName">Full name*</label>
@@ -62,60 +61,73 @@
 				required
 			/>
 
-			<label>How often would you like delivery?*</label>
+			<label for="deliveryDay">Delivery day*</label>
 			<input
-				id="everyweek"
-				type="radio"
-				name="frequency"
-				value="Every week"
+				placeholder="Monday"
+				v-model="deliveryDay"
+				type="text"
+				name="deliveryDay"
 				required
-				v-model="frequency"
 			/>
-			<label class="radio" for="everyweek">Every week</label>
+
+			<label>Box type*</label>
+			<input
+				id="regularBox"
+				type="radio"
+				name="boxType"
+				value="Regular box"
+				required
+				v-model="boxType"
+			/>
+			<label class="radio" for="regularBox">Regular box</label>
 
 			<input
-				id="everyotherweek"
+				id="fruitBox"
 				type="radio"
-				name="frequency"
-				v-model="frequency"
-				value="Every other week"
+				name="boxType"
+				v-model="boxType"
+				value="Fruit box"
 			/>
-			<label class="radio" for="everyotherweek">Every other week</label>
+			<label class="radio" for="fruitBox">Fruit box</label>
 
-			<label for="startDate">Start date*</label>
-			<input v-model="startDate" type="date" name="startDate" required />
+			<label for="itemsToRemove">Items to remove</label>
+			<textarea v-model="itemsToRemove" name="itemsToRemove" />
 
-			<label for="promocode">Promo code</label>
-			<input v-model="promoCode" type="text" name="promoCode" />
+			<label for="itemsToAdd">Items to add</label>
+			<textarea v-model="itemsToAdd" name="itemsToAdd" />
+
+			<label for="comments">Comments</label>
+			<textarea v-model="comments" name="comments" />
 
 			<!-- the following input is a honeypot -->
 			<p id="captcha">
 				If you're human, don't fill this out:
-				<input v-model="captcha" type="text" />
+				<input type="text" v-model="captcha" />
 			</p>
 
 			<button @click="submit" type="submit">Submit</button>
 		</form>
 	</div>
 </template>
-
 <script>
 export default {
 	methods: {
-		submit(event) {
+		submit() {
 			event.preventDefault();
 			console.log("Submitting...");
 			let data = {
-				type: "Sign up",
+				type: "Substitution",
 				fullName: this.fullName,
 				phone: this.phone,
 				email: this.email,
 				address1: this.address1,
 				address2: this.address2,
 				city: this.city,
-				startDate: this.startDate,
-				frequency: this.frequency,
-				promoCode: this.promoCode,
+				deliveryDay: this.deliveryDay,
+				boxType: this.boxType,
+				itemsToRemove: this.itemsToRemove,
+				itemsToAdd: this.itemsToAdd,
+				comments: this.comments,
 				captcha: this.captcha
 			};
 			fetch(".netlify/functions/sendEmail", {
@@ -127,25 +139,37 @@ export default {
 			})
 				.then(response => {
 					if (response.status == 200) {
-						this.submitted = true;
+						this.success = true;
+					} else {
+						if (response.status == 400) {
+							this.error = true;
+							this.errorMessage =
+								"Substitution was marked as spam. Please email info@bluemoonorganics.com directly.";
+						}
 					}
 				})
-				.catch(error => console.error(error));
+				.catch(error => {
+					console.error(error);
+				});
 		}
 	},
 	data() {
 		return {
 			fullName: "",
 			phone: "",
+			email: "",
 			address1: "",
 			address2: "",
 			city: "",
-			frequency: "",
-			email: "",
-			startDate: "",
-			promoCode: "",
+			deliveryDay: "",
+			boxType: "",
+			itemsToRemove: "",
+			itemsToAdd: "",
+			comments: "",
 			captcha: "",
-			submitted: false
+			success: false,
+			error: false,
+			errorMessage: ""
 		};
 	}
 };

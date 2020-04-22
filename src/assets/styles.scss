@@ -10,6 +10,7 @@ body {
 }
 button {
 	padding: 1rem;
+	font-size: 1.2rem;
 	background: lightgreen;
 }
 .header-banner {
@@ -38,9 +39,11 @@ input {
 		width: auto;
 	}
 }
-
+main {
+	padding: 0 0 3rem 0;
+}
 .container {
-	max-width: 1200px;
+	max-width: 800px;
 	margin: 0 auto;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -64,9 +67,13 @@ table {
 }
 
 img {
-	max-width: 100%;
+	width: 100%;
 }
 footer {
 	background: green;
 	padding: 3rem 0;
+}
+textarea {
+	width: 100%;
+	height: 5rem;
 }

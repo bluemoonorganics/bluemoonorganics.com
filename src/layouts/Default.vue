@@ -11,10 +11,12 @@
 				</nav>
 			</div>
 		</header>
-		<div class="container">
-			<g-image class="header-banner" src="~/assets/banner.jpg" />
-			<slot />
-		</div>
+		<main role="main">
+			<div class="container">
+				<g-image class="header-banner" src="~/assets/banner.jpg" />
+				<slot />
+			</div>
+		</main>
 		<footer>
 			<div class="container">
 				<ul>
