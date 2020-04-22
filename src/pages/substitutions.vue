@@ -5,7 +5,11 @@
 			<p>Substitution submitted successfully.</p>
 		</div>
 		<div v-else-if="error" class="panel--error">
-			<p>An error occurred: {{ errorMessage }}</p>
+			<p>
+				An error occurred: Submission was marked as spam. Please email
+				<a href="mailto:info@bluemoonorganics.com">info@bluemoonorganics.com</a>
+				directly.
+			</p>
 		</div>
 		<form v-else>
 			<label for="fullName">Full name*</label>
@@ -143,8 +147,6 @@ export default {
 					} else {
 						if (response.status == 400) {
 							this.error = true;
-							this.errorMessage =
-								"Substitution was marked as spam. Please email info@bluemoonorganics.com directly.";
 						}
 					}
 				})
@@ -168,8 +170,7 @@ export default {
 			comments: "",
 			captcha: "",
 			success: false,
-			error: false,
-			errorMessage: ""
+			error: false
 		};
 	}
 };
