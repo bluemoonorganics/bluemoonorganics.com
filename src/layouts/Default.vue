@@ -1,12 +1,7 @@
 <template>
 	<div>
 		<header class="header">
-			<nav
-				:class="{ 'is-active': showMobileMenu }"
-				class="navbar container"
-				role="navigation"
-				aria-label="main navigation"
-			>
+			<nav :class="{ 'is-active': showMobileMenu }" class="navbar container">
 				<div class="navbar-brand">
 					<strong>
 						<g-link to="/">{{ $static.metadata.siteName }}</g-link>
@@ -78,12 +73,14 @@
 				</div>
 			</nav>
 		</header>
-		<main role="main">
+
+		<main>
 			<div class="container">
 				<g-image class="header-banner" src="~/assets/banner.jpg" />
 				<slot />
 			</div>
 		</main>
+
 		<footer>
 			<div class="container">
 				© {{ year }} Blue Moon Organics Inc. Vancouver web design and
