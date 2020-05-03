@@ -31,14 +31,14 @@
 
 						<g-link class="nav__link" to="/sign-up/">Sign Up</g-link>
 						<div class="navbar-item has-dropdown is-hoverable nav__link">
-							<a class="navbar-link">
+							<g-link to="/delivery-areas" class="navbar-link">
 								Delivery Areas ▾
-							</a>
-							<div class="navbar-dropdown">
+							</g-link>
+							<div id="nav__delivery-areas-dropdown" class="navbar-dropdown">
 								<g-link
 									:key="area.node.title"
 									v-for="area in deliveryAreas"
-									:to="area.node.title"
+									:to="area.node.title.replace(' ', '-')"
 									>{{ area.node.title }}</g-link
 								>
 							</div>
@@ -123,7 +123,7 @@ query {
   metadata {
     siteName
   }
-	allDeliveryArea {
+	allDeliveryArea(sortBy: "title", order: ASC) {
    edges {
     node {
       title

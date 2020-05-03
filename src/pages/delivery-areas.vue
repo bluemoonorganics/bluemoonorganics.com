@@ -1,13 +1,15 @@
 <template>
-	<div class="content">
-		<h1>{{ $page.deliveryArea.title }}</h1>
-		<p>(delivery day is {{ $page.deliveryArea.delivery_day }})</p>
+	<div>
+		<h1>Delivery Areas</h1>
+		<div :key="area.node.title" v-for="area in deliveryAreas">
+			<g-link :to="area.node.title.replace(' ', '-')">
+				{{ area.node.title }}
+			</g-link>
+		</div>
 
 		<p>
 			A local family business since 1997, Blue Moon Organics delivers fresh 100%
-			Certified Organic Fruits and Vegetables right to your door in
-			{{ $page.deliveryArea.title }} every
-			{{ $page.deliveryArea.delivery_day }}.
+			Certified Organic Fruits and Vegetables right to your door.
 		</p>
 
 		<p>
@@ -39,19 +41,25 @@
 
 <script>
 export default {
-	metaInfo() {
-		return {
-			title: this.$page.deliveryArea.title
-		};
+	metaInfo: {
+		title: "Delivery Areas"
+	},
+	computed: {
+		deliveryAreas() {
+			return this.$static.allDeliveryArea.edges;
+		}
 	}
 };
 </script>
 
-<page-query>
-query DeliveryArea($id: ID!) {
-  deliveryArea: deliveryArea(id: $id) {
-    title
-    delivery_day
+<static-query>
+query {
+	allDeliveryArea(sortBy: "title", order: ASC) {
+   edges {
+    node {
+      title
+    }
+	 }
   }
 }
-</page-query>
+</static-query>
