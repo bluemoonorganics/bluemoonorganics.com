@@ -2,9 +2,9 @@
 label: Page
 hide_body: false
 fields:
-  - type: text
-    name: title
-    label: title
+- type: text
+  name: title
+  label: title
 pages:
-  - content/pages/faq.md
-  - content/pages/pet-food.md
+- content/pages/faq.md
+- content/pages/pet-food.md
