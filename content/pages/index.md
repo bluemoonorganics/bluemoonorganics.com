@@ -77,4 +77,4 @@ If your changes bring your order to more than \$38.00 we will email you and conf
 
 ## COVID-19 Crew
 
-![](./uploads/IMG_8184.jpg)
+![](./uploads/covid.jpg)

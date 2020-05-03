@@ -5,14 +5,6 @@
 	</div>
 </template>
 
-<page-query>
-query SitePage($id: ID!) {
-  sitePage: sitePage(id: $id) {
-    title
-    content
-  }
-}
-</page-query>
 <script>
 export default {
 	metaInfo() {
@@ -22,3 +14,12 @@ export default {
 	}
 };
 </script>
+
+<page-query>
+query SitePage($id: ID!) {
+  sitePage: sitePage(id: $id) {
+    title
+    content
+  }
+}
+</page-query>
