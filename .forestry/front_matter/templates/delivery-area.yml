@@ -1,4 +1,14 @@
 ---
 label: Delivery Area
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: delivery_day
+  type: text
+  config:
+    required: false
+  label: Delivery Day
