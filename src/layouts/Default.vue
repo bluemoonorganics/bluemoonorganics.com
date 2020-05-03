@@ -76,7 +76,11 @@
 
 		<main>
 			<div class="container">
-				<g-image class="header-banner" src="~/assets/banner.jpg" />
+				<g-image
+					alt="Illustration of produce."
+					class="header-banner"
+					src="~/assets/banner.jpg"
+				/>
 				<slot />
 			</div>
 		</main>
