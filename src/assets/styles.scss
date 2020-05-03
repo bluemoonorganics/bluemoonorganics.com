@@ -225,7 +225,9 @@ textarea {
 		}
 		box-shadow: $box-shadow;
 	}
-
+	#nav__delivery-areas-dropdown {
+		display: none;
+	}
 	.navbar-menu {
 		display: none;
 	}
