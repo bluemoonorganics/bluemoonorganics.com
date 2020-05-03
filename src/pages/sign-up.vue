@@ -127,7 +127,7 @@ export default {
 				promoCode: this.promoCode,
 				captcha: this.captcha
 			};
-			fetch(".netlify/functions/sendEmail", {
+			fetch("/.netlify/functions/sendEmail", {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json"
