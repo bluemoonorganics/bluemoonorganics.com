@@ -3,4 +3,15 @@
 
 import "~/assets/styles.scss";
 
-export default function(Vue, { router, head, isClient }) {}
+export default function(Vue, { router, head, isClient }) {
+	head.meta.push({
+		name: "viewport",
+		content: "width=device-width, initial-scale=1.0"
+	});
+
+	head.meta.push({
+		name: "keywords",
+		content:
+			"organic, fruit, vegetable, delivery, bc, british columbia, vancouver, coquitlam, langley, surrey"
+	});
+}

@@ -1,6 +1,7 @@
 ---
-title: Contact Us
+title: Contact
 ---
+
 **Tel**: 604-961-5349
 
 **Email**: [info@bluemoonorganics.com](mailto:info@bluemoonorganics.com)
