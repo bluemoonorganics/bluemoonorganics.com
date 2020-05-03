@@ -2,19 +2,9 @@
 label: Page
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Description
-  description: A description of the page that appears on Google and other search engines
+  - type: text
+    name: title
+    label: title
 pages:
-- content/pages/faq.md
-- content/pages/pet-food.md
+  - content/pages/faq.md
+  - content/pages/pet-food.md
