@@ -14,3 +14,4 @@ fields:
   label: Delivery Day
 pages:
 - content/delivery-areas/anmore.md
+- content/delivery-areas/belcarra.md
