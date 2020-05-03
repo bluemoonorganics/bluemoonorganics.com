@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Delivery Day
+pages:
+- content/delivery-areas/anmore.md
