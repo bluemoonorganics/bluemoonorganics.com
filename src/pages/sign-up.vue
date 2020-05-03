@@ -15,7 +15,7 @@
 				directly.
 			</p>
 		</div>
-		<form v-else>
+		<form @submit.prevent="submit" v-else>
 			<label for="fullName">Full name*</label>
 			<input
 				placeholder="John Appleseed"
@@ -101,7 +101,7 @@
 				<input v-model="captcha" type="text" />
 			</p>
 
-			<button @click="submit" type="submit">Submit</button>
+			<button>Submit</button>
 		</form>
 	</div>
 </template>
@@ -113,7 +113,6 @@ export default {
 	},
 	methods: {
 		submit(event) {
-			event.preventDefault();
 			console.log("Submitting...");
 			let data = {
 				type: "Sign up",
