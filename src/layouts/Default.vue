@@ -35,7 +35,12 @@
 								Delivery Areas ▾
 							</a>
 							<div class="navbar-dropdown">
-								<g-link class="nav__link" to="/coquitlam/">Coquitlam</g-link>
+								<g-link
+									:key="area.node.title"
+									v-for="area in deliveryAreas"
+									:to="area.node.title"
+									>{{ area.node.title }}</g-link
+								>
 							</div>
 						</div>
 
@@ -92,7 +97,15 @@
 <script>
 export default {
 	data() {
-		return { showMobileMenu: false, year: new Date().getFullYear() };
+		return {
+			showMobileMenu: false,
+			year: new Date().getFullYear()
+		};
+	},
+	computed: {
+		deliveryAreas() {
+			return this.$static.allDeliveryArea.edges;
+		}
 	},
 	methods: {
 		toggleMobileMenu() {
@@ -109,6 +122,13 @@ export default {
 query {
   metadata {
     siteName
+  }
+	allDeliveryArea {
+   edges {
+    node {
+      title
+    }
+	 }
   }
 }
 </static-query>
