@@ -6,5 +6,6 @@ fields:
   name: title
   label: title
 pages:
+- content/pages/about.md
 - content/pages/faq.md
 - content/pages/pet-food.md
