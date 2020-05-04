@@ -1,5 +1,5 @@
-$red: #f14668;
-$green: #48c774;
+$red: #ff446a;
+$green: #00d34a;
 $box-shadow: 0 8px 8px rgba(10, 10, 10, 0.1);
 
 * {
@@ -151,14 +151,11 @@ textarea {
 		font-weight: 700;
 	}
 }
-.has-dropdown:hover {
-	.navbar-dropdown {
-		display: flex;
-	}
-}
+
 .navbar-dropdown {
 	background: white;
-	display: none;
+	display: flex;
+	opacity: 0;
 	flex-direction: column;
 	left: 0;
 	min-width: 100%;
@@ -169,8 +166,21 @@ textarea {
 	border-top: 2px solid $green;
 	box-shadow: $box-shadow;
 	padding: 1rem;
+
 	.nav__link {
 		margin: 0;
+	}
+}
+
+.has-dropdown:hover {
+	.navbar-dropdown {
+		opacity: 100;
+	}
+}
+
+.has-dropdown > a:focus {
+	& + .navbar-dropdown {
+		opacity: 100;
 	}
 }
 
