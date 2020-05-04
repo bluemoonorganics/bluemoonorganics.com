@@ -24,6 +24,7 @@ module.exports = {
 	],
 	transformers: {
 		remark: {
+			externalLinksRel: ["noopener"],
 			autolinkHeadings: false
 		}
 	}

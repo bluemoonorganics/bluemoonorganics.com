@@ -56,12 +56,14 @@
 							</a>
 							<div class="navbar-dropdown">
 								<a
+									rel="noopener"
 									target="_blank"
 									href="https://www.facebook.com/organicsfrombluemoon"
 								>
 									Facebook
 								</a>
 								<a
+									rel="noopener"
 									target="_blank"
 									href="https://www.instagram.com/bluemoonorganic/"
 								>
@@ -89,7 +91,9 @@
 			<div class="container">
 				© {{ year }} Blue Moon Organics Inc. Vancouver web design and
 				development by
-				<a href="https://macguire.me" target="_blank">Macguire Rintoul</a>.
+				<a href="https://macguire.me" rel="noopener" target="_blank"
+					>Macguire Rintoul</a
+				>.
 			</div>
 		</footer>
 	</div>
