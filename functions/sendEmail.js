@@ -48,7 +48,7 @@ Comments: ${data.comments}
 	}
 
 	const msg = {
-		to: "macguire.rintoul@gmail.com",
+		to: ["info@bluemoonorganics.com", data.email],
 		from: "info@bluemoonorganics.com",
 		subject: `[FORM] ${data.type}: ${data.fullName}`,
 		text: messageText
