@@ -1,18 +1,24 @@
 const nodemailer = require("nodemailer");
 
 exports.handler = async (event) => {
-	let transporter;
-	try {	
-		transporter = nodemailer.createTransport({
-			service: "GoDaddy",
-			auth: {
-				user: process.env.FROM_EMAIL,
-				pass: process.env.FROM_PASS
-			}
-		});
-	} catch(error) {
-		console.log(error)
-	}
+	const transporter  = nodemailer.createTransport({
+		service: "GoDaddy",
+		auth: {
+			user: process.env.FROM_EMAIL,
+			pass: process.env.FROM_PASS
+		},
+		debug: true, // show debug output
+  	logger: true // log information in console
+	});
+
+	// verify connection configuration
+	transporter.verify(function(error, success) {
+		if (error) {
+			console.log(error);
+		} else {
+			console.log("Server is ready to take our messages");
+		}
+	});
 
 	let data = JSON.parse(event.body).payload ? JSON.parse(event.body).payload : JSON.parse(event.body);
 
