@@ -9,7 +9,18 @@ const transporter = nodemailer.createTransport({
 });
 
 exports.handler = async request => {
-	let data = JSON.parse(request.body);
+	let data;
+	try {
+		console.log(request.body)
+		data = JSON.parse(request.body);
+	} catch (error) {
+		console.error(error)
+		return {
+			statusCode: error.code,
+			body: error.message
+		};
+	}
+	
 	if (data.captcha.length > 0) {
 		return {
 			statusCode: 400,
