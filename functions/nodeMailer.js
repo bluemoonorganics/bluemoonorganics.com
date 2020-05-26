@@ -1,15 +1,15 @@
-const nodemailer = require("nodemailer");
+exports.handler = async (event) => {
+	const nodemailer = require("nodemailer");
 
-const transporter = nodemailer.createTransport({
-	service: "GoDaddy",
-	auth: {
-		user: process.env.FROM_EMAIL,
-		pass: process.env.FROM_PASS
-	}
-});
+	const transporter = nodemailer.createTransport({
+		service: "GoDaddy",
+		auth: {
+			user: process.env.FROM_EMAIL,
+			pass: process.env.FROM_PASS
+		}
+	});
 
-exports.handler = async request => {
-	let data = JSON.parse(request.body).payload ? JSON.parse(request.body).payload : JSON.parse(request.body);
+	let data = JSON.parse(event.body).payload ? JSON.parse(event.body).payload : JSON.parse(event.body);
 	
 	if (data.captcha.length > 0) {
 		return {
@@ -63,20 +63,17 @@ Comments: ${data.comments}
 		subject: `[FORM] ${data.type}: ${data.fullName}`,
 		text: messageText
 	};
-
+	
 	try {
-		console.log(msg)
-		await transporter.sendMail(msg);
+		await transporter.sendMail(msg)
 		return {
 			statusCode: 200,
 			body: "Message sent"
 		};
-	} catch (e) {
-		console.log(msg)
-		console.error(e);
+	} catch (error) {
 		return {
-			statusCode: e.code,
-			body: e.message
+			statusCode: error.code,
+			body: error.message
 		};
 	}
 };
