@@ -31,8 +31,8 @@
 							</g-link>
 							<div id="nav__delivery-areas-dropdown" class="navbar-dropdown">
 								<g-link
-									:key="area.node.title"
 									v-for="area in deliveryAreas"
+									:key="area.node.title"
 									:to="area.node.title.replace(' ', '-')"
 									>{{ area.node.title }}</g-link
 								>
@@ -124,16 +124,16 @@ export default {
 </script>
 
 <static-query>
-query {
-  metadata {
-    siteName
-  }
-	allDeliveryArea(sortBy: "title", order: ASC) {
-   edges {
-    node {
-      title
-    }
-	 }
-  }
-}
+	query {
+		metadata {
+			siteName
+		}
+		allDeliveryArea(sortBy: "title", order: ASC) {
+			edges {
+				node {
+					title
+				}
+			}
+		}
+	}
 </static-query>

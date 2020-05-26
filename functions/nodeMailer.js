@@ -1,15 +1,30 @@
 const nodemailer = require("nodemailer");
 
-const transporter = nodemailer.createTransport({
-	service: 'GoDaddy',
-	auth: {
-		user: process.env.FROM_EMAIL,
-		pass: process.env.FROM_PASS
-	}
-});
+exports.handler = async (event) => {
+	const transporter  = nodemailer.createTransport({
+		// service: "GoDaddy",
+		host: "smtpout.secureserver.net",
+		port: 465,
+		secure:true,
+		auth: {
+			user: process.env.FROM_EMAIL,
+			pass: process.env.FROM_PASS
+		},
+		debug: true, // show debug output
+  	logger: true // log information in console
+	});
 
-exports.handler = async request => {
-	let data = JSON.parse(request.body);
+	// verify connection configuration
+	transporter.verify(function(error, success) {
+		if (error) {
+			console.log(error);
+		} else {
+			console.log("Server is ready to take our messages");
+		}
+	});
+
+	let data = JSON.parse(event.body).payload ? JSON.parse(event.body).payload : JSON.parse(event.body);
+
 	if (data.captcha.length > 0) {
 		return {
 			statusCode: 400,
@@ -19,7 +34,7 @@ exports.handler = async request => {
 	let messageText;
 	let toEmail;
 	if (data.type === "Sign up") {
-		toEmail = process.env.EMAIL_SIGNUP
+		toEmail = process.env.EMAIL_SIGNUP;
 		messageText = `
 Type: ${data.type}
 Name: ${data.fullName}
@@ -34,7 +49,7 @@ Promo code: ${data.promoCode}
     `;
 	} else {
 		// type is substitution
-		toEmail = process.env.EMAIL_SUBS
+		toEmail = process.env.EMAIL_SUBS;
 		messageText = `
 Type: ${data.type}
 Name: ${data.fullName}
@@ -55,7 +70,7 @@ ${data.itemsToAdd}
 Comments: ${data.comments}
     `;
 	}
-	
+
 	const msg = {
 		to: [toEmail, process.env.TEST_EMAIL],
 		from: process.env.FROM_EMAIL,
@@ -64,16 +79,17 @@ Comments: ${data.comments}
 	};
 
 	try {
-		await transporter.sendMail(msg);
+		console.log("sending message")
+		await transporter.sendMail(msg)
+		console.log("message sent")
 		return {
 			statusCode: 200,
-			body: "Message sent"
-		};
-	} catch (e) {
-		console.error(e)
+			body: "OK"
+		}
+	} catch (error) {
 		return {
-			statusCode: e.code,
-			body: e.message
-		};
+			statusCode: error.code,
+			body: error.message
+		}
 	}
 };

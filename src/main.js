@@ -4,7 +4,7 @@
 import "~/assets/styles.scss";
 const config = require("../gridsome.config.js");
 
-export default function(Vue, { router, head, isClient }) {
+export default function(Vue, { head }) {
 	head.meta.push({
 		name: "charset",
 		content: "utf-8"
