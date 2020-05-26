@@ -9,17 +9,7 @@ const transporter = nodemailer.createTransport({
 });
 
 exports.handler = async request => {
-	let data;
-	try {
-		console.log(request.body)
-		data = JSON.parse(request.body);
-	} catch (error) {
-		console.error(error)
-		return {
-			statusCode: error.code,
-			body: error.message
-		};
-	}
+	let data = JSON.parse(request.body).payload ? JSON.parse(request.body).payload : JSON.parse(request.body);
 	
 	if (data.captcha.length > 0) {
 		return {
@@ -75,12 +65,14 @@ Comments: ${data.comments}
 	};
 
 	try {
+		console.log(msg)
 		await transporter.sendMail(msg);
 		return {
 			statusCode: 200,
 			body: "Message sent"
 		};
 	} catch (e) {
+		console.log(msg)
 		console.error(e);
 		return {
 			statusCode: e.code,
