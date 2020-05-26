@@ -15,11 +15,11 @@
 				directly.
 			</p>
 		</div>
-		<form @submit.prevent="submit" v-else>
+		<form v-else @submit.prevent="submit">
 			<label for="fullName">Full name*</label>
 			<input
-				placeholder="John Appleseed"
 				v-model="fullName"
+				placeholder="John Appleseed"
 				type="text"
 				name="fullName"
 				required
@@ -27,8 +27,8 @@
 
 			<label for="phone">Phone number*</label>
 			<input
-				placeholder="123-123-1234"
 				v-model="phone"
+				placeholder="123-123-1234"
 				type="tel"
 				name="phone"
 				required
@@ -36,8 +36,8 @@
 
 			<label for="address1">Address - line 1*</label>
 			<input
-				placeholder="502 Infinite Way"
 				v-model="address1"
+				placeholder="502 Infinite Way"
 				type="text"
 				name="address1"
 				required
@@ -45,16 +45,16 @@
 
 			<label for="address2">Address - line 2</label>
 			<input
-				placeholder="Unit 15"
 				v-model="address2"
+				placeholder="Unit 15"
 				type="text"
 				name="address2"
 			/>
 
 			<label for="city">City*</label>
 			<input
-				placeholder="Coquitlam"
 				v-model="city"
+				placeholder="Coquitlam"
 				type="text"
 				name="city"
 				required
@@ -62,8 +62,8 @@
 
 			<label for="email">Email address*</label>
 			<input
-				placeholder="john@appleseed.com"
 				v-model="email"
+				placeholder="john@appleseed.com"
 				type="email"
 				name="email"
 				required
@@ -72,19 +72,19 @@
 			<label>How often would you like delivery?*</label>
 			<input
 				id="everyweek"
+				v-model="frequency"
 				type="radio"
 				name="frequency"
 				value="Every week"
 				required
-				v-model="frequency"
 			/>
 			<label class="radio" for="everyweek">Every week</label>
 
 			<input
 				id="everyotherweek"
+				v-model="frequency"
 				type="radio"
 				name="frequency"
-				v-model="frequency"
 				value="Every other week"
 			/>
 			<label class="radio" for="everyotherweek">Every other week</label>
@@ -111,8 +111,24 @@ export default {
 	metaInfo: {
 		title: "Sign up"
 	},
+	data() {
+		return {
+			fullName: "",
+			phone: "",
+			address1: "",
+			address2: "",
+			city: "",
+			frequency: "",
+			email: "",
+			startDate: "",
+			promoCode: "",
+			captcha: "",
+			success: false,
+			error: false
+		};
+	},
 	methods: {
-		submit(event) {
+		submit() {
 			console.log("Submitting...");
 			let data = {
 				type: "Sign up",
@@ -143,22 +159,6 @@ export default {
 				})
 				.catch(error => console.error(error));
 		}
-	},
-	data() {
-		return {
-			fullName: "",
-			phone: "",
-			address1: "",
-			address2: "",
-			city: "",
-			frequency: "",
-			email: "",
-			startDate: "",
-			promoCode: "",
-			captcha: "",
-			success: false,
-			error: false
-		};
 	}
 };
 </script>

@@ -48,10 +48,10 @@ export default {
 </script>
 
 <page-query>
-query DeliveryArea($id: ID!) {
-  deliveryArea: deliveryArea(id: $id) {
-    title
-    delivery_day
-  }
-}
+	query DeliveryArea($id: ID!) {
+		deliveryArea: deliveryArea(id: $id) {
+			title
+			delivery_day
+		}
+	}
 </page-query>

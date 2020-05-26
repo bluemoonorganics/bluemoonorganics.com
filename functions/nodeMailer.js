@@ -1,7 +1,7 @@
 const nodemailer = require("nodemailer");
 
 const transporter = nodemailer.createTransport({
-	service: 'GoDaddy',
+	service: "GoDaddy",
 	auth: {
 		user: process.env.FROM_EMAIL,
 		pass: process.env.FROM_PASS
@@ -19,7 +19,7 @@ exports.handler = async request => {
 	let messageText;
 	let toEmail;
 	if (data.type === "Sign up") {
-		toEmail = process.env.EMAIL_SIGNUP
+		toEmail = process.env.EMAIL_SIGNUP;
 		messageText = `
 Type: ${data.type}
 Name: ${data.fullName}
@@ -34,7 +34,7 @@ Promo code: ${data.promoCode}
     `;
 	} else {
 		// type is substitution
-		toEmail = process.env.EMAIL_SUBS
+		toEmail = process.env.EMAIL_SUBS;
 		messageText = `
 Type: ${data.type}
 Name: ${data.fullName}
@@ -55,7 +55,7 @@ ${data.itemsToAdd}
 Comments: ${data.comments}
     `;
 	}
-	
+
 	const msg = {
 		to: [toEmail, process.env.TEST_EMAIL],
 		from: process.env.FROM_EMAIL,
@@ -70,7 +70,7 @@ Comments: ${data.comments}
 			body: "Message sent"
 		};
 	} catch (e) {
-		console.error(e)
+		console.error(e);
 		return {
 			statusCode: e.code,
 			body: e.message

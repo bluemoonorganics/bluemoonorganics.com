@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<h1>Delivery Areas</h1>
-		<div :key="area.node.title" v-for="area in deliveryAreas">
+		<div v-for="area in deliveryAreas" :key="area.node.title">
 			<g-link :to="area.node.title.replace(' ', '-')">
 				{{ area.node.title }}
 			</g-link>
@@ -53,13 +53,13 @@ export default {
 </script>
 
 <static-query>
-query {
-	allDeliveryArea(sortBy: "title", order: ASC) {
-   edges {
-    node {
-      title
-    }
-	 }
-  }
-}
+	query {
+		allDeliveryArea(sortBy: "title", order: ASC) {
+			edges {
+				node {
+					title
+				}
+			}
+		}
+	}
 </static-query>

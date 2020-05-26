@@ -11,11 +11,11 @@
 				directly.
 			</p>
 		</div>
-		<form @submit.prevent="submit" v-else>
+		<form v-else @submit.prevent="submit">
 			<label for="fullName">Full name*</label>
 			<input
-				placeholder="John Appleseed"
 				v-model="fullName"
+				placeholder="John Appleseed"
 				type="text"
 				name="fullName"
 				required
@@ -23,8 +23,8 @@
 
 			<label for="phone">Phone number*</label>
 			<input
-				placeholder="123-123-1234"
 				v-model="phone"
+				placeholder="123-123-1234"
 				type="tel"
 				name="phone"
 				required
@@ -32,8 +32,8 @@
 
 			<label for="address1">Address - line 1*</label>
 			<input
-				placeholder="502 Infinite Way"
 				v-model="address1"
+				placeholder="502 Infinite Way"
 				type="text"
 				name="address1"
 				required
@@ -41,16 +41,16 @@
 
 			<label for="address2">Address - line 2</label>
 			<input
-				placeholder="Unit 15"
 				v-model="address2"
+				placeholder="Unit 15"
 				type="text"
 				name="address2"
 			/>
 
 			<label for="city">City*</label>
 			<input
-				placeholder="Coquitlam"
 				v-model="city"
+				placeholder="Coquitlam"
 				type="text"
 				name="city"
 				required
@@ -58,8 +58,8 @@
 
 			<label for="email">Email address*</label>
 			<input
-				placeholder="john@appleseed.com"
 				v-model="email"
+				placeholder="john@appleseed.com"
 				type="email"
 				name="email"
 				required
@@ -67,8 +67,8 @@
 
 			<label for="deliveryDay">Delivery day*</label>
 			<input
-				placeholder="Monday"
 				v-model="deliveryDay"
+				placeholder="Monday"
 				type="text"
 				name="deliveryDay"
 				required
@@ -77,19 +77,19 @@
 			<label>Box type*</label>
 			<input
 				id="regularBox"
+				v-model="boxType"
 				type="radio"
 				name="boxType"
 				value="Regular box"
 				required
-				v-model="boxType"
 			/>
 			<label class="radio" for="regularBox">Regular box</label>
 
 			<input
 				id="fruitBox"
+				v-model="boxType"
 				type="radio"
 				name="boxType"
-				v-model="boxType"
 				value="Fruit box"
 			/>
 			<label class="radio" for="fruitBox">Fruit box</label>
@@ -106,7 +106,7 @@
 			<!-- the following input is a honeypot -->
 			<p id="captcha">
 				If you're human, don't fill this out:
-				<input type="text" v-model="captcha" />
+				<input v-model="captcha" type="text" />
 			</p>
 
 			<button>Submit</button>
@@ -117,6 +117,24 @@
 export default {
 	metaInfo: {
 		title: "Substitutions"
+	},
+	data() {
+		return {
+			fullName: "",
+			phone: "",
+			email: "",
+			address1: "",
+			address2: "",
+			city: "",
+			deliveryDay: "",
+			boxType: "",
+			itemsToRemove: "",
+			itemsToAdd: "",
+			comments: "",
+			captcha: "",
+			success: false,
+			error: false
+		};
 	},
 	methods: {
 		submit() {
@@ -156,24 +174,6 @@ export default {
 					console.error(error);
 				});
 		}
-	},
-	data() {
-		return {
-			fullName: "",
-			phone: "",
-			email: "",
-			address1: "",
-			address2: "",
-			city: "",
-			deliveryDay: "",
-			boxType: "",
-			itemsToRemove: "",
-			itemsToAdd: "",
-			comments: "",
-			captcha: "",
-			success: false,
-			error: false
-		};
 	}
 };
 </script>
