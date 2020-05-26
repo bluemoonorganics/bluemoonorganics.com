@@ -2,7 +2,10 @@ const nodemailer = require("nodemailer");
 
 exports.handler = async (event) => {
 	const transporter  = nodemailer.createTransport({
-		service: "GoDaddy",
+		// service: "GoDaddy",
+		host: "smtpout.secureserver.net",
+		port: 465,
+		secure:true,
 		auth: {
 			user: process.env.FROM_EMAIL,
 			pass: process.env.FROM_PASS
