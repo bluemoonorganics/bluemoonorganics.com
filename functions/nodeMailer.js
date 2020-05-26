@@ -1,5 +1,6 @@
+const nodemailer = require("nodemailer");
+
 exports.handler = async (event) => {
-	const nodemailer = require("nodemailer");
 	let transporter;
 	try {	
 		transporter = nodemailer.createTransport({
@@ -14,8 +15,7 @@ exports.handler = async (event) => {
 	}
 
 	let data = JSON.parse(event.body).payload ? JSON.parse(event.body).payload : JSON.parse(event.body);
-	console.log( JSON.parse(event.body).payload)
-	console.log( JSON.parse(event.body))
+
 	if (data.captcha.length > 0) {
 		return {
 			statusCode: 400,
@@ -70,7 +70,9 @@ Comments: ${data.comments}
 	};
 
 	try {
+		console.log("sending message")
 		await transporter.sendMail(msg)
+		console.log("message sent")
 		return {
 			statusCode: 200,
 			body: "OK"
