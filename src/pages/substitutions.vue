@@ -136,7 +136,7 @@ export default {
 				comments: this.comments,
 				captcha: this.captcha
 			};
-			fetch("/.netlify/functions/sendEmail", {
+			fetch("/.netlify/functions/nodeMailer", {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json"

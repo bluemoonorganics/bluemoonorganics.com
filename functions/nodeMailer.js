@@ -1,9 +1,14 @@
-// deprecated, use nodeMailer.js instead
-const sgMail = require("@sendgrid/mail");
-const { SENDGRID_API_KEY } = process.env;
+const nodemailer = require("nodemailer");
+
+const transporter = nodemailer.createTransport({
+	service: 'GoDaddy',
+	auth: {
+		user: process.env.FROM_EMAIL,
+		pass: process.env.FROM_PASS
+	}
+});
 
 exports.handler = async request => {
-	sgMail.setApiKey(SENDGRID_API_KEY);
 	let data = JSON.parse(request.body);
 	if (data.captcha.length > 0) {
 		return {
@@ -12,8 +17,9 @@ exports.handler = async request => {
 		};
 	}
 	let messageText;
-
+	let toEmail;
 	if (data.type === "Sign up") {
+		toEmail = process.env.EMAIL_SIGNUP
 		messageText = `
 Type: ${data.type}
 Name: ${data.fullName}
@@ -27,6 +33,8 @@ Frequency: ${data.frequency}
 Promo code: ${data.promoCode}
     `;
 	} else {
+		// type is substitution
+		toEmail = process.env.EMAIL_SUBS
 		messageText = `
 Type: ${data.type}
 Name: ${data.fullName}
@@ -47,21 +55,22 @@ ${data.itemsToAdd}
 Comments: ${data.comments}
     `;
 	}
-
+	
 	const msg = {
-		to: ["info@bluemoonorganics.com", data.email],
-		from: "info@bluemoonorganics.com",
+		to: [toEmail, process.env.TEST_EMAIL],
+		from: process.env.FROM_EMAIL,
 		subject: `[FORM] ${data.type}: ${data.fullName}`,
 		text: messageText
 	};
 
 	try {
-		await sgMail.send(msg);
+		await transporter.sendMail(msg);
 		return {
 			statusCode: 200,
 			body: "Message sent"
 		};
 	} catch (e) {
+		console.error(e)
 		return {
 			statusCode: e.code,
 			body: e.message
