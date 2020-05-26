@@ -12,7 +12,8 @@
 		"@sendgrid/mail": "^6.5.0",
 		"dotenv": "^8.2.0",
 		"gridsome": "^0.7.0",
-		"netlify-lambda": "^1.6.3"
+		"netlify-lambda": "^1.6.3",
+		"nodemailer": "^6.4.6"
 	},
 	"devDependencies": {
 		"eslint-config-prettier": "^6.11.0",
