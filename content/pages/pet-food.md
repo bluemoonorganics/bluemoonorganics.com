@@ -26,8 +26,6 @@ For more information regarding Pet Chef Express, check out their website at [www
 
 ![Mountain Dog Food logo.](./uploads/newlogo.png "Mountain Dog Food logo")
 
-We also offer Raw Dog Food from Mountain Dog Food Company. They only use high grade meat, fruit and vegetables. Available in Turkey, Chicken, Beef, Fish and Bovine. Check out their website for more information and pricing. For more information regarding Mountain Dog Food, check out their website at [www.mountaindogfood.com](http://www.mountaindogfood.com)
-
 ## Our dogs — Nicky & Phoebe
 
 ![Our dog Nicky.](./uploads/OurNick2.jpg "Our dog Nicky")
