@@ -1,8 +1,8 @@
 ---
 title: FAQ
-description: ""
----
+description: ''
 
+---
 It’s easy to get organic produce delivered to your home! Now you can enjoy a convenient and cost-effective way to enjoy Certified Organic fruits and vegetables grown the way nature intended!
 
 ### Delivery Areas
@@ -13,11 +13,13 @@ Blue Moon Organics delivers fresh 100% Certified Organic produce to doorsteps in
 
 As a customer of Blue Moon Organics, you will receive a fresh selection of guaranteed Certified Organic fruits and vegetables delivered right to your door, weekly or bi-weekly.
 
-Your organic fruits and vegetables arrive on your doorstep in a Rubbermaid container which helps keep produce fresh and crisp for several hours, even in summertime. There is a \$20 deposit (refundable) for the container, and after your first shipment, simply leave the container outside your door with your cheque inside and it will be exchanged for one filled with your next week’s supply of fresh produce.
+Your organic fruits and vegetables arrive on your doorstep in a Rubbermaid container which helps keep produce fresh and crisp for several hours, even in summertime. There is a $20.00 refundable deposit for the container, and after your first shipment, simply leave the container outside your door and it will be exchanged for one filled with your next week’s supply of fresh produce.
 
 ### How much produce do I get?
 
-Each 36-litre container consists of 11 -13 items. Apples, oranges, and bananas are regular items most weeks, as are potatoes and broccoli. There are occasionally delightfully unusual items such as kale, mangos, and sunburst squash.
+Each 36-litre container consists of 10 -12 items. We provide you with a balanced bin of fruit and vegetables. 
+
+There are occasionally delightfully unusual items such as kale, mango's, and sunburst squash.
 
 ### How fresh is the produce?
 
@@ -41,4 +43,4 @@ Blue Moon Organics uses local farm fresh produce whenever possible. During out o
 
 ### How much does it cost?
 
-A container costs just \$38.00 for choice of quality, organic produce. Blue Moon Organics guarantees their produce – your satisfaction is 100% guaranteed!
+A container costs just $38.00 for choice of quality, organic produce. Blue Moon Organics guarantees their produce – your satisfaction is 100% guaranteed!
