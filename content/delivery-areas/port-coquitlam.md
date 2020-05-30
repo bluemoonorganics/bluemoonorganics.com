@@ -1,5 +1,5 @@
 ---
 title: Port Coquitlam
-delivery_day: Wednesday or Thursday
+delivery_day: Tuesday or Wednesday
 
 ---
