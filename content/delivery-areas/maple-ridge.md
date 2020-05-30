@@ -1,5 +1,5 @@
 ---
 title: Maple Ridge
-delivery_day: ''
+delivery_day: Tuesday and Thursday
 
 ---
