@@ -24,8 +24,6 @@ Pet Chef Express provides the highest quality dog and cat food available. Made i
 
 For more information regarding Pet Chef Express, check out their website at [www.petchefexpress.ca](http://www.petchefexpress.ca)
 
-![Mountain Dog Food logo.](./uploads/newlogo.png "Mountain Dog Food logo")
-
 ## Our dogs — Nicky & Phoebe
 
 ![Our dog Nicky.](./uploads/OurNick2.jpg "Our dog Nicky")
