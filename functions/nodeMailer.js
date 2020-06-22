@@ -2,7 +2,7 @@ const nodemailer = require("nodemailer");
 
 exports.handler = async (event) => {
 	const transporter  = nodemailer.createTransport({
-		// service: "GoDaddy",
+		// service: "GoDaddy", // Doesn't work, but full config (below) does
 		host: "smtpout.secureserver.net",
 		port: 465,
 		secure:true,
@@ -10,8 +10,8 @@ exports.handler = async (event) => {
 			user: process.env.FROM_EMAIL,
 			pass: process.env.FROM_PASS
 		},
-		debug: true, // show debug output
-  	logger: true // log information in console
+		// debug: true, // show debug output
+  	// logger: true // log information in console
 	});
 
 	// verify connection configuration
@@ -36,6 +36,8 @@ exports.handler = async (event) => {
 	if (data.type === "Sign up") {
 		toEmail = process.env.EMAIL_SIGNUP;
 		messageText = `
+This is an automated message. Please email info@bluemoonorganics.com for any questions.
+
 Type: ${data.type}
 Name: ${data.fullName}
 Phone: ${data.phone}
@@ -51,6 +53,8 @@ Promo code: ${data.promoCode}
 		// type is substitution
 		toEmail = process.env.EMAIL_SUBS;
 		messageText = `
+This is an automated message. Please email info@bluemoonorganics.com for any questions.
+
 Type: ${data.type}
 Name: ${data.fullName}
 Phone: ${data.phone}
