@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **June 1st – June 5 / 2020**
+#### **June 29th – July 3rd / 2020**
 
 ### Regular Box ($38.00)
 
-* 4 Gala Apples  wa
-* 4 Bananas  equ
-* 2 Navel Oranges cal
-* 1 Cantaloupe Melon  mex
-* 1 Field Cucumber  mex
-* 1 Green Butter Lettuce  BC
-* Rainbow Chard  BC
-* 1pint Red Grape Tomatoes  mex
-* 2 Avocados mex
-* Red Bunched Beets  cal
-* Bunch of Italian Parsley  cal
+* 3 Apples Cripps Pink cl
+* 4 Bananas mex
+* 1 Mango Ataulfo mex
+* 3 Pears Bosc cl
+* Green Leaf Lettuce BC
+* 1 Field Cucumber mex
+* Celery cal
+* 1.5lb White Potatoes BC
+* Collard BC
+* Garlic Scape BC
 
 ### Fruit Box ($38.00)
 
-* 6 Gala Apples wa
-* 6 Bananas mex
-* 1.25lb Yellow Nectarines  cal
-* 4 Navel Oranges cal
-* 6oz Blackberries mex
-* 3 D'Anjou Pears  arg
-* 1 Cantaloupe Melon  mex
+* 4 Apples Cripps Pink   cl
+* 5 Bananas   mex
+* 1lb Plums Red  cal
+* 1 Galia Melon   mx
+* 2lbs Red seedless Grapes   mx
+* 1lb Yellow Nectarines  cal
+* 1 Ataulfo Mango   mx
+* 3 Bosc Pears   ar
 
 ***
 
@@ -42,32 +42,36 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 If your changes bring your order to more than $38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
 
+[Click here for substitutions](/substitutions "Click here for substitutions")
+
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
-* Yellow Onions wa -  $2.99 / lb
-* Ginger  peru -  $6.75 / 8oz
-* Green Onions cal -  $2.25 / bunch
+* Yellow Onions -  $2.99 / lb
+* Garlic  cal - $7.99/83oz
+* Nugget Potatoes BC - $3.75/ lb
+* Galia Melon - $4.99/ each
 * Yams  cal -  $3.99 /lb
-* White Whole Mushrooms BC -  $3.50 / 227gr
-* Carrots cal -  $5.99 / 2lb bag
-* Artichoke cal -  $2.99 / each
-* Yellow Potatoes cal -  $3.50 / lb
+* Red Plums  cal - $3.99/ lb
+* Mushroom BC -  $3.80 / 227gr
 * Avocados mex -  $8.50 / 3pack
-* Blackberries mex -  4.99 / 6oz
-* Lemons cal -  $3.99 / lb
-* Pears D’Anjou arg -  $1.70 / each
-* Black Plums cal - $5.50 / lb
-* Yellow Nectarines cal - $5.99 / lb
-* Mini seedless Watermelon mex - $5.99 / each
+* Portabella Mushrooms BC - $5.99 / 2 caps
+* Carrots  cal - $6.50 / 2lb
+* Red Grapes  cal - $8.99 / 2lb
+* Roma Tomatoes mx - $5.25 / lb
+* Lemons  cal - $3.99 / lb
+* Cherries BC - $14.99 / 1.5lb
+* Nectarines cal - $4.99 / lb
+* Apricots cal - $7.35 / lb
 
 ### Weekly Specials
 
-* Red Grape Tomatoes $4.90/ pint
-* Satsuma Mandarins cal $4.45/ lb
-* Cauliflower cal $5.99/ each
-* Brussel Sprouts cal $8.99/ lb
-* Blackberries mex $5.55/ 6oz
-* Lemons cal $2.99/ lb
+* Red Plums   cal   $3.99 / lb
+* Yellow Nectarines   cal    $4.99 / lb
+* Carrots   cal    $6.50 / 2lb bag
+* Red seedless Grapes   cal   $8.99 / 2lb
+* Apricots  cal   $7.50 / lb
+* Avocados  mex  $8.50 / 3pack
+* CHERRIES  BC  $14.99 / 1.5lbs
 
 ***
 
