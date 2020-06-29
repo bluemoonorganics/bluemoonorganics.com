@@ -14,16 +14,16 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ### Regular Box ($38.00)
 
+* 3 Apples Cripps Pink cl
+* 4 Bananas mex
+* 1 Mango Ataulfo mex
+* 3 Pears Bosc cl
 * Green Leaf Lettuce BC
 * 1 Field Cucumber mex
 * Celery cal
 * 1.5lb White Potatoes BC
 * Collard BC
 * Garlic Scape BC
-* 3 Apples Cripps Pink cl
-* 4 Bananas mex
-* 1 Mango Ataulfo mex
-* 3 Pears Bosc cl
 
 ### Fruit Box ($38.00)
 
@@ -42,9 +42,11 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 If your changes bring your order to more than $38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
 
+[Click here for substitutions](/substitutions "Click here for substitutions")
+
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
-* Yellow Onions wa -  $2.99 / lb
+* Yellow Onions -  $2.99 / lb
 * Garlic  cal - $7.99/83oz
 * Nugget Potatoes BC - $3.75/ lb
 * Galia Melon - $4.99/ each
