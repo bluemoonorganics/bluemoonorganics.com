@@ -7,8 +7,7 @@
 		</p>
 		<div v-if="success" class="panel--success">
 			<p>
-				Thank you for signing up! We will be in touch with you shortly. You
-				should receive an email with the information you provided.
+				Thank you for signing up! We will be in touch with you shortly. 
 			</p>
 		</div>
 		<div v-else-if="error" class="panel--error">
