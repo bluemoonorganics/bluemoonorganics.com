@@ -6,7 +6,10 @@
 			Sign-up form and we will contact you to confirm your first delivery date.
 		</p>
 		<div v-if="success" class="panel--success">
-			<p>Thank you for signing up! We will be in touch with you shortly. You should receive an email with the information you provided.</p>
+			<p>
+				Thank you for signing up! We will be in touch with you shortly. You
+				should receive an email with the information you provided.
+			</p>
 		</div>
 		<div v-else-if="error" class="panel--error">
 			<p>

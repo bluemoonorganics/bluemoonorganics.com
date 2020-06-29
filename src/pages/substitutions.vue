@@ -2,7 +2,10 @@
 	<div>
 		<h1>Substitutions</h1>
 		<div v-if="success" class="panel--success">
-			<p>Substitution submitted successfully. You should receive an email with the information you provided.</p>
+			<p>
+				Substitution submitted successfully. You should receive an email with
+				the information you provided.
+			</p>
 		</div>
 		<div v-else-if="error" class="panel--error">
 			<p>

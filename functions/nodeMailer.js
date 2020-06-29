@@ -1,17 +1,17 @@
 const nodemailer = require("nodemailer");
 
-exports.handler = async (event) => {
-	const transporter  = nodemailer.createTransport({
+exports.handler = async event => {
+	const transporter = nodemailer.createTransport({
 		// service: "GoDaddy", // Doesn't work, but full config (below) does
 		host: "smtpout.secureserver.net",
 		port: 465,
-		secure:true,
+		secure: true,
 		auth: {
 			user: process.env.FROM_EMAIL,
 			pass: process.env.FROM_PASS
-		},
+		}
 		// debug: true, // show debug output
-  	// logger: true // log information in console
+		// logger: true // log information in console
 	});
 
 	// verify connection configuration
@@ -23,7 +23,9 @@ exports.handler = async (event) => {
 		}
 	});
 
-	let data = JSON.parse(event.body).payload ? JSON.parse(event.body).payload : JSON.parse(event.body);
+	let data = JSON.parse(event.body).payload
+		? JSON.parse(event.body).payload
+		: JSON.parse(event.body);
 
 	if (data.captcha.length > 0) {
 		return {
@@ -83,17 +85,17 @@ Comments: ${data.comments}
 	};
 
 	try {
-		console.log("sending message")
-		await transporter.sendMail(msg)
-		console.log("message sent")
+		console.log("sending message");
+		await transporter.sendMail(msg);
+		console.log("message sent");
 		return {
 			statusCode: 200,
 			body: "OK"
-		}
+		};
 	} catch (error) {
 		return {
 			statusCode: error.code,
 			body: error.message
-		}
+		};
 	}
 };
