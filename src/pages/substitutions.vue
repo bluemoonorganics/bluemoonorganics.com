@@ -16,7 +16,7 @@
 		<form v-else @submit.prevent="submit">
 			<label for="fullName">Full name*</label>
 			<input
-				v-model="fullName"
+				v-model="formData.fullName"
 				placeholder="John Appleseed"
 				type="text"
 				name="fullName"
@@ -25,7 +25,7 @@
 
 			<label for="phone">Phone number*</label>
 			<input
-				v-model="phone"
+				v-model="formData.phone"
 				placeholder="123-123-1234"
 				type="tel"
 				name="phone"
@@ -34,7 +34,7 @@
 
 			<label for="address1">Address - line 1*</label>
 			<input
-				v-model="address1"
+				v-model="formData.address1"
 				placeholder="502 Infinite Way"
 				type="text"
 				name="address1"
@@ -43,7 +43,7 @@
 
 			<label for="address2">Address - line 2</label>
 			<input
-				v-model="address2"
+				v-model="formData.address2"
 				placeholder="Unit 15"
 				type="text"
 				name="address2"
@@ -51,7 +51,7 @@
 
 			<label for="city">City*</label>
 			<input
-				v-model="city"
+				v-model="formData.city"
 				placeholder="Coquitlam"
 				type="text"
 				name="city"
@@ -60,7 +60,7 @@
 
 			<label for="email">Email address*</label>
 			<input
-				v-model="email"
+				v-model="formData.email"
 				placeholder="john@appleseed.com"
 				type="email"
 				name="email"
@@ -69,7 +69,7 @@
 
 			<label for="deliveryDay">Delivery day*</label>
 			<input
-				v-model="deliveryDay"
+				v-model="formData.deliveryDay"
 				placeholder="Monday"
 				type="text"
 				name="deliveryDay"
@@ -79,7 +79,7 @@
 			<label>Box type*</label>
 			<input
 				id="regularBox"
-				v-model="boxType"
+				v-model="formData.boxType"
 				type="radio"
 				name="boxType"
 				value="Regular box"
@@ -89,7 +89,7 @@
 
 			<input
 				id="fruitBox"
-				v-model="boxType"
+				v-model="formData.boxType"
 				type="radio"
 				name="boxType"
 				value="Fruit box"
@@ -97,18 +97,18 @@
 			<label class="radio" for="fruitBox">Fruit box</label>
 
 			<label for="itemsToRemove">Items to remove</label>
-			<textarea v-model="itemsToRemove" name="itemsToRemove" />
+			<textarea v-model="formData.itemsToRemove" name="itemsToRemove" />
 
 			<label for="itemsToAdd">Items to add</label>
-			<textarea v-model="itemsToAdd" name="itemsToAdd" />
+			<textarea v-model="formData.itemsToAdd" name="itemsToAdd" />
 
 			<label for="comments">Comments</label>
-			<textarea v-model="comments" name="comments" />
+			<textarea v-model="formData.comments" name="comments" />
 
 			<!-- the following input is a honeypot -->
 			<p id="captcha">
 				If you're human, don't fill this out:
-				<input v-model="captcha" type="text" />
+				<input v-model="formData.captcha" type="text" />
 			</p>
 
 			<button>Submit</button>
@@ -120,53 +120,57 @@ export default {
 	metaInfo: {
 		title: "Substitutions"
 	},
+	mounted: function() {
+		if (sessionStorage.getItem("substitutionData")) this.formData = JSON.parse(sessionStorage.getItem("substitutionData"));
+	},
 	data() {
 		return {
-			fullName: "",
-			phone: "",
-			email: "",
-			address1: "",
-			address2: "",
-			city: "",
-			deliveryDay: "",
-			boxType: "",
-			itemsToRemove: "",
-			itemsToAdd: "",
-			comments: "",
-			captcha: "",
 			success: false,
-			error: false
+			error: false,
+			formData: {
+				type: "Substitution",
+				fullName: "",
+				phone: "",
+				email: "",
+				address1: "",
+				address2: "",
+				city: "",
+				deliveryDay: "",
+				boxType: "",
+				itemsToRemove: "",
+				itemsToAdd: "",
+				comments: "",
+				captcha: "",
+			}
 		};
+	},
+	watch: {
+		formData: {
+			deep: true,
+			handler() {
+				sessionStorage.setItem("substitutionData", JSON.stringify(this.formData));
+				console.log("formData changed - written to sessionStorage");
+				console.log(JSON.parse(sessionStorage.getItem("substitutionData")));
+			}
+		}
 	},
 	methods: {
 		submit() {
 			console.log("Submitting...");
-			let data = {
-				type: "Substitution",
-				fullName: this.fullName,
-				phone: this.phone,
-				email: this.email,
-				address1: this.address1,
-				address2: this.address2,
-				city: this.city,
-				deliveryDay: this.deliveryDay,
-				boxType: this.boxType,
-				itemsToRemove: this.itemsToRemove,
-				itemsToAdd: this.itemsToAdd,
-				comments: this.comments,
-				captcha: this.captcha
-			};
 			fetch("/.netlify/functions/nodeMailer", {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json"
 				},
-				body: JSON.stringify(data)
+				body: JSON.stringify(this.formData)
 			})
 				.then(response => {
 					if (response.status == 200) {
 						this.success = true;
+						console.log("Submission successful");
+						sessionStorage.removeItem("substitutionData");
 					} else {
+						console.error("Submission error");
 						if (response.status == 400) {
 							this.error = true;
 						}
