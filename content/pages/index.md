@@ -10,31 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **June 29th – July 3rd / 2020**
+#### **July 6th – July 10th / 2020**
 
 ### Regular Box ($38.00)
 
 * 3 Apples Cripps Pink cl
 * 4 Bananas mex
-* 1 Mango Ataulfo mex
-* 3 Pears Bosc cl
+* 1 Melon Cantaloupe cal
+* 1lb Red Plums  cal
 * Green Leaf Lettuce BC
 * 1 Field Cucumber mex
-* Celery cal
+* Bunched Carrots cal
 * 1.5lb White Potatoes BC
-* Collard BC
-* Garlic Scape BC
+* Daikon  cal
+* White Mushrooms BC
 
 ### Fruit Box ($38.00)
 
-* 4 Apples Cripps Pink   cl
+* 5 Apples Cripps Pink   cl
 * 5 Bananas   mex
 * 1lb Plums Red  cal
-* 1 Galia Melon   mx
-* 2lbs Red seedless Grapes   mx
+* 1 Cantaloupe Melon  cal
+* 6oz Raspberries   mx
 * 1lb Yellow Nectarines  cal
-* 1 Ataulfo Mango   mx
-* 3 Bosc Pears   ar
+* 1lb Blueberries  BC
 
 ***
 
@@ -46,32 +45,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
-* Yellow Onions -  $2.99 / lb
+* Yellow Onions -  $3.25 / lb
 * Garlic  cal - $7.99/83oz
-* Nugget Potatoes BC - $3.75/ lb
-* Galia Melon - $4.99/ each
-* Yams  cal -  $3.99 /lb
-* Red Plums  cal - $3.99/ lb
-* Mushroom BC -  $3.80 / 227gr
-* Avocados mex -  $8.50 / 3pack
-* Portabella Mushrooms BC - $5.99 / 2 caps
-* Carrots  cal - $6.50 / 2lb
+* Broccolini BC - $7.99/bunch
+* Cauliflower  cal - $7.99/ each
+* Yams  cal -  $4.35 /lb
+* Tomatoes  BC - $7.99/ lb
+* Green Onions  cal -  $2.50 / bunch
+* Avocados mex -  $8.25 / 3pack
+* Fennel  cal - $5.55 / each
+* Celery  cal - $4.45 / each
 * Red Grapes  cal - $8.99 / 2lb
-* Roma Tomatoes mx - $5.25 / lb
-* Lemons  cal - $3.99 / lb
-* Cherries BC - $14.99 / 1.5lb
+* Raspberries mx - $5.55 / 6oz
+* Apricots cal - $5.99 / lb
 * Nectarines cal - $4.99 / lb
-* Apricots cal - $7.35 / lb
+* BLUEBERRIES  BC - $9.99 / lb
 
 ### Weekly Specials
 
-* Red Plums   cal   $3.99 / lb
-* Yellow Nectarines   cal    $4.99 / lb
-* Carrots   cal    $6.50 / 2lb bag
+* Broccolini  BC   $7.99 / bunch
+* Tomatoes  BC    $7.99 / lb
+* Blueberries  BC  $9.99 / lb
 * Red seedless Grapes   cal   $8.99 / 2lb
-* Apricots  cal   $7.50 / lb
+* Apricots  cal   $5.99 / lb
 * Avocados  mex  $8.50 / 3pack
-* CHERRIES  BC  $14.99 / 1.5lbs
+* Fennel  cal  $5.55 / each
 
 ***
 
