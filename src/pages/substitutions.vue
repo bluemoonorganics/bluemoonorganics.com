@@ -149,8 +149,6 @@ export default {
 			deep: true,
 			handler() {
 				sessionStorage.setItem("substitutionData", JSON.stringify(this.formData));
-				console.log("formData changed - written to sessionStorage");
-				console.log(JSON.parse(sessionStorage.getItem("substitutionData")));
 			}
 		}
 	},
