@@ -43,6 +43,8 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 [Click here for substitutions](/substitutions "Click here for substitutions")
 
+### Extras
+
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
 * Yellow Onions -  $3.25 / lb

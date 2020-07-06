@@ -1,9 +1,12 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
-		<p>
-			{{ availableSubstitutions }}
-		</p>
+		<div v-if="extras && specials">
+			<h3>Extras</h3>
+			<div v-html="extras"></div>
+			<h3>Weekly specials</h3>
+			<div v-html="specials"></div>
+		</div>
 		<div v-if="success" class="panel--success">
 			<p>
 				Substitution submitted successfully. 
@@ -128,11 +131,19 @@ export default {
 		if (sessionStorage.getItem("substitutionData")) this.formData = JSON.parse(sessionStorage.getItem("substitutionData"));
 	},
 	computed: {
-		availableSubstitutions: function() {
+		extras: function() {
 			var parser = new DOMParser();
 			var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-			let available = htmlDoc.getElementsByTagName("ul")[2]
-			return available
+			let extrasList = htmlDoc.getElementById("extras").nextElementSibling
+			//TODO check if its a list
+			return extrasList.outerHTML
+		},
+		specials: function() {
+			var parser = new DOMParser();
+			var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
+			let specialsList = htmlDoc.getElementById("weekly-specials").nextElementSibling
+			//TODO check if its a list
+			return specialsList.outerHTML
 		}
 	},
 	data() {
