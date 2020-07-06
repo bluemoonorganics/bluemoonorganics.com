@@ -1,11 +1,15 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
-		<div v-if="extras && specials">
+		<div id="extras-specials" v-if="extras && specials">
+			<div>
 			<h3>Extras</h3>
 			<div v-html="extras"></div>
+			</div>
+			<div>
 			<h3>Weekly specials</h3>
 			<div v-html="specials"></div>
+			</div>
 		</div>
 		<div v-if="success" class="panel--success">
 			<p>
