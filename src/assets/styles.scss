@@ -227,6 +227,14 @@ textarea {
 	font-weight: bold;
 }
 
+#extras-specials {
+	display: flex;
+	justify-content: space-between;
+	div {
+		flex: 1 0 50%;
+	}
+}
+
 @media all and (max-width: 792px) {
 	.navbar {
 		.navbar-brand {
@@ -269,5 +277,12 @@ textarea {
 
 	.mobile-menu {
 		display: inherit;
+	}
+
+	#extras-specials {
+		flex-direction: column;
+		div {
+			flex: 1 0 100%;
+		}
 	}
 }

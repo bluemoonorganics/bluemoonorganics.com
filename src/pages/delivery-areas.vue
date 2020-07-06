@@ -53,13 +53,13 @@ export default {
 </script>
 
 <static-query>
-	query {
-		allDeliveryArea(sortBy: "title", order: ASC) {
-			edges {
-				node {
-					title
-				}
+query {
+	allDeliveryArea(sortBy: "title", order: ASC) {
+		edges {
+			node {
+				title
 			}
 		}
 	}
+}
 </static-query>
