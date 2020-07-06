@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
-		<div v-if="extras && specials" id="extras-specials">
+		<div v-show="extras && specials" id="extras-specials">
 			<div>
 				<h3>Extras</h3>
 				<div v-html="extras"></div>
@@ -11,19 +11,19 @@
 				<div v-html="specials"></div>
 			</div>
 		</div>
-		<div v-if="success" class="panel--success">
+		<div v-show="success" class="panel--success">
 			<p>
 				Substitution submitted successfully.
 			</p>
 		</div>
-		<div v-else-if="error" class="panel--error">
+		<div v-show="error" class="panel--error">
 			<p>
 				An error occurred: Submission was marked as spam. Please email
 				<a href="mailto:info@bluemoonorganics.com">info@bluemoonorganics.com</a>
 				directly.
 			</p>
 		</div>
-		<form v-else @submit.prevent="submit">
+		<form v-show="!success && !error" @submit.prevent="submit">
 			<label for="fullName">Full name*</label>
 			<input
 				v-model="formData.fullName"
