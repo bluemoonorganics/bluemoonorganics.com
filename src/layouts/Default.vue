@@ -49,14 +49,15 @@
 								<g-link class="nav__link" to="/pet-food/">Pet Food</g-link
 								><g-link class="nav__link" to="/faq/">FAQ</g-link>
 								<a
-class="nav__link"
+									class="nav__link"
 									rel="noopener"
 									target="_blank"
 									href="https://www.facebook.com/organicsfrombluemoon"
 								>
 									Facebook
 								</a>
-								<a class="nav__link"
+								<a
+									class="nav__link"
 									rel="noopener"
 									target="_blank"
 									href="https://www.instagram.com/bluemoonorganic/"
@@ -118,16 +119,16 @@ export default {
 </script>
 
 <static-query>
-	query {
-		metadata {
-			siteName
-		}
-		allDeliveryArea(sortBy: "title", order: ASC) {
-			edges {
-				node {
-					title
-				}
+query {
+	metadata {
+		siteName
+	}
+	allDeliveryArea(sortBy: "title", order: ASC) {
+		edges {
+			node {
+				title
 			}
 		}
 	}
+}
 </static-query>

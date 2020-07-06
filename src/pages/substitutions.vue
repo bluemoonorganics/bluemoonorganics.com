@@ -1,19 +1,19 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
-		<div id="extras-specials" v-if="extras && specials">
+		<div v-if="extras && specials" id="extras-specials">
 			<div>
-			<h3>Extras</h3>
-			<div v-html="extras"></div>
+				<h3>Extras</h3>
+				<div v-html="extras"></div>
 			</div>
 			<div>
-			<h3>Weekly specials</h3>
-			<div v-html="specials"></div>
+				<h3>Weekly specials</h3>
+				<div v-html="specials"></div>
 			</div>
 		</div>
 		<div v-if="success" class="panel--success">
 			<p>
-				Substitution submitted successfully. 
+				Substitution submitted successfully.
 			</p>
 		</div>
 		<div v-else-if="error" class="panel--error">
@@ -131,37 +131,6 @@ export default {
 	metaInfo: {
 		title: "Substitutions"
 	},
-	mounted: function() {
-		if (sessionStorage.getItem("substitutionData")) this.formData = JSON.parse(sessionStorage.getItem("substitutionData"));
-	},
-	computed: {
-		extras: function() {
-			if (process.isClient) {
-				try {
-					var parser = new DOMParser();
-					var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-					let extrasList = htmlDoc.getElementById("extras").nextElementSibling
-					//TODO check if its a list
-					return extrasList.outerHTML
-				} catch (error) {
-					console.error(error)
-				}
-			}
-		},
-		specials: function() {
-			if (process.isClient) {
-				try {
-					var parser = new DOMParser();
-					var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-					let specialsList = htmlDoc.getElementById("weekly-specials").nextElementSibling
-					//TODO check if its a list
-					return specialsList.outerHTML
-				} catch (error) {
-					console.error(error) 
-				}
-			}
-		}
-	},
 	data() {
 		return {
 			success: false,
@@ -179,17 +148,59 @@ export default {
 				itemsToRemove: "",
 				itemsToAdd: "",
 				comments: "",
-				captcha: "",
+				captcha: ""
 			}
 		};
+	},
+	computed: {
+		extras: function() {
+			if (process.isClient) {
+				try {
+					var parser = new DOMParser();
+					var htmlDoc = parser.parseFromString(
+						this.$page.homePage.content,
+						"text/html"
+					);
+					let extrasList = htmlDoc.getElementById("extras").nextElementSibling;
+					//TODO check if its a list
+					return extrasList.outerHTML;
+				} catch (error) {
+					console.error(error);
+				}
+			}
+		},
+		specials: function() {
+			if (process.isClient) {
+				try {
+					var parser = new DOMParser();
+					var htmlDoc = parser.parseFromString(
+						this.$page.homePage.content,
+						"text/html"
+					);
+					let specialsList = htmlDoc.getElementById("weekly-specials")
+						.nextElementSibling;
+					//TODO check if its a list
+					return specialsList.outerHTML;
+				} catch (error) {
+					console.error(error);
+				}
+			}
+		}
 	},
 	watch: {
 		formData: {
 			deep: true,
 			handler() {
-				sessionStorage.setItem("substitutionData", JSON.stringify(this.formData));
+				sessionStorage.setItem(
+					"substitutionData",
+					JSON.stringify(this.formData)
+				);
 			}
 		}
+	},
+	mounted: function() {
+		if (sessionStorage.getItem("substitutionData"))
+			this.formData = JSON.parse(sessionStorage.getItem("substitutionData"));
 	},
 	methods: {
 		submit() {
@@ -223,9 +234,9 @@ export default {
 
 <page-query>
 query {
-  homePage: sitePage (path: "/") {
-    title
-    content
-  }
+	homePage: sitePage(path: "/") {
+		title
+		content
+	}
 }
 </page-query>
