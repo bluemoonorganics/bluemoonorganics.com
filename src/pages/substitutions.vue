@@ -132,18 +132,22 @@ export default {
 	},
 	computed: {
 		extras: function() {
-			var parser = new DOMParser();
-			var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-			let extrasList = htmlDoc.getElementById("extras").nextElementSibling
-			//TODO check if its a list
-			return extrasList.outerHTML
+			if (process.isClient) {
+				var parser = new DOMParser();
+				var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
+				let extrasList = htmlDoc.getElementById("extras").nextElementSibling
+				//TODO check if its a list
+				return extrasList.outerHTML
+			}
 		},
 		specials: function() {
-			var parser = new DOMParser();
-			var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-			let specialsList = htmlDoc.getElementById("weekly-specials").nextElementSibling
-			//TODO check if its a list
-			return specialsList.outerHTML
+			if (process.isClient) {
+				var parser = new DOMParser();
+				var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
+				let specialsList = htmlDoc.getElementById("weekly-specials").nextElementSibling
+				//TODO check if its a list
+				return specialsList.outerHTML
+			}
 		}
 	},
 	data() {
