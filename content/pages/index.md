@@ -49,8 +49,8 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 /5oz
 * Yellow Onions -  $3.25 / lb
 * Garlic  cal - $7.99/83oz
-* Broccolini BC - $7.99/bunch
-* Cauliflower  cal - $7.99/ each
+* Broccolini BC - $7.99 / bunch
+* Cauliflower  cal - $7.99 / each
 * Yams  cal -  $4.35 /lb
 * Tomatoes  BC - $7.99/ lb
 * Green Onions  cal -  $2.50 / bunch

@@ -49,13 +49,14 @@
 								<g-link class="nav__link" to="/pet-food/">Pet Food</g-link
 								><g-link class="nav__link" to="/faq/">FAQ</g-link>
 								<a
+class="nav__link"
 									rel="noopener"
 									target="_blank"
 									href="https://www.facebook.com/organicsfrombluemoon"
 								>
 									Facebook
 								</a>
-								<a
+								<a class="nav__link"
 									rel="noopener"
 									target="_blank"
 									href="https://www.instagram.com/bluemoonorganic/"
