@@ -133,20 +133,28 @@ export default {
 	computed: {
 		extras: function() {
 			if (process.isClient) {
-				var parser = new DOMParser();
-				var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-				let extrasList = htmlDoc.getElementById("extras").nextElementSibling
-				//TODO check if its a list
-				return extrasList.outerHTML
+				try {
+					var parser = new DOMParser();
+					var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
+					let extrasList = htmlDoc.getElementById("extras").nextElementSibling
+					//TODO check if its a list
+					return extrasList.outerHTML
+				} catch (error) {
+					console.error(error)
+				}
 			}
 		},
 		specials: function() {
 			if (process.isClient) {
-				var parser = new DOMParser();
-				var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
-				let specialsList = htmlDoc.getElementById("weekly-specials").nextElementSibling
-				//TODO check if its a list
-				return specialsList.outerHTML
+				try {
+					var parser = new DOMParser();
+					var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
+					let specialsList = htmlDoc.getElementById("weekly-specials").nextElementSibling
+					//TODO check if its a list
+					return specialsList.outerHTML
+				} catch (error) {
+					console.error(error) 
+				}
 			}
 		}
 	},
