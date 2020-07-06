@@ -18,6 +18,7 @@
 
 				<div class="navbar-menu" @click="closeMobileMenu">
 					<div class="navbar-end">
+						<g-link class="nav__link" to="/">Home</g-link>
 						<g-link class="nav__link" to="/about/">About</g-link>
 						<g-link class="nav__link" to="/contact/">Contact</g-link>
 						<g-link class="nav__link" to="/substitutions/">
@@ -47,14 +48,6 @@
 								<g-link class="nav__link" to="/groceries/">Groceries</g-link>
 								<g-link class="nav__link" to="/pet-food/">Pet Food</g-link
 								><g-link class="nav__link" to="/faq/">FAQ</g-link>
-							</div>
-						</div>
-
-						<div class="navbar-item has-dropdown is-hoverable nav__link">
-							<a class="navbar-link">
-								Social ▾
-							</a>
-							<div class="navbar-dropdown">
 								<a
 									rel="noopener"
 									target="_blank"
