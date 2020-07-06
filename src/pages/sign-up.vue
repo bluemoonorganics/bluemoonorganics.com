@@ -5,19 +5,19 @@
 			Thank you for your interest in Blue Moon Organics. Please complete the
 			Sign-up form and we will contact you to confirm your first delivery date.
 		</p>
-		<div v-if="success" class="panel--success">
+		<div v-show="success" class="panel--success">
 			<p>
 				Thank you for signing up! We will be in touch with you shortly.
 			</p>
 		</div>
-		<div v-else-if="error" class="panel--error">
+		<div v-show="error" class="panel--error">
 			<p>
 				An error occurred: Submission was marked as spam. Please email
 				<a href="mailto:info@bluemoonorganics.com">info@bluemoonorganics.com</a>
 				directly.
 			</p>
 		</div>
-		<form v-else @submit.prevent="submit">
+		<form v-show="!success && !error" @submit.prevent="submit">
 			<label for="fullName">Full name*</label>
 			<input
 				v-model="formData.fullName"
