@@ -1,6 +1,9 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
+		<p>
+			{{ availableSubstitutions }}
+		</p>
 		<div v-if="success" class="panel--success">
 			<p>
 				Substitution submitted successfully. 
@@ -115,6 +118,7 @@
 		</form>
 	</div>
 </template>
+
 <script>
 export default {
 	metaInfo: {
@@ -122,6 +126,14 @@ export default {
 	},
 	mounted: function() {
 		if (sessionStorage.getItem("substitutionData")) this.formData = JSON.parse(sessionStorage.getItem("substitutionData"));
+	},
+	computed: {
+		availableSubstitutions: function() {
+			var parser = new DOMParser();
+			var htmlDoc = parser.parseFromString(this.$page.homePage.content, 'text/html');
+			let available = htmlDoc.getElementsByTagName("ul")[2]
+			return available
+		}
 	},
 	data() {
 		return {
@@ -181,3 +193,12 @@ export default {
 	}
 };
 </script>
+
+<page-query>
+query {
+  homePage: sitePage (path: "/") {
+    title
+    content
+  }
+}
+</page-query>
