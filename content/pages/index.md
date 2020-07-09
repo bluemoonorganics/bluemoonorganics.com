@@ -10,30 +10,29 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 6th – July 10th / 2020**
+#### **July 13th – July 17th / 2020**
 
 ### Regular Box ($38.00)
 
 * 3 Apples Cripps Pink cl
 * 4 Bananas mex
-* 1 Melon Cantaloupe cal
+* 3 White Nectarines cal
 * 1lb Red Plums  cal
 * Green Leaf Lettuce BC
-* 1 Field Cucumber mex
-* Bunched Carrots cal
+* Green Kale BC
+* Green Onions cal
 * 1.5lb White Potatoes BC
-* Daikon  cal
-* White Mushrooms BC
+* Red Bunched Beets cal
+* Bok Choy BC
 
 ### Fruit Box ($38.00)
 
 * 5 Apples Cripps Pink   cl
 * 5 Bananas   mex
-* 1lb Plums Red  cal
-* 1 Cantaloupe Melon  cal
-* 6oz Raspberries   mx
-* 1lb Yellow Nectarines  cal
-* 1lb Blueberries  BC
+* 1.25lb Plums Red  cal
+* 1lb Blueberries BC
+* 1.25lb Apricots cal
+* 5 White Nectarines  cal
 
 ***
 
@@ -49,29 +48,28 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 /5oz
 * Yellow Onions -  $3.25 / lb
 * Garlic  cal - $7.99/83oz
-* Broccolini BC - $7.99 / bunch
-* Cauliflower  cal - $7.99 / each
-* Yams  cal -  $4.35 /lb
-* Tomatoes  BC - $7.99/ lb
-* Green Onions  cal -  $2.50 / bunch
-* Avocados mex -  $8.25 / 3pack
-* Fennel  cal - $5.55 / each
-* Celery  cal - $4.45 / each
-* Red Grapes  cal - $8.99 / 2lb
-* Raspberries mx - $5.55 / 6oz
-* Apricots cal - $5.99 / lb
-* Nectarines cal - $4.99 / lb
-* BLUEBERRIES  BC - $9.99 / lb
+* Field Cucumber cal - $2.50 / each
+* Cauliflower  BC - $5.99 / each
+* Yams  cal -  $4.50 /lb
+* Red Grape Tomatoes  mx - $4.99/ pint
+* Carrots  cal -  $5.99 / 2lb bag
+* Celery cal -  $3.99 / each
+* Mushrooms White BC - $3.80 / 227gr
+* Avocados mx - $7.99 / 3pack
+* Kiwis NZ - $6.99 / lb
+* Apricots cal - $5.55 / lb
+* Blueberries BC - $9.99 / lb
+* BLUEBERRIES BC - $37.50 / 5lb box
 
 ### Weekly Specials
 
-* Broccolini  BC   $7.99 / bunch
-* Tomatoes  BC    $7.99 / lb
+* Cauliflower  BC   $5.99 / each
+* Red Grape Tomatoes mx   $4.99 / pint
 * Blueberries  BC  $9.99 / lb
-* Red seedless Grapes   cal   $8.99 / 2lb
-* Apricots  cal   $5.99 / lb
-* Avocados  mex  $8.50 / 3pack
-* Fennel  cal  $5.55 / each
+* Kiwis NZ   $6.99 / lb
+* Apricots  cal   $5.55 / lb
+* Avocados  mex  $7.99 / 3pack
+* BLUEBERRIES BC  $37.50 / 5lb box
 
 ***
 
