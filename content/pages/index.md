@@ -49,7 +49,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 /5oz
 * Yellow Onions cal -  $3.25 / lb
 * Garlic  cal - $7.99/83oz
-* Persian Mini Cucumber  C - $8.99 / 6pack
+* Persian Mini Cukes BC - $8.99/6pack
 * Cauliflower BC - $5.99 / each
 * Broccoli cal - $7.99 / each
 * Yams cal -  $4.50 /lb
