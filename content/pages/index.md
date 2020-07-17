@@ -2,7 +2,7 @@
 title: Home
 
 ---
-Discover the convenience of having fresh Certified Organic Fruits and Vegetables delivered right to your home. A local family business since 1997, Blue Moon Organics delivers fresh 100% Certified Organic Fruits and Vegetables right to your home. We delivery to Anmore, Burnaby, Belcarra, Coquitlam, Langley, Port Coquitlam, Port Moody, Pitt Meadows, New Westminster, Maple Ridge and Mission and East Surrey.
+Discover the convenience of having fresh Certified Organic Fruits and Vegetables delivered right to your home. A local family business since 1997, Blue Moon Organics delivers fresh 100% Certified Organic Fruits and Vegetables right to your home. We delivery to Anmore, Aldergrove, Burnaby, Belcarra, Coquitlam, Langley, Port Coquitlam, Port Moody, Pitt Meadows, New Westminster, Maple Ridge, Mission and East Surrey.
 
 [Call Blue Moon Organics](/contact) today, or [**SIGN UP**](/sign-up) right now!
 
@@ -10,29 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 13th – July 17th / 2020**
+#### **July 20th – July 24th / 2020**
 
 ### Regular Box ($38.00)
 
-* 3 Apples Cripps Pink cl
+* 3 Apples Red Delicious cl
 * 4 Bananas mex
-* 3 White Nectarines cal
-* 1lb Red Plums  cal
+* 2 White Nectarines cal
+* 1 Mango Kent  mx
 * Green Leaf Lettuce BC
-* Green Kale BC
+* Green Chard BC
 * Green Onions cal
 * 1.5lb White Potatoes BC
-* Red Bunched Beets cal
-* Bok Choy BC
+* Fennel cal
+* Celery  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Apples Cripps Pink   cl
+* 5 Apples Red Delicious   cl
 * 5 Bananas   mex
-* 1.25lb Plums Red  cal
+* 1lb Plums Red  cal
 * 1lb Blueberries BC
-* 1.25lb Apricots cal
-* 5 White Nectarines  cal
+* 1lb Apricots cal
+* 3 White Nectarines  cal
+* 3 Kiwis  nz
 
 ***
 
@@ -46,29 +47,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
-* Yellow Onions -  $3.25 / lb
+* Yellow Onions cal -  $3.25 / lb
 * Garlic  cal - $7.99/83oz
-* Field Cucumber cal - $2.50 / each
-* Cauliflower  BC - $5.99 / each
-* Yams  cal -  $4.50 /lb
-* Red Grape Tomatoes  mx - $4.99/ pint
-* Carrots  cal -  $5.99 / 2lb bag
-* Celery cal -  $3.99 / each
+* Persian Mini Cucumber  C - $8.99 / 6pack
+* Cauliflower BC - $5.99 / each
+* Broccoli cal - $7.99 / each
+* Yams cal -  $4.50 /lb
+* Red Grape Tomatoes mx - $5.55 / pint
+* Carrots cal -  $5.99 / 2lb bag
 * Mushrooms White BC - $3.80 / 227gr
 * Avocados mx - $7.99 / 3pack
-* Kiwis NZ - $6.99 / lb
-* Apricots cal - $5.55 / lb
+* Kiwis nz - $6.99 / lb
+* Red Plums cal - $3.99 / lb
+* Apricots BC - $5.99 / lb
+* Cherries BC - $14.99 / 1.5lb bag
 * Blueberries BC - $9.99 / lb
 * BLUEBERRIES BC - $37.50 / 5lb box
 
-### Weekly Specials
+### Weekly Specials from BC
 
 * Cauliflower  BC   $5.99 / each
-* Red Grape Tomatoes mx   $4.99 / pint
-* Blueberries  BC  $9.99 / lb
-* Kiwis NZ   $6.99 / lb
-* Apricots  cal   $5.55 / lb
-* Avocados  mex  $7.99 / 3pack
+* Persian Mini Cucumber  BC   $8.99 / 6 pack
+* Mushrooms White  BC  $3.80 / 227gr
+* CHERRIES BC   $14.99 / 1.5lb bag
+* Apricots BC   $5.99 / lb
+* Blueberries BC   $9.50 / lb
 * BLUEBERRIES BC  $37.50 / 5lb box
 
 ***
