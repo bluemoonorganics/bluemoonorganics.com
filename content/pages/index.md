@@ -10,28 +10,28 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 27th – July 31st / 2020**
+#### **August 3rd – August 7th / 2020**
 
 ### Regular Box ($38.00)
 
 * 3 Apples Red Delicious cl
 * 4 Bananas mex
-* 1lb Yellow Nectarines cal
+* 1lb Blueberries BC
 * 2 Mango Ataulfo  mx
 * Romaine Lettuce BC
-* 2 Green Bell Pepper mx
-* 1 Field Cucumber cal
-* 1.33lb small Yellow Potatoes cal
+* 1 Acorn Squash cal
+* 1 bunch of Green Onions cal
+* 1.5lb Yellow Potatoes BC
 * 227gr White Mushrooms BC
-* Celery  cal
+* 1lb Zucchini BC
 
 ### Fruit Box ($38.00)
 
-* 5 Apples Red Delicious   cl
+* 6 Apples Red Delicious   cl
 * 5 Bananas   mx
-* 2lb Apricots  BC
+* 1.5lb Apricots  BC
 * 1lb Blueberries BC
-* 2lbs Yellow Nectarines  cal
+* 4 Yellow Peaches BC
 * 2 Ataulfo Mango's  mx
 
 ***
@@ -49,26 +49,27 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Yellow Onions cal -  $3.25 / lb
 * Garlic  cal - $7.99/83oz
 * Red Cabbage cal - $2.85 / lb
-* Cauliflower Cheddar BC - $7.75 / each
-* Broccoli cal - $6.75 / each
+* Cauliflower BC - $5.99 / each
+* Broccoli cal - $5.99 / each
 * Yams cal -  $4.50 /lb
 * Red Grape Tomatoes mx - $5.30 / pint
 * Carrots cal -  $5.99 / 2lb bag
+* Field Cucumber BC  $4.75 / lb
 * Avocados mx - $7.99 / 3pack
 * Kiwis nz - $6.99 / lb
-* Peaches BC - $5.99 / lb
-* Apricots BC - $7.50 / 2lb bag
-* Cherries BC - $14.99 / 1.5lb bag
-* Blueberries BC - $8.99 / lb
+* Peaches BC - $1.70 / each
+* Apricots BC - $6.65 / lb
+* Cherries BC - $14.50 / 1.5lb bag
+* Pineapple cr - $6.75 / each
 * BLUEBERRIES BC - $37.50 / 5lb box
 
 ### Weekly Specials from BC
 
 * Cauliflower  BC   $5.99 / each
-* Peaches  BC   $5.99 / 6 pack
-* CHERRIES BC   $14.99 / 1.5lb bag
-* Apricots BC   $7.99 / 2lb bag
-* Blueberries BC   $8.99 / lb
+* Peaches  BC   $1.75 / each
+* CHERRIES BC   $14.50 / 1.5lb bag
+* Apricots BC   $6.65 / lb
+* Field Cucumber BC   $4.75 / lb
 * BLUEBERRIES BC  $37.50 / 5lb box
 
 ***
