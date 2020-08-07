@@ -10,29 +10,29 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **August 3rd – August 7th / 2020**
+#### **August 10th – August 14th / 2020**
 
 ### Regular Box ($38.00)
 
 * 3 Apples Red Delicious cl
 * 4 Bananas mex
-* 1lb Blueberries BC
-* 2 Mango Ataulfo  mx
+* 6oz Blueberries BC
+* 2 Peaches BC
 * Romaine Lettuce BC
-* 1 Acorn Squash cal
+* 1 Field Cucumber BC
 * 1 bunch of Green Onions cal
 * 1.5lb Yellow Potatoes BC
-* 227gr White Mushrooms BC
-* 1lb Zucchini BC
+* 1 Cauliflower cal
+* 1 Bunch of Rainbow Carrots cal
 
 ### Fruit Box ($38.00)
 
-* 6 Apples Red Delicious   cl
+* 5 Apples Red Delicious   cl
 * 5 Bananas   mx
-* 1.5lb Apricots  BC
+* 1lb Champagne Grapes cal
 * 1lb Blueberries BC
-* 4 Yellow Peaches BC
-* 2 Ataulfo Mango's  mx
+* 3 Yellow Peaches BC
+* 1 Kent Mango  mx
 
 ***
 
@@ -46,31 +46,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
-* Yellow Onions cal -  $3.25 / lb
+* Yellow Onions cal -  $2.99 / lb
 * Garlic  cal - $7.99/83oz
 * Red Cabbage cal - $2.85 / lb
-* Cauliflower BC - $5.99 / each
+* White Mushrooms BC - $3.80 / 227gr
 * Broccoli cal - $5.99 / each
 * Yams cal -  $4.50 /lb
 * Red Grape Tomatoes mx - $5.30 / pint
-* Carrots cal -  $5.99 / 2lb bag
-* Field Cucumber BC  $4.75 / lb
-* Avocados mx - $7.99 / 3pack
-* Kiwis nz - $6.99 / lb
-* Peaches BC - $1.70 / each
-* Apricots BC - $6.65 / lb
-* Cherries BC - $14.50 / 1.5lb bag
+* Acorn Squash cal -  $3.10 / lb
+* Avocados mx - $6.99 / 3pack
+* Mango Kent big mx - $4.25 / each
+* Champagne Grapes cal - $8.55 / lb
+* Lime cal - $4.85 / lb
 * Pineapple cr - $6.75 / each
+* Blueberries BC - $8.99 / lb
 * BLUEBERRIES BC - $37.50 / 5lb box
 
 ### Weekly Specials from BC
 
-* Cauliflower  BC   $5.99 / each
-* Peaches  BC   $1.75 / each
-* CHERRIES BC   $14.50 / 1.5lb bag
-* Apricots BC   $6.65 / lb
-* Field Cucumber BC   $4.75 / lb
-* BLUEBERRIES BC  $37.50 / 5lb box
+* Broccoli  cal   $5.99 / each
+* Champagne Grapes  cal   $8.55 / lb
+* Pineapple  cr   $6.75 / each
+* Red Grape Tomatoes  mx   $5.30 / pint
+* Persian Lime  mx   $4.85 / lb
+* BLUEBERRIES BC  $36.50 / 5lb box
 
 ***
 
