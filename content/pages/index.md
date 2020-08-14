@@ -10,29 +10,29 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **August 10th – August 14th / 2020**
+#### **August 17th – August 21st / 2020**
 
 ### Regular Box ($38.00)
 
-* 3 Apples Red Delicious cl
+* 3 Apples Pink Cripps cl
 * 4 Bananas mex
 * 6oz Blueberries BC
-* 2 Peaches BC
+* 1lb Peaches BC
 * Romaine Lettuce BC
-* 1 Field Cucumber BC
-* 1 bunch of Green Onions cal
+* 1 Celery ca
+* 1 bunch of Green Onions ca
 * 1.5lb Yellow Potatoes BC
-* 1 Cauliflower cal
-* 1 Bunch of Rainbow Carrots cal
+* 1 Broccoli ca
+* 1 Bunch of Red Beets BC
 
 ### Fruit Box ($38.00)
 
-* 5 Apples Red Delicious   cl
-* 5 Bananas   mx
+* 6 Apples Pink Cripps cl
+* 5 Bananas mx
 * 1lb Champagne Grapes cal
 * 1lb Blueberries BC
-* 3 Yellow Peaches BC
-* 1 Kent Mango  mx
+* 2lbs Yellow Peaches BC
+* 1 Kent Mango mx
 
 ***
 
@@ -48,28 +48,27 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 /5oz
 * Yellow Onions cal -  $2.99 / lb
 * Garlic  cal - $7.99/83oz
-* Red Cabbage cal - $2.85 / lb
+* Carrots cal - $6.45 / 2lb bag
 * White Mushrooms BC - $3.80 / 227gr
-* Broccoli cal - $5.99 / each
+* Cauliflower cal - $5.75 / each
 * Yams cal -  $4.50 /lb
 * Red Grape Tomatoes mx - $5.30 / pint
 * Acorn Squash cal -  $3.10 / lb
 * Avocados mx - $6.99 / 3pack
-* Mango Kent big mx - $4.25 / each
+* Mango Kent big mx - $2.90 / each
 * Champagne Grapes cal - $8.55 / lb
-* Lime cal - $4.85 / lb
-* Pineapple cr - $6.75 / each
-* Blueberries BC - $8.99 / lb
+* Lemon mx - $9.50 / 2lb bag
+* Blueberries BC - $9.50 / lb
 * BLUEBERRIES BC - $37.50 / 5lb box
 
 ### Weekly Specials from BC
 
-* Broccoli  cal   $5.99 / each
+* Cauliflower  cal   $5.75 / each
 * Champagne Grapes  cal   $8.55 / lb
-* Pineapple  cr   $6.75 / each
+* Avocado mx   $6.99 / 3ct bag
 * Red Grape Tomatoes  mx   $5.30 / pint
-* Persian Lime  mx   $4.85 / lb
-* BLUEBERRIES BC  $36.50 / 5lb box
+* Lemon  mx   $9.50 / 2lb bag
+* BLUEBERRIES BC  $37.50 / 5lb box
 
 ***
 
