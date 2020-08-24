@@ -177,7 +177,7 @@ export default {
 						this.$page.homePage.content,
 						"text/html"
 					);
-					let specialsList = htmlDoc.getElementById("weekly-specials")
+					let specialsList = htmlDoc.querySelector('[id^=weekly-specials]')
 						.nextElementSibling;
 					//TODO check if its a list
 					return specialsList.outerHTML;
