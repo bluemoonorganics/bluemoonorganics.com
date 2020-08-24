@@ -16,10 +16,10 @@ export default {
 </script>
 
 <page-query>
-	query SitePage($id: ID!) {
-		sitePage: sitePage(id: $id) {
-			title
-			content
-		}
+query SitePage($id: ID!) {
+	sitePage: sitePage(id: $id) {
+		title
+		content
 	}
+}
 </page-query>

@@ -5,19 +5,19 @@
 			Thank you for your interest in Blue Moon Organics. Please complete the
 			Sign-up form and we will contact you to confirm your first delivery date.
 		</p>
-		<div v-if="success" class="panel--success">
+		<div v-show="success" class="panel--success">
 			<p>
-				Thank you for signing up! We will be in touch with you shortly. 
+				Thank you for signing up! We will be in touch with you shortly.
 			</p>
 		</div>
-		<div v-else-if="error" class="panel--error">
+		<div v-show="error" class="panel--error">
 			<p>
 				An error occurred: Submission was marked as spam. Please email
 				<a href="mailto:info@bluemoonorganics.com">info@bluemoonorganics.com</a>
 				directly.
 			</p>
 		</div>
-		<form v-else @submit.prevent="submit">
+		<form v-show="!success && !error" @submit.prevent="submit">
 			<label for="fullName">Full name*</label>
 			<input
 				v-model="formData.fullName"
@@ -92,7 +92,12 @@
 			<label class="radio" for="everyotherweek">Every other week</label>
 
 			<label for="startDate">Start date*</label>
-			<input v-model="formData.startDate" type="date" name="startDate" required />
+			<input
+				v-model="formData.startDate"
+				type="date"
+				name="startDate"
+				required
+			/>
 
 			<label for="promocode">Promo code</label>
 			<input v-model="formData.promoCode" type="text" name="promoCode" />
@@ -113,9 +118,6 @@ export default {
 	metaInfo: {
 		title: "Sign up"
 	},
-	mounted: function() {
-		if (sessionStorage.getItem("signupData")) this.formData = JSON.parse(sessionStorage.getItem("signupData"));
-	},
 	data() {
 		return {
 			success: false,
@@ -131,7 +133,7 @@ export default {
 				email: "",
 				startDate: "",
 				promoCode: "",
-				captcha: "",
+				captcha: ""
 			}
 		};
 	},
@@ -142,6 +144,10 @@ export default {
 				sessionStorage.setItem("signupData", JSON.stringify(this.formData));
 			}
 		}
+	},
+	mounted: function() {
+		if (sessionStorage.getItem("signupData"))
+			this.formData = JSON.parse(sessionStorage.getItem("signupData"));
 	},
 	methods: {
 		submit() {

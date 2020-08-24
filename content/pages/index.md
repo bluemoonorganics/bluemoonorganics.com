@@ -2,7 +2,7 @@
 title: Home
 
 ---
-Discover the convenience of having fresh Certified Organic Fruits and Vegetables delivered right to your home. A local family business since 1997, Blue Moon Organics delivers fresh 100% Certified Organic Fruits and Vegetables right to your home. We delivery to Anmore, Burnaby, Belcarra, Coquitlam, Langley, Port Coquitlam, Port Moody, Pitt Meadows, New Westminster, Maple Ridge and Mission and East Surrey.
+Discover the convenience of having fresh Certified Organic Fruits and Vegetables delivered right to your home. A local family business since 1997, Blue Moon Organics delivers fresh 100% Certified Organic Fruits and Vegetables right to your home. We delivery to Anmore, Aldergrove, Burnaby, Belcarra, Coquitlam, Langley, Port Coquitlam, Port Moody, Pitt Meadows, New Westminster, Maple Ridge, Mission and East Surrey.
 
 [Call Blue Moon Organics](/contact) today, or [**SIGN UP**](/sign-up) right now!
 
@@ -10,30 +10,29 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 6th – July 10th / 2020**
+#### **August 17th – August 21st / 2020**
 
 ### Regular Box ($38.00)
 
-* 3 Apples Cripps Pink cl
+* 3 Apples Pink Cripps cl
 * 4 Bananas mex
-* 1 Melon Cantaloupe cal
-* 1lb Red Plums  cal
-* Green Leaf Lettuce BC
-* 1 Field Cucumber mex
-* Bunched Carrots cal
-* 1.5lb White Potatoes BC
-* Daikon  cal
-* White Mushrooms BC
+* 6oz Blueberries BC
+* 1lb Peaches BC
+* Romaine Lettuce BC
+* 1 Celery ca
+* 1 bunch of Green Onions ca
+* 1.5lb Yellow Potatoes BC
+* 1 Broccoli ca
+* 1 Bunch of Red Beets BC
 
 ### Fruit Box ($38.00)
 
-* 5 Apples Cripps Pink   cl
-* 5 Bananas   mex
-* 1lb Plums Red  cal
-* 1 Cantaloupe Melon  cal
-* 6oz Raspberries   mx
-* 1lb Yellow Nectarines  cal
-* 1lb Blueberries  BC
+* 6 Apples Pink Cripps cl
+* 5 Bananas mx
+* 1lb Champagne Grapes cal
+* 1lb Blueberries BC
+* 2lbs Yellow Peaches BC
+* 1 Kent Mango mx
 
 ***
 
@@ -47,31 +46,29 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 /5oz
-* Yellow Onions -  $3.25 / lb
+* Yellow Onions cal -  $2.99 / lb
 * Garlic  cal - $7.99/83oz
-* Broccolini BC - $7.99 / bunch
-* Cauliflower  cal - $7.99 / each
-* Yams  cal -  $4.35 /lb
-* Tomatoes  BC - $7.99/ lb
-* Green Onions  cal -  $2.50 / bunch
-* Avocados mex -  $8.25 / 3pack
-* Fennel  cal - $5.55 / each
-* Celery  cal - $4.45 / each
-* Red Grapes  cal - $8.99 / 2lb
-* Raspberries mx - $5.55 / 6oz
-* Apricots cal - $5.99 / lb
-* Nectarines cal - $4.99 / lb
-* BLUEBERRIES  BC - $9.99 / lb
+* Carrots cal - $6.45 / 2lb bag
+* White Mushrooms BC - $3.80 / 227gr
+* Cauliflower cal - $5.75 / each
+* Yams cal -  $4.50 /lb
+* Red Grape Tomatoes mx - $5.30 / pint
+* Acorn Squash cal -  $3.10 / lb
+* Avocados mx - $6.99 / 3pack
+* Mango Kent big mx - $2.90 / each
+* Champagne Grapes cal - $8.55 / lb
+* Lemon mx - $9.50 / 2lb bag
+* Blueberries BC - $9.50 / lb
+* BLUEBERRIES BC - $37.50 / 5lb box
 
-### Weekly Specials
+### Weekly Specials from BC
 
-* Broccolini  BC   $7.99 / bunch
-* Tomatoes  BC    $7.99 / lb
-* Blueberries  BC  $9.99 / lb
-* Red seedless Grapes   cal   $8.99 / 2lb
-* Apricots  cal   $5.99 / lb
-* Avocados  mex  $8.50 / 3pack
-* Fennel  cal  $5.55 / each
+* Cauliflower  cal   $5.75 / each
+* Champagne Grapes  cal   $8.55 / lb
+* Avocado mx   $6.99 / 3ct bag
+* Red Grape Tomatoes  mx   $5.30 / pint
+* Lemon  mx   $9.50 / 2lb bag
+* BLUEBERRIES BC  $37.50 / 5lb box
 
 ***
 
