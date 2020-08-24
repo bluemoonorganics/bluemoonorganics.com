@@ -177,7 +177,9 @@ export default {
 						this.$page.homePage.content,
 						"text/html"
 					);
-					let specialsList = htmlDoc.getElementById("weekly-specials")
+					// match any element where the id starts with weekly-specials
+					// so both weekly-specials and weekly-specials-from-bc will work
+					let specialsList = htmlDoc.querySelector('[id^=weekly-specials]') 
 						.nextElementSibling;
 					//TODO check if its a list
 					return specialsList.outerHTML;
