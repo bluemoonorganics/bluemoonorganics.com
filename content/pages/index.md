@@ -43,10 +43,9 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Blueberries BC - $9.50 / lb
 * BLUEBERRIES BC - $37.50 / 5lb box
 
-### Weekly Specials from BC
+### Weekly Specials 
 
 * Cauliflower  cal   $5.75 / each
-* Champagne Grapes  cal   $8.55 / lb
 * Avocado mx   $6.99 / 3ct bag
 * Red Grape Tomatoes  mx   $5.30 / pint
 * Lemon  mx   $9.50 / 2lb bag
