@@ -10,29 +10,11 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **August 17th – August 21st / 2020**
+#### **We are closed from Aug 24th to Aug 28th, resuming deliveries August 31st / 2020**
 
 ### Regular Box ($38.00)
 
-* 3 Apples Pink Cripps cl
-* 4 Bananas mex
-* 6oz Blueberries BC
-* 1lb Peaches BC
-* Romaine Lettuce BC
-* 1 Celery ca
-* 1 bunch of Green Onions ca
-* 1.5lb Yellow Potatoes BC
-* 1 Broccoli ca
-* 1 Bunch of Red Beets BC
-
 ### Fruit Box ($38.00)
-
-* 6 Apples Pink Cripps cl
-* 5 Bananas mx
-* 1lb Champagne Grapes cal
-* 1lb Blueberries BC
-* 2lbs Yellow Peaches BC
-* 1 Kent Mango mx
 
 ***
 
