@@ -34,7 +34,7 @@ exports.handler = async event => {
 	}
 	let messageText;
 	let toEmail;
-	if (data.type === "Sign up") {
+	if (data.type === "Signup") {
 		toEmail = process.env.EMAIL_SIGNUP;
 		messageText = `
 Type: ${data.type}
