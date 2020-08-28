@@ -10,9 +10,20 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **We are closed from Aug 24th to Aug 28th, resuming deliveries August 31st / 2020**
+#### **from Aug 31st to September 4th / 2020**
 
 ### Regular Box ($38.00)
+
+* 1lb Italian Plums  BC
+* 4 Bananas  ec
+* 3 Sunshine Apples  BC
+* 3 Yellow Peaches  BC
+* 1lb Roma Tomatoes  wa
+* Romaine Lettuce  BC
+* 1lb Zucchini  BC
+* 1.5lb Yellow Potatoes  BC
+* 1 Cauliflower  nv
+* Green Kale  BC
 
 ### Fruit Box ($38.00)
 
@@ -43,7 +54,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Blueberries BC - $9.50 / lb
 * BLUEBERRIES BC - $37.50 / 5lb box
 
-### Weekly Specials 
+### Weekly Specials
 
 * Cauliflower  cal   $5.75 / each
 * Avocado mx   $6.99 / 3ct bag
