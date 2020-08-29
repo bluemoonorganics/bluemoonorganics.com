@@ -27,6 +27,14 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ### Fruit Box ($38.00)
 
+* 5 Sunshine Apples  BC
+* 5 Bananas  ec
+* 1lb Thomcord Grapes  cal
+* 1lb Italian Plums  BC
+* 1lb Blueberries  BC
+* 4 Peaches  BC
+* 3 Bartlett Pears  was
+
 ***
 
 ## Extras for purchase or substitutions
@@ -38,29 +46,32 @@ If your changes bring your order to more than $38.00 we will email you and confi
 ### Extras
 
 * Spring Mix cal  -  $6.99 / 5oz
-* Baby Spinach cal  -  $6.99 /5oz
+* Baby Spinach cal  -  $6.99 / 5oz
 * Yellow Onions cal -  $2.99 / lb
-* Garlic  cal - $7.99/83oz
+* Garlic  cal - $3.99 / each
 * Carrots cal - $6.45 / 2lb bag
 * White Mushrooms BC - $3.80 / 227gr
-* Cauliflower cal - $5.75 / each
+* Broccoli cal - $6.99 / each
 * Yams cal -  $4.50 /lb
-* Red Grape Tomatoes mx - $5.30 / pint
-* Acorn Squash cal -  $3.10 / lb
+* Bi-colored Corn - BC - $1.45 / each
+* Acorn Squash - cal  $3.10 / lb
+* Field Cucumber - BC  $3.45 / lb
+* Fennel - BC  $5.99 / each 
 * Avocados mx - $6.99 / 3pack
-* Mango Kent big mx - $2.90 / each
-* Champagne Grapes cal - $8.55 / lb
-* Lemon mx - $9.50 / 2lb bag
-* Blueberries BC - $9.50 / lb
-* BLUEBERRIES BC - $37.50 / 5lb box
+* Cantaloupe Melon BC - $2.50 / lb
+* Thomcord Grapes cal - $6.99 / lb
+* Lemon mx -  $9.50 / 2lb bag
+* Blueberries - BC  $9.99 / lb
+* Bartlett Pears - was  $3.75 / lb
 
 ### Weekly Specials
 
-* Cauliflower  cal   $5.75 / each
+* Cantaloupe Melon  BC   $2.50 / lb
 * Avocado mx   $6.99 / 3ct bag
-* Red Grape Tomatoes  mx   $5.30 / pint
-* Lemon  mx   $9.50 / 2lb bag
-* BLUEBERRIES BC  $37.50 / 5lb box
+* Bi-color Corn  BC   $1.40 / each
+* Fennel  BC   $5.99 / each
+* Field Cucumber  BC   $3.45 / lb 
+* BLUEBERRIES BC  $9.99 / lb
 
 ***
 
