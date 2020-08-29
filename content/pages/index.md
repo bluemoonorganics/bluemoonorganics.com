@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from Aug 31st to September 4th / 2020**
+#### **from August 31st to September 4th / 2020**
 
 ### Regular Box ($38.00)
 
