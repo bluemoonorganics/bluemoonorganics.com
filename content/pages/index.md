@@ -10,29 +10,29 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from August 31st to September 4th / 2020**
+#### **from September 7th to 11th / 2020**
 
 ### Regular Box ($38.00)
 
 * 1lb Italian Plums  BC
 * 4 Bananas  ec
 * 3 Sunshine Apples  BC
-* 3 Yellow Peaches  BC
-* 1lb Roma Tomatoes  wa
-* Romaine Lettuce  BC
+* 2 Yellow Peaches  BC
+* 1 Romanesco Broccoli cal
+* Green Leaf Lettuce  BC
 * 1lb Zucchini  BC
 * 1.5lb Yellow Potatoes  BC
-* 1 Cauliflower  nv
-* Green Kale  BC
+* 1 Cauliflower  cal
+* Red Radishes  BC
 
 ### Fruit Box ($38.00)
 
 * 5 Sunshine Apples  BC
 * 5 Bananas  ec
-* 1lb Thomcord Grapes  cal
+* 2lb Red seedless Grapes  cal
 * 1lb Italian Plums  BC
-* 1lb Blueberries  BC
-* 4 Peaches  BC
+* 1 Mini Watermelon  BC
+* 3 Peaches  BC
 * 3 Bartlett Pears  was
 
 ***
@@ -49,29 +49,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 / 5oz
 * Yellow Onions cal -  $2.99 / lb
 * Garlic  cal - $3.99 / each
-* Carrots cal - $6.45 / 2lb bag
+* Carrots cal - $5.99 / 2lb bag
 * White Mushrooms BC - $3.80 / 227gr
-* Broccoli cal - $6.99 / each
-* Yams cal -  $4.50 /lb
-* Bi-colored Corn - BC - $1.45 / each
-* Acorn Squash - cal  $3.10 / lb
-* Field Cucumber - BC  $3.45 / lb
-* Fennel - BC  $5.99 / each 
+* Celery cal - $3.99 / each
+* Field Tomatoes  BC -  $5.75 /lb
+* Red Bell Pepper  mx - $5.99 / lb
+* Spaghetti Squash  BC  $2.85 / lb
+* Yams cal -  $4.50 / lb
 * Avocados mx - $6.99 / 3pack
-* Cantaloupe Melon BC - $2.50 / lb
-* Thomcord Grapes cal - $6.99 / lb
-* Lemon mx -  $9.50 / 2lb bag
+* Bartlett Pears was - $0.99 / each
+* Mini Watermelon BC - $2.55 / lb
+* Red seedless Grapes cal - $9.99 / 2lb bag
+* Lemon mx -  $4.75 / lb
 * Blueberries - BC  $9.99 / lb
-* Bartlett Pears - was  $3.75 / lb
+* Peaches Freestone BC - $55.00 / 18lb box
 
 ### Weekly Specials
 
-* Cantaloupe Melon  BC   $2.50 / lb
+* Mini Watermelon  BC   $2.55 / lb
 * Avocado mx   $6.99 / 3ct bag
-* Bi-color Corn  BC   $1.40 / each
-* Fennel  BC   $5.99 / each
-* Field Cucumber  BC   $3.45 / lb 
-* BLUEBERRIES BC  $9.99 / lb
+* Field Tomatoes  BC   $5.75 / lb
+* Spaghetti Squash  BC   $2.85 / lb
+* Red Bell Pepper  mx   $5.99 / lb
+* Blueberries BC  $9.99 / lb
+* Peaches Freestone  BC  $55.00 / 18lb box
 
 ***
 
