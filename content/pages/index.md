@@ -10,30 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from September 14th to 18th / 2020**
+#### **from September 21st to 25th / 2020**
 
 ### Regular Box ($38.00)
 
 * 3 Bartlett Pears  BC
 * 4 Bananas  ec
-* 4 Akane Apples  BC
-* 2 Yellow Peaches  BC
-* Bunched Red Beets  BC
+* 4 Gala Apples  BC
+* 1lb Black Plums   cal
+* Celery   cal
 * Green Leaf Lettuce  BC
-* Bunch of Green Onions  cal
+* Bunch of Black Kale   BC
 * 1.5lb Yellow Potatoes  BC
-* 1 Cauliflower  cal
-* 1lb Field Tomatoes  BC
+* 2 Yellow Onions   was
+* 2 Field Tomatoes  BC
+* 1 Field Cucumber   BC
 
 ### Fruit Box ($38.00)
 
-* 5 Akane Apples  BC
+* 5 Gala Apples  BC
 * 5 Bananas  ec
-* 1lb Gold Kiwis   nz
-* 1lb Italian Plums  BC
-* 1 Mini Watermelon  BC
-* 4 Peaches  BC
-* 3 Bartlett Pears  BC
+* 4 Gold Kiwis   nz
+* 1lb Black Plums  cal
+* 1 Cantaloupe Melon  BC
+* 2lb Black seedless Grapes   cal
+* 1 Keith Mango   mex
 
 ***
 
@@ -47,32 +48,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
-* Yellow Onions cal -  $2.99 / lb
 * Garlic  cal - $3.99 / each
 * Carrots cal - $5.75 / 2lb bag
 * White Mushrooms BC - $3.80 / 227gr
-* Romanesco Broccoli cal - $6.75 / each
-* Field Cucumber  BC -  $3.75 /lb
+* Yams cal - $4.50 / lb
+* Fennel  BC -  $4.99 / each
 * Kohlrabi   BC - $4.99 / each
-* Spaghetti Squash  BC  $2.85 / lb
-* Yams cal -  $4.50 / lb
+* Oranghetti Squash  BC  $2.85 / lb
+* Green Bell Pepper   BC -  $5.75 / lb
 * Avocados mx - $6.99 / 3pack
-* Italian Plums  BC - $3.50 / lb
-* Mini Watermelon BC - $2.75 / lb
-* Green seedless Grapes cal - $9.99 / 2lb bag
-* Lemon mx -  $4.75 / lb
+* Cantaloupe Melon  BC - $2.35 / lb
+* Mango Keith   mex - $2.99 / each
+* Black seedless Grapes cal - $9.99 / 2lb bag
+* Lemon mx -  $4.50 / lb
 * Gold Kiwis   nz - $6.99 / lb
-* Peaches Freestone BC - $55.00 / 18lb box
 
 ### Weekly Specials
 
-* Mini seedless Watermelon BC   $2.75 / lb
+* Cantaloupe Melon BC   $2.35 / lb
 * Avocado mx   $6.99 / 3ct bag
 * Kohlrabi  BC   $4.99 / each
-* Spaghetti Squash  BC   $2.85 / lb
-* Italian Plums  BC   $3.50 / lb
-* Gold Kiwis  nz   $6.99 / lb
-* Peaches Freestone  BC  $55.00 / 18lb box
+* Oranghetti Squash  BC   $2.85 / lb
+* Fennel  BC   $4.99 / each
+* Green Bell Pepper   BC   $5.75 / lb
+*  Gold Kiwis   nz    $6.99 / lb
 
 ***
 
