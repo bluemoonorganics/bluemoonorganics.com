@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from September 21st to 25th / 2020**
+#### **from Sept 28th to Oct 2nd / 2020**
 
 ### Regular Box ($38.00)
 
@@ -19,12 +19,12 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Gala Apples  BC
 * 1lb Black Plums   cal
 * Celery   cal
-* Green Leaf Lettuce  BC
-* Bunch of Black Kale   BC
-* 1.5lb Yellow Potatoes  BC
-* 2 Yellow Onions   was
+* Endive or Frisee Lettuce  cal
+* Bunch of Collard Greens   BC
+* 1.5lb Red Potatoes  BC
+* 1 bunch of Green Onions  cal
 * 2 Field Tomatoes  BC
-* 1 Field Cucumber   BC
+* 1 or 2 Green Bell Pepper  cal
 
 ### Fruit Box ($38.00)
 
@@ -32,9 +32,9 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 5 Bananas  ec
 * 4 Gold Kiwis   nz
 * 1lb Black Plums  cal
-* 1 Cantaloupe Melon  BC
+* 1 Yellow Watermelon  BC
 * 2lb Black seedless Grapes   cal
-* 1 Keith Mango   mex
+* 1lb Lemons   mex
 
 ***
 
@@ -49,15 +49,17 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $3.99 / each
-* Carrots cal - $5.75 / 2lb bag
+* Ginger  peru - $5.25 / half lb
+* Yellow Onions was - $2.505 / lb
 * White Mushrooms BC - $3.80 / 227gr
 * Yams cal - $4.50 / lb
-* Fennel  BC -  $4.99 / each
-* Kohlrabi   BC - $4.99 / each
+* Carrots   cal -  $5.75 / 2lb bag
+* Field Cucumber  mx - $3.99 / lb
 * Oranghetti Squash  BC  $2.85 / lb
-* Green Bell Pepper   BC -  $5.75 / lb
+* Red Cabbage  BC -  $2.85 / lb
+* Bunched Rapini  cal - $6.75 / bunch
 * Avocados mx - $6.99 / 3pack
-* Cantaloupe Melon  BC - $2.35 / lb
+* Yellow Watermelon  BC - $2.50 / lb
 * Mango Keith   mex - $2.99 / each
 * Black seedless Grapes cal - $9.99 / 2lb bag
 * Lemon mx -  $4.50 / lb
@@ -65,13 +67,13 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 ### Weekly Specials
 
-* Cantaloupe Melon BC   $2.35 / lb
+* Yellow Watermelon BC   $2.50 / lb
 * Avocado mx   $6.99 / 3ct bag
-* Kohlrabi  BC   $4.99 / each
+* Red Cabbage BC   $2.85 / lb
 * Oranghetti Squash  BC   $2.85 / lb
-* Fennel  BC   $4.99 / each
-* Green Bell Pepper   BC   $5.75 / lb
-*  Gold Kiwis   nz    $6.99 / lb
+* Bunched Rapini   cal   $6.75 / bunch
+* Yellow Ginger  peru   $5.25 / half a lb
+* Gold Kiwis   nz    $6.99 / lb
 
 ***
 
