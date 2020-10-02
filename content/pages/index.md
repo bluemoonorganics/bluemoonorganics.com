@@ -10,31 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from Sept 28th to Oct 2nd / 2020**
+#### **from  October 5th to 9th / 2020**
 
 ### Regular Box ($38.00)
 
-* 3 Bartlett Pears  BC
+* 4 Bartlett Pears  BC
 * 4 Bananas  ec
 * 4 Gala Apples  BC
-* 1lb Black Plums   cal
-* Celery   cal
-* Endive or Frisee Lettuce  cal
-* Bunch of Collard Greens   BC
-* 1.5lb Red Potatoes  BC
+* 1lb Kiwis   chile
+* Red Bunched Beets   BC
+* Red Butter Lettuce  cal
+* Bunch of Arugula   cal
+* 1.5lb Yellow Potatoes  BC
 * 1 bunch of Green Onions  cal
-* 2 Field Tomatoes  BC
-* 1 or 2 Green Bell Pepper  cal
+* 2 Field Cucumber  mx
 
 ### Fruit Box ($38.00)
 
 * 5 Gala Apples  BC
 * 5 Bananas  ec
-* 4 Gold Kiwis   nz
-* 1lb Black Plums  cal
-* 1 Yellow Watermelon  BC
-* 2lb Black seedless Grapes   cal
-* 1lb Lemons   mex
+* 1lb Kiwis  chl
+* 1.5lb Grapefruit Ruby/Pink  cal
+* 1 Mini seedless Watermelon  was
+* 2lb Red seedless Grapes   cal
+* 1lb Limes   mex
 
 ***
 
@@ -50,30 +49,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $3.99 / each
 * Ginger  peru - $5.25 / half lb
-* Yellow Onions was - $2.505 / lb
+* Yellow Onions was - $2.50 / lb
 * White Mushrooms BC - $3.80 / 227gr
 * Yams cal - $4.50 / lb
 * Carrots   cal -  $5.75 / 2lb bag
-* Field Cucumber  mx - $3.99 / lb
-* Oranghetti Squash  BC  $2.85 / lb
+* Field Tomatoes   BC - $4.50 / lb
+* Delicata Squash  BC  $2.85 / lb
 * Red Cabbage  BC -  $2.85 / lb
-* Bunched Rapini  cal - $6.75 / bunch
+* Broccolette  cal - $6.99 / bunch
 * Avocados mx - $6.99 / 3pack
-* Yellow Watermelon  BC - $2.50 / lb
-* Mango Keith   mex - $2.99 / each
-* Black seedless Grapes cal - $9.99 / 2lb bag
-* Lemon mx -  $4.50 / lb
-* Gold Kiwis   nz - $6.99 / lb
+* Mini seedless Watermelon  was - $6.99 / each
+* Red Plums   cal - $3.75 / lb
+* Red seedless Grapes cal - $9.99 / 2lb bag
+* Lime mx -  $3.99 / lb
+* Grapefruit Ruby/Pink   cal - $2.99 / lb
 
 ### Weekly Specials
 
-* Yellow Watermelon BC   $2.50 / lb
+* Mini seedless Watermelon was   $6.99 / each
 * Avocado mx   $6.99 / 3ct bag
-* Red Cabbage BC   $2.85 / lb
-* Oranghetti Squash  BC   $2.85 / lb
-* Bunched Rapini   cal   $6.75 / bunch
+* Celery  cal    $4.50 / eachlb
+* Delicata Squash  BC   $2.85 / lb
+* Broccolette   cal   $6.99 / bunch
 * Yellow Ginger  peru   $5.25 / half a lb
-* Gold Kiwis   nz    $6.99 / lb
+* Grapefruit Ruby/Pink   cal    $2.99 / lb
 
 ***
 
