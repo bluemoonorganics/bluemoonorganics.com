@@ -10,30 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  October 5th to 9th / 2020**
+#### **from  October 12th to 16th / 2020**
 
 ### Regular Box ($38.00)
 
-* 4 Bartlett Pears  BC
+* 1lb President Plums  BC
 * 4 Bananas  ec
-* 4 Gala Apples  BC
-* 1lb Kiwis   chile
-* Red Bunched Beets   BC
-* Red Butter Lettuce  cal
-* Bunch of Arugula   cal
+* 4 Elstar Apples  BC
+* 2 Grapefruit Ruby/Pink  cal
+* Red Bunched Carrots  cal
+* Red Leaf Lettuce  cal
+* Bunch of Green Kale  BC
 * 1.5lb Yellow Potatoes  BC
-* 1 bunch of Green Onions  cal
-* 2 Field Cucumber  mx
+* 1.25lb Yams  cal
+* 1 Field Cucumber  mx
 
 ### Fruit Box ($38.00)
 
-* 5 Gala Apples  BC
+* 5 Elstar Apples  BC
 * 5 Bananas  ec
 * 1lb Kiwis  chl
-* 1.5lb Grapefruit Ruby/Pink  cal
-* 1 Mini seedless Watermelon  was
+* 2 Grapefruit Ruby/Pink  cal
+* 1 Cantaloupe Melon  cal
 * 2lb Red seedless Grapes   cal
-* 1lb Limes   mex
+* 1lb Bartlett Pears  BC
+* 1lb President Plums  BC
 
 ***
 
@@ -47,32 +48,32 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
-* Garlic  cal - $3.99 / each
-* Ginger  peru - $5.25 / half lb
+* Garlic  cal - $3.99/each 2 for $4.99
+* Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
 * White Mushrooms BC - $3.80 / 227gr
-* Yams cal - $4.50 / lb
+* Red Bell Pepper  mx - $4.99 / lb
 * Carrots   cal -  $5.75 / 2lb bag
 * Field Tomatoes   BC - $4.50 / lb
 * Delicata Squash  BC  $2.85 / lb
-* Red Cabbage  BC -  $2.85 / lb
+* Celery  cal -  $4.25 / each
 * Broccolette  cal - $6.99 / bunch
 * Avocados mx - $6.99 / 3pack
-* Mini seedless Watermelon  was - $6.99 / each
-* Red Plums   cal - $3.75 / lb
+* Cantaloupe Melon  cal - $4.75 / each
+* Bartlett Pears  BC - $2.75 / lb
 * Red seedless Grapes cal - $9.99 / 2lb bag
 * Lime mx -  $3.99 / lb
-* Grapefruit Ruby/Pink   cal - $2.99 / lb
+* Kiwis   cl - $4.99 / lb
 
 ### Weekly Specials
 
-* Mini seedless Watermelon was   $6.99 / each
+* Cantaloupe Melon cal   $4.75 / each
 * Avocado mx   $6.99 / 3ct bag
-* Celery  cal    $4.50 / eachlb
+* Celery  cal    $4.25 / each
 * Delicata Squash  BC   $2.85 / lb
 * Broccolette   cal   $6.99 / bunch
-* Yellow Ginger  peru   $5.25 / half a lb
-* Grapefruit Ruby/Pink   cal    $2.99 / lb
+* Yellow Ginger  peru   $5.99 / half a lb
+* Lime   cal    $3.99 / lb
 
 ***
 
