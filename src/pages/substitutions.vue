@@ -1,10 +1,14 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
-		<div v-show="extras && specials" id="extras-specials">
+		<div v-show="regular && fruit && specials" id="extras-specials">
 			<div>
-				<h3>Extras</h3>
-				<div v-html="extras"></div>
+				<h3>Regular Box</h3>
+				<div v-html="regular"></div>
+			</div>
+			<div>
+				<h3>Fruit Box</h3>
+				<div v-html="fruit"></div>
 			</div>
 			<div>
 				<h3>Weekly specials</h3>
@@ -153,7 +157,7 @@ export default {
 		};
 	},
 	computed: {
-		extras: function() {
+		regular: function() {
 			if (process.isClient) {
 				try {
 					var parser = new DOMParser();
@@ -161,9 +165,27 @@ export default {
 						this.$page.homePage.content,
 						"text/html"
 					);
-					let extrasList = htmlDoc.getElementById("extras").nextElementSibling;
 					//TODO check if its a list
-					return extrasList.outerHTML;
+					let regularBox = htmlDoc.querySelector('[id^=regular-box]') 
+						.nextElementSibling;
+					return regularBox.outerHTML;
+				} catch (error) {
+					console.error(error);
+				}
+			}
+		},
+		fruit: function() {
+			if (process.isClient) {
+				try {
+					var parser = new DOMParser();
+					var htmlDoc = parser.parseFromString(
+						this.$page.homePage.content,
+						"text/html"
+					);
+					//TODO check if its a list
+					let fruitBox = htmlDoc.querySelector('[id^=fruit-box]') 
+						.nextElementSibling;
+					return fruitBox.outerHTML;
 				} catch (error) {
 					console.error(error);
 				}
