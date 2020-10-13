@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<h1>Substitutions</h1>
-		<div v-show="regular && fruit && specials" id="extras-specials">
+		<div v-show="regular && fruit && extras" id="extras-specials">
 			<div>
 				<h3>Regular Box</h3>
 				<div v-html="regular"></div>
@@ -11,8 +11,8 @@
 				<div v-html="fruit"></div>
 			</div>
 			<div>
-				<h3>Weekly specials</h3>
-				<div v-html="specials"></div>
+				<h3>Extras</h3>
+				<div v-html="extras"></div>
 			</div>
 		</div>
 		<div v-show="success" class="panel--success">
@@ -191,7 +191,7 @@ export default {
 				}
 			}
 		},
-		specials: function() {
+		extras: function() {
 			if (process.isClient) {
 				try {
 					var parser = new DOMParser();
@@ -201,10 +201,10 @@ export default {
 					);
 					// match any element where the id starts with weekly-specials
 					// so both weekly-specials and weekly-specials-from-bc will work
-					let specialsList = htmlDoc.querySelector('[id^=weekly-specials]') 
+					let extrasList = htmlDoc.getElementById('extras') 
 						.nextElementSibling;
 					//TODO check if its a list
-					return specialsList.outerHTML;
+					return extrasList.outerHTML;
 				} catch (error) {
 					console.error(error);
 				}
