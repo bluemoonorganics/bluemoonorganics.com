@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  October 12th to 16th / 2020**
+#### **from  October 19th to 23rd / 2020**
 
 ### Regular Box ($38.00)
 
-* 1lb President Plums  BC
+* 1 Cantaloupe Melon  cal
 * 4 Bananas  ec
-* 4 Elstar Apples  BC
-* 2 Grapefruit Ruby/Pink  cal
-* Red Bunched Carrots  cal
-* Red Leaf Lettuce  cal
-* Bunch of Green Kale  BC
+* 4 Ambrosia Apples  BC
+* 3 Bartlett Pears  BC
+* Celery  cal
+* Red Butter Lettuce  cal
+* Bunch of Mustard Greens  cal
 * 1.5lb Yellow Potatoes  BC
-* 1.25lb Yams  cal
-* 1 Field Cucumber  mx
+* 1 Delicata Squash  BC
+* Italian Parsley  cal
+* 2 Green Bell Pepper  BC
 
 ### Fruit Box ($38.00)
 
-* 5 Elstar Apples  BC
+* 5 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 1lb Kiwis  chl
 * 2 Grapefruit Ruby/Pink  cal
 * 1 Cantaloupe Melon  cal
 * 2lb Red seedless Grapes   cal
-* 1lb Bartlett Pears  BC
-* 1lb President Plums  BC
+* 4 Bartlett Pears  BC
+* 1 Pomegranate  cal
 
 ***
 
@@ -52,27 +53,26 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
 * White Mushrooms BC - $3.80 / 227gr
-* Red Bell Pepper  mx - $4.99 / lb
-* Carrots   cal -  $5.75 / 2lb bag
+* Yams cal - $3.50 / lb
+* Carrots  BC -  $5.75 / 2lb bag
 * Field Tomatoes   BC - $4.50 / lb
-* Delicata Squash  BC  $2.85 / lb
-* Celery  cal -  $4.25 / each
-* Broccolette  cal - $6.99 / bunch
+* Artichoke  cal  $3.65 / each
+* Red Cabbage  cal -  $6.50 / each
 * Avocados mx - $6.99 / 3pack
-* Cantaloupe Melon  cal - $4.75 / each
-* Bartlett Pears  BC - $2.75 / lb
+* Pomegranate  cal - $3.99 / each
+* Grapefruit Ruby/Pink  cal - $1.75 / each
 * Red seedless Grapes cal - $9.99 / 2lb bag
 * Lime mx -  $3.99 / lb
 * Kiwis   cl - $4.99 / lb
 
 ### Weekly Specials
 
-* Cantaloupe Melon cal   $4.75 / each
-* Avocado mx   $6.99 / 3ct bag
-* Celery  cal    $4.25 / each
-* Delicata Squash  BC   $2.85 / lb
-* Broccolette   cal   $6.99 / bunch
-* Yellow Ginger  peru   $5.99 / half a lb
+* Carrots from BC   $5.75 / 2lb bag
+* Artichoke  cal   $3.65 / each
+* Red Cabbage  cal    $6.50 / each
+* Avocado  mx   $6.99 / 3pack
+* Pomegrante   cal   $3.99 / bunch
+* Red seedless Grapes  cal   $9.99 / 2lb bag
 * Lime   cal    $3.99 / lb
 
 ***
