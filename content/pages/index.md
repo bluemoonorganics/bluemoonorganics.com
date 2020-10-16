@@ -24,7 +24,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 1.5lb Yellow Potatoes  BC
 * 1 Delicata Squash  BC
 * Italian Parsley  cal
-* 2 Green Bell Pepper  BC
+* 1 Field Cucumber  cal
 
 ### Fruit Box ($38.00)
 
