@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  October 19th to 23rd / 2020**
+#### **from  October 26th to 30th / 2020**
 
 ### Regular Box ($38.00)
 
 * 1 Cantaloupe Melon  cal
 * 4 Bananas  ec
-* 4 Ambrosia Apples  BC
+* 4 Gala Apples  BC
 * 3 Bartlett Pears  BC
 * Celery  cal
 * Red Butter Lettuce  cal
-* Bunch of Mustard Greens  cal
+* Bunch Red Beets  cal
 * 1.5lb Yellow Potatoes  BC
 * 1 Delicata Squash  BC
-* Italian Parsley  cal
-* 1 Field Cucumber  cal
+* 227gr White Mushrooms  BC
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Ambrosia Apples  BC
+* 4 Gala Apples  BC
 * 5 Bananas  ec
-* 1lb Kiwis  chl
+* 4 Kiwis  cal
 * 2 Grapefruit Ruby/Pink  cal
 * 1 Cantaloupe Melon  cal
-* 2lb Red seedless Grapes   cal
-* 4 Bartlett Pears  BC
+* 2lb Green seedless Grapes   cal
+* 3 Bartlett Pears  BC
 * 1 Pomegranate  cal
 
 ***
@@ -52,28 +52,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
-* White Mushrooms BC - $3.80 / 227gr
+* Cauliflower  cal - $6.50 / each big
+* Brussel Sprouts  mx - $7.75 / lb
 * Yams cal - $3.50 / lb
-* Carrots  BC -  $5.75 / 2lb bag
-* Field Tomatoes   BC - $4.50 / lb
-* Artichoke  cal  $3.65 / each
+* Carrots  BC -  $5.99 / 2lb bag
+* Roma Tomatoes   BC - $4.99 / lb
+* Artichoke  cal  $3.50 / each
 * Red Cabbage  cal -  $6.50 / each
-* Avocados mx - $6.99 / 3pack
+* Avocados mx - $6.75 / 3pack
 * Pomegranate  cal - $3.99 / each
 * Grapefruit Ruby/Pink  cal - $1.75 / each
-* Red seedless Grapes cal - $9.99 / 2lb bag
-* Lime mx -  $3.99 / lb
-* Kiwis   cl - $4.99 / lb
+* Green seedless Grapes cal - $9.50 / 2lb bag
+* Lime mx -  $3.50 / lb
+* Kiwis   cal - $5.99 / lb
+* Asian Pears  cal - $2.40 / each
 
 ### Weekly Specials
 
-* Carrots from BC   $5.75 / 2lb bag
-* Artichoke  cal   $3.65 / each
-* Red Cabbage  cal    $6.50 / each
-* Avocado  mx   $6.99 / 3pack
-* Pomegrante   cal   $3.99 / bunch
-* Red seedless Grapes  cal   $9.99 / 2lb bag
-* Lime   cal    $3.99 / lb
+* Carrots from BC   $5.99 / 2lb bag
+* Artichoke  cal   $3.50 / each
+* Cauliflower  cal    $6.50 / each big
+* Avocado  mx   $6.75 / 3pack
+* Brussel Sprouts  mx   $7.75 / each
+* Roma Tomatoes  BC   $4.99 / lb
+* Quick Rolled Oats "Anitas" $8.90/kg
 
 ***
 
