@@ -10,32 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  October 26th to 30th / 2020**
+#### **from  November 2nd to 6th / 2020**
 
 ### Regular Box ($38.00)
 
-* 1 Cantaloupe Melon  cal
+* 2 Grapefruit Ruby/Pink  cal
 * 4 Bananas  ec
 * 4 Gala Apples  BC
 * 3 Bartlett Pears  BC
-* Celery  cal
-* Red Butter Lettuce  cal
+* Green Bell Pepper  mx
+* Endive Lettuce  cal
 * Bunch Red Beets  cal
 * 1.5lb Yellow Potatoes  BC
-* 1 Delicata Squash  BC
+* 0.75lb Roma Tomatoes  BC
 * 227gr White Mushrooms  BC
-* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 4 Gala Apples  BC
+* 5 Gala Apples  BC
 * 5 Bananas  ec
-* 4 Kiwis  cal
+* 1 Pomegranate  cal
 * 2 Grapefruit Ruby/Pink  cal
-* 1 Cantaloupe Melon  cal
+* 1 Mini seedless Watermelon  cal
 * 2lb Green seedless Grapes   cal
 * 3 Bartlett Pears  BC
-* 1 Pomegranate  cal
 
 ***
 
@@ -56,25 +54,25 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Brussel Sprouts  mx - $7.75 / lb
 * Yams cal - $3.50 / lb
 * Carrots  BC -  $5.99 / 2lb bag
-* Roma Tomatoes   BC - $4.99 / lb
-* Artichoke  cal  $3.50 / each
-* Red Cabbage  cal -  $6.50 / each
+* Celery  cal - $4.75 / each
+* Squash Acorn  BC -  $2.75 / lb
+* Green Kale  BC - $4.75 / each
 * Avocados mx - $6.75 / 3pack
 * Pomegranate  cal - $3.99 / each
-* Grapefruit Ruby/Pink  cal - $1.75 / each
 * Green seedless Grapes cal - $9.50 / 2lb bag
-* Lime mx -  $3.50 / lb
+* Lemon  mx -  $3.99 / 3pack
 * Kiwis   cal - $5.99 / lb
 * Asian Pears  cal - $2.40 / each
 
 ### Weekly Specials
 
 * Carrots from BC   $5.99 / 2lb bag
-* Artichoke  cal   $3.50 / each
-* Cauliflower  cal    $6.50 / each big
+* Acorn Squash BC   $2.75 / lb
+* Cauliflower  cal    $6.50 / each 
 * Avocado  mx   $6.75 / 3pack
 * Brussel Sprouts  mx   $7.75 / each
-* Roma Tomatoes  BC   $4.99 / lb
+* Lemons cal  $3.99 / 3pack
+* Mini seedless Watermleon mx  $5.99/each
 * Quick Rolled Oats "Anitas" $8.90/kg
 
 ***
