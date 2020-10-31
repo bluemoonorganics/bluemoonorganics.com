@@ -54,6 +54,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Brussel Sprouts  mx - $7.75 / lb
 * Yams cal - $3.50 / lb
 * Carrots  BC -  $5.99 / 2lb bag
+* Long English Cucumber - $5.50 / each
 * Celery  cal - $4.75 / each
 * Squash Acorn  BC -  $2.75 / lb
 * Green Kale  BC - $4.75 / each
@@ -68,7 +69,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Carrots from BC   $5.99 / 2lb bag
 * Acorn Squash BC   $2.75 / lb
-* Cauliflower  cal    $6.50 / each 
+* Cauliflower  cal    $6.50 / each
 * Avocado  mx   $6.75 / 3pack
 * Brussel Sprouts  mx   $7.75 / each
 * Lemons cal  $3.99 / 3pack
