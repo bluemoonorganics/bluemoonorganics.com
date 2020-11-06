@@ -10,30 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  November 2nd to 6th / 2020**
+#### **from  November 9th to 11th / 2020**
 
 ### Regular Box ($38.00)
 
-* 2 Grapefruit Ruby/Pink  cal
+* 1 Cantaloupe Melon  cal
 * 4 Bananas  ec
-* 4 Gala Apples  BC
+* 4 Golden Delicious Apples  BC
 * 3 Bartlett Pears  BC
-* Green Bell Pepper  mx
-* Endive Lettuce  cal
-* Bunch Red Beets  cal
+* 1 Field Cucumber  mx
+* 2lbs Carrots  BC
+* Bunch Spinach  cal
 * 1.5lb Yellow Potatoes  BC
-* 0.75lb Roma Tomatoes  BC
-* 227gr White Mushrooms  BC
+* 1pt Red Grape Tomatoes  mx
+* Bunch of Red Radishes  mx
+* Bunched Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Gala Apples  BC
+* 5 Golden Delicious Apples  BC
 * 5 Bananas  ec
 * 1 Pomegranate  cal
-* 2 Grapefruit Ruby/Pink  cal
+* 4 Kiwis  cal
 * 1 Mini seedless Watermelon  cal
-* 2lb Green seedless Grapes   cal
-* 3 Bartlett Pears  BC
+* 4 Navel Oranges  cal
+* 3 D'Anjou Pears  BC
+* 1 Cantaloupe Melon  mx
 
 ***
 
@@ -50,31 +52,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
-* Cauliflower  cal - $6.50 / each big
-* Brussel Sprouts  mx - $7.75 / lb
-* Yams cal - $3.50 / lb
-* Carrots  BC -  $5.99 / 2lb bag
-* Long English Cucumber - $5.50 / each
+* Cauliflower  cal - $6.99 / each 
+* Brussel Sprouts  mx - $8.55 / lb
+* Yams cal - $3.99 / lb
+* White Mushrooms  BC -  $3.80 / 227gr
+* Zucchini - $2.75 / lb
 * Celery  cal - $4.75 / each
 * Squash Acorn  BC -  $2.75 / lb
-* Green Kale  BC - $4.75 / each
 * Avocados mx - $6.75 / 3pack
+* Navel Oranges cal - $1.99 / each
 * Pomegranate  cal - $3.99 / each
-* Green seedless Grapes cal - $9.50 / 2lb bag
+* Mini seedless Watermelon cal - $4.99 / each
 * Lemon  mx -  $3.99 / 3pack
 * Kiwis   cal - $5.99 / lb
 * Asian Pears  cal - $2.40 / each
 
 ### Weekly Specials
 
-* Carrots from BC   $5.99 / 2lb bag
-* Acorn Squash BC   $2.75 / lb
-* Cauliflower  cal    $6.50 / each
+* Cauliflower  cal    $6.99 / each
 * Avocado  mx   $6.75 / 3pack
-* Brussel Sprouts  mx   $7.75 / each
+* Brussel Sprouts  mx   $8.55 / lb
 * Lemons cal  $3.99 / 3pack
-* Mini seedless Watermleon mx  $5.99/each
-* Quick Rolled Oats "Anitas" $8.90/kg
+* Mini seedless Watermleon mx  $4.99 / each
+* Zucchini  mx   $2.75 / lb
+* Celery  cal   $4.75 / each
 
 ***
 
