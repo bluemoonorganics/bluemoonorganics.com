@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  November 9th to 11th / 2020**
+#### **from  November 16th to 18th / 2020**
 
 ### Regular Box ($38.00)
 
-* 1 Cantaloupe Melon  cal
+* 2 Navel Oranges  cal
 * 4 Bananas  ec
 * 4 Golden Delicious Apples  BC
-* 3 Bartlett Pears  BC
-* 1 Field Cucumber  mx
-* 2lbs Carrots  BC
+* 3 Bartlett Bosc  BC
+* 1lb Zucchini  mx
+* Celery  cal
 * Bunch Spinach  cal
 * 1.5lb Yellow Potatoes  BC
-* 1pt Red Grape Tomatoes  mx
-* Bunch of Red Radishes  mx
-* Bunched Green Onions  cal
+* 1 Sweet Dumpling Squash  BC
+* 2 Red Bell Pepper  mx
+* Bunched Green Onions  mx
 
 ### Fruit Box ($38.00)
 
-* 5 Golden Delicious Apples  BC
+* 5 Spartan Apples  BC
 * 5 Bananas  ec
-* 1 Pomegranate  cal
-* 4 Kiwis  cal
+* 2 Grapefruit  cal
+* 2lbs Satsuma Mandarins  cal
 * 1 Mini seedless Watermelon  cal
-* 4 Navel Oranges  cal
-* 3 D'Anjou Pears  BC
-* 1 Cantaloupe Melon  mx
+* 3 Navel Oranges  cal
+* 3 Bosc Pears  BC
+* 2 Lemons  mx
 
 ***
 
@@ -52,30 +52,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
-* Cauliflower  cal - $6.99 / each 
-* Brussel Sprouts  mx - $8.55 / lb
+* Broccoli Romanesco  cal - $7.75 / each
+* Red Cabbage  cal - $3.55 / lb
 * Yams cal - $3.99 / lb
 * White Mushrooms  BC -  $3.80 / 227gr
-* Zucchini - $2.75 / lb
-* Celery  cal - $4.75 / each
+* Red Grape Tomatoes  mx - $5.55 / pint
+* Carrots  BC - $5.55 / 2lb pack
 * Squash Acorn  BC -  $2.75 / lb
 * Avocados mx - $6.75 / 3pack
-* Navel Oranges cal - $1.99 / each
+* Grapefruit cal - $1.99 / each
 * Pomegranate  cal - $3.99 / each
-* Mini seedless Watermelon cal - $4.99 / each
+* Mini seedless Watermelon cal - $5.75 / each
 * Lemon  mx -  $3.99 / 3pack
 * Kiwis   cal - $5.99 / lb
 * Asian Pears  cal - $2.40 / each
+* Satsuma Mandarins  cal - $4.99 / lb
 
 ### Weekly Specials
 
-* Cauliflower  cal    $6.99 / each
+* Satsuma Mandarins  cal    $4.99 / lb
 * Avocado  mx   $6.75 / 3pack
-* Brussel Sprouts  mx   $8.55 / lb
+* Broccoli Romanesco  cal   $7.75 / each
 * Lemons cal  $3.99 / 3pack
-* Mini seedless Watermleon mx  $4.99 / each
-* Zucchini  mx   $2.75 / lb
-* Celery  cal   $4.75 / each
+* Mini seedless Watermleon mx  $5.75 / each
+* Red Grape Tomatoes  mx   $5.55 / pint
+* Grapefruit  cal   $1.99 / each
 
 ***
 
