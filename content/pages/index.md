@@ -16,7 +16,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 * 2 Navel Oranges  cal
 * 4 Bananas  ec
-* 4 Golden Delicious Apples  BC
+* 4 Spartan Apples  BC
 * 3 Bartlett Bosc  BC
 * 1lb Zucchini  mx
 * Celery  cal
