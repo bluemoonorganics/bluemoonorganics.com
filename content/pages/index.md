@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  November 16th to 18th / 2020**
+#### **from  November 23d to 25th / 2020**
 
 ### Regular Box ($38.00)
 
 * 2 Navel Oranges  cal
 * 4 Bananas  ec
 * 4 Spartan Apples  BC
-* 3 Bartlett Bosc  BC
-* 1lb Zucchini  mx
+* 3 D'Anjou Pears  BC
+* 1 Field Cucumber  mx
 * Celery  cal
-* Bunch Spinach  cal
+* Bunch Red Beets  cal
 * 1.5lb Yellow Potatoes  BC
-* 1 Sweet Dumpling Squash  BC
-* 2 Red Bell Pepper  mx
-* Bunched Green Onions  mx
+* 1 Bunch of Collard Greens  cal
+* 2 Green Bell Pepper  mx
+* 227gr White Mushrooms  BC
 
 ### Fruit Box ($38.00)
 
 * 5 Spartan Apples  BC
 * 5 Bananas  ec
-* 2 Grapefruit  cal
+* 1 Pomegranate  cal
 * 2lbs Satsuma Mandarins  cal
 * 1 Mini seedless Watermelon  cal
-* 3 Navel Oranges  cal
-* 3 Bosc Pears  BC
-* 2 Lemons  mx
+* 5 Kiwis  cal
+* 2 Asian Pears  BC
 
 ***
 
@@ -52,14 +51,12 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
-* Broccoli Romanesco  cal - $7.75 / each
+* Carrots  BC - $5.55 / 2lb pack
 * Red Cabbage  cal - $3.55 / lb
 * Yams cal - $3.99 / lb
-* White Mushrooms  BC -  $3.80 / 227gr
+* Baby Bok Choy  cal -  $5.25 / lb
 * Red Grape Tomatoes  mx - $5.55 / pint
-* Carrots  BC - $5.55 / 2lb pack
-* Squash Acorn  BC -  $2.75 / lb
-* Avocados mx - $6.75 / 3pack
+* Avocado mx - $6.75 / 3pack
 * Grapefruit cal - $1.99 / each
 * Pomegranate  cal - $3.99 / each
 * Mini seedless Watermelon cal - $5.75 / each
@@ -72,11 +69,11 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Satsuma Mandarins  cal    $4.99 / lb
 * Avocado  mx   $6.75 / 3pack
-* Broccoli Romanesco  cal   $7.75 / each
+* Baby Bok Choy  cal   $5.25 / lb
 * Lemons cal  $3.99 / 3pack
-* Mini seedless Watermleon mx  $5.75 / each
+* Mini seedless Watermelon mx  $5.75 / each
 * Red Grape Tomatoes  mx   $5.55 / pint
-* Grapefruit  cal   $1.99 / each
+* Pomegranate  cal   $3.99 / each
 
 ***
 
