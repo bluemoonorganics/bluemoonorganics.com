@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  December 7th - 11th / 2020**
+#### **from  December 14th - 18th / 2020**
 
 ### Regular Box ($38.00)
 
-* 1 Mango Tommy Atkins  ec
+* 3 Gold Kiwis  nz
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
 * 2 Navel Oranges  cal
 * 1lb Zucchini  mx
-* Red Leaf Lettuce  cal
-* Bunch Rainbow Chard  cal
+* Red Bunched Beets  cal
+* Bunch Spinach  cal
 * 1.5lb Russett Potatoes  BC
-* 1.5lb Carrots   BC
-* Broccoli  cal
-* Bunch of Green Onions  mx
+* Bunch of Italian Parsley  cal
+* Celery  cal
+* 1 Spaghetti Squash  mx
 
 ### Fruit Box ($38.00)
 
 * 5 Braeburn Apples  BC
 * 5 Bananas  ec
-* 1 Pomegranate  cal
+* 5 Gold Kiwis  nz
 * 2lbs Satsuma Mandarins  cal
-* 1 Tommy Atkins Mango  mx
-* 2 Navel Oranges  cal
+* 2 Rio Red Grapefruit  cal
+* 3 Navel Oranges  cal
 * 3 D'Anjou Pears  BC
-* 5 Kiwis  cal
 
 ***
 
@@ -53,29 +52,28 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
 * Leek was - $4.99 / lb
-* Red Cabbage  cal - $3.55 / lb
 * Yams cal - $3.99 / lb
 * Mushroom White  BC -  $3.80 / 227gr
 * Roma Tomatoes  mx - $3.50 / lb
-* Spaghetti Squash mx - $2.35 / lb
+* Broccoli  cal - $6.99 / bunch
+* Carrots  BC - $3.50 / lb
 * Avocado mx - $6.75 / 3pack
 * Pears D'Anjou  BC - $2.65 / lb
 * Pomegranate  cal - $3.99 / each
-* Grapefruit Rio Red  cal - $2.15 / each
+* Grapefruit Rio Red  cal - $2.20 / each
 * Lemon  mx -  $3.99 / 3pack
-* Kiwis   cal - $5.99 / lb
 * Asian Pears  cal - $2.40 / each
-* Satsuma Mandarins  cal - $9.99 / 2lb pack
+* Satsuma Mandarins  cal - $5.99 / lb
 
 ### Weekly Specials
 
-* Satsuma Mandarins  cal    $9.99 / 2lb pack
+* Satsuma Mandarins  cal    $5.99 / lb
 * Avocado  mx   $6.75 / 3pack
-* Rio Red Grapefruit  cal   $2.15 / each
-* Spaghetti Squash mx  $2.35 / lb
+* Carrots  BC   $3.50 / lb
+* Broccoli  $6.99 / bunch
 * Leek was  $4.99 / lb
 * Roma Tomatoes  mx   $3.50 / lb
-* Asian Pears  cal   $2.40 / each
+* Pomegranate  cal   $3.99 / each
 
 ***
 
