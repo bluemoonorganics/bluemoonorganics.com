@@ -10,19 +10,19 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  December 14th - 18th / 2020**
+#### **from  December 21st - 25th / 2020**
 
 ### Regular Box ($38.00)
 
-* 3 Gold Kiwis  nz
+* 2 Avocados  mx
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
-* 2 Navel Oranges  cal
-* 1lb Zucchini  mx
-* Red Bunched Beets  cal
-* Bunch Spinach  cal
+* 2 Grapefruit Rio Red  cal
+* 227gr White Mushrooms  BC
+* Green Leaf Lettuce  cal
+* 1.5lb Yams  cal
 * 1.5lb Russett Potatoes  BC
-* Bunch of Italian Parsley  cal
+* Bunch of Green Onions  cal
 * Celery  cal
 * 1 Spaghetti Squash  mx
 
@@ -30,11 +30,12 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 * 5 Braeburn Apples  BC
 * 5 Bananas  ec
-* 5 Gold Kiwis  nz
+* 6oz Blackberries  mx
 * 2lbs Satsuma Mandarins  cal
 * 2 Rio Red Grapefruit  cal
-* 3 Navel Oranges  cal
-* 3 D'Anjou Pears  BC
+* 2 Navel Oranges  cal
+* 4 D'Anjou Pears  BC
+* 2 Lemons  mx
 
 ***
 
@@ -52,28 +53,28 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
 * Leek was - $4.99 / lb
-* Yams cal - $3.99 / lb
-* Mushroom White  BC -  $3.80 / 227gr
-* Roma Tomatoes  mx - $3.50 / lb
-* Broccoli  cal - $6.99 / bunch
-* Carrots  BC - $3.50 / lb
-* Avocado mx - $6.75 / 3pack
+* Green Kale cal - $4.50 / bunch
+* Zucchini  cal -  $2.50 / lb
+* Brussel Sprout  mx - $9.99 / lb
+* Broccoli  cal - $6.50 / bunch
+* Carrots  BC - $6.50 / 2lb bag
+* Pineapple  cr - $7.50 / each
 * Pears D'Anjou  BC - $2.65 / lb
 * Pomegranate  cal - $3.99 / each
-* Grapefruit Rio Red  cal - $2.20 / each
+* Navel Oranges  cal - $1.50 / each
 * Lemon  mx -  $3.99 / 3pack
-* Asian Pears  cal - $2.40 / each
-* Satsuma Mandarins  cal - $5.99 / lb
+* Blackberries  mx - $5.99 / 6oz
+* Satsuma Mandarins  cal - $4.99 / lb
 
 ### Weekly Specials
 
-* Satsuma Mandarins  cal    $5.99 / lb
-* Avocado  mx   $6.75 / 3pack
-* Carrots  BC   $3.50 / lb
-* Broccoli  $6.99 / bunch
-* Leek was  $4.99 / lb
-* Roma Tomatoes  mx   $3.50 / lb
-* Pomegranate  cal   $3.99 / each
+* Satsuma Mandarins  cal    $4.99 / lb
+* Brussel Sprout  mx   $9.99 / lb
+* Carrots  BC   $6.50 / 2lb bag
+* Broccoli  $6.50 / bunch
+* Kale  $4.50 / bunch
+* Pineapple  cr   $7.50 / each
+* Blackberries  mx   $5.99 / 6oz
 
 ***
 
