@@ -23,7 +23,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * Bunch of Green Kale  cal
 * 1.5lb Russett Potatoes  BC
 * Bunch of Green Onions  cal
-* 2 Green Bell Pepper  mxl
+* 2 Green Bell Pepper  mx
 * Bunched Red Beets  cal
 
 ### Fruit Box ($38.00)
