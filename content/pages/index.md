@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  December 21st - 25th / 2020**
+#### **from  January 4th - 8th / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Avocados  mx
+* 2 Navel Oranges  cal
 * 4 Bananas  ec
-* 4 Braeburn Apples  BC
-* 2 Grapefruit Rio Red  cal
-* 227gr White Mushrooms  BC
-* Green Leaf Lettuce  cal
-* 1.5lb Yams  cal
+* 4 Pink Lady Apples  BC
+* 3 Flemish Pears  BC
+* 1lb Roma Tomatoes  mx
+* Green Butter Lettuce  cal
+* Bunch of Green Kale  cal
 * 1.5lb Russett Potatoes  BC
 * Bunch of Green Onions  cal
-* Celery  cal
-* 1 Spaghetti Squash  mx
+* 2 Green Bell Pepper  mxl
+* Bunched Red Beets  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Braeburn Apples  BC
+* 6 Pink Lady Apples  BC
 * 5 Bananas  ec
 * 6oz Blackberries  mx
 * 2lbs Satsuma Mandarins  cal
 * 2 Rio Red Grapefruit  cal
-* 2 Navel Oranges  cal
-* 4 D'Anjou Pears  BC
-* 2 Lemons  mx
+* 3 Navel Oranges  cal
+* 4 Flemish Pears  BC
 
 ***
 
@@ -52,28 +51,28 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
-* Leek was - $4.99 / lb
-* Green Kale cal - $4.50 / bunch
-* Zucchini  cal -  $2.50 / lb
-* Brussel Sprout  mx - $9.99 / lb
-* Broccoli  cal - $6.50 / bunch
+* Acorn Squash  mx - $1.99 / lb
+* Yams cal - $3.50 / lb
+* Long English Cucumber  mx -  $5.99 / each
+* Brussel Sprout  mx - $8.99 / lb
+* Broccoli  cal - $5.75 / bunch
 * Carrots  BC - $6.50 / 2lb bag
-* Pineapple  cr - $7.50 / each
-* Pears D'Anjou  BC - $2.65 / lb
-* Pomegranate  cal - $3.99 / each
-* Navel Oranges  cal - $1.50 / each
-* Lemon  mx -  $3.99 / 3pack
+* Deli Sprouts  BC - $4.75 / 5oz
+* Avocado  mx - $6.75 / 3pack
+* Grapefruit Rio Red  cal - $1.99 / each
+* Kiwis  cal - $6.25 / lb
+* Lemon  mx -  $3.60 / 3pack
 * Blackberries  mx - $5.99 / 6oz
 * Satsuma Mandarins  cal - $4.99 / lb
 
 ### Weekly Specials
 
 * Satsuma Mandarins  cal    $4.99 / lb
-* Brussel Sprout  mx   $9.99 / lb
+* Brussel Sprout  mx   $8.99 / lb
 * Carrots  BC   $6.50 / 2lb bag
-* Broccoli  $6.50 / bunch
-* Kale  $4.50 / bunch
-* Pineapple  cr   $7.50 / each
+* Broccoli  $5.75 / bunch
+* Deli Sprouts  BC  $4.75 / 5oz
+* Avocado  mx   $6.75 / 3pack
 * Blackberries  mx   $5.99 / 6oz
 
 ***
