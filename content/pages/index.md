@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  January 4th - 8th / 2021**
+#### **from  January 11th - 15th / 2021**
 
 ### Regular Box ($38.00)
 
 * 2 Navel Oranges  cal
 * 4 Bananas  ec
 * 4 Pink Lady Apples  BC
-* 3 Flemish Pears  BC
-* 1lb Roma Tomatoes  mx
-* Green Butter Lettuce  cal
-* Bunch of Green Kale  cal
+* 3 D'Anjou Pears  BC
+* 1 Acorn Squash  mx
+* Green Leaf Lettuce  cal
+* Bunched Spinach  cal
 * 1.5lb Russett Potatoes  BC
-* Bunch of Green Onions  cal
+* Broccoli  cal
 * 2 Green Bell Pepper  mx
-* Bunched Red Beets  cal
+* 2 Field Cucumber  mx
 
 ### Fruit Box ($38.00)
 
 * 6 Pink Lady Apples  BC
-* 5 Bananas  ec
+* 6 Bananas  ec
 * 6oz Blackberries  mx
 * 2lbs Satsuma Mandarins  cal
 * 2 Rio Red Grapefruit  cal
 * 3 Navel Oranges  cal
-* 4 Flemish Pears  BC
+* 3 D'Anjou Pears  BC
 
 ***
 
@@ -51,27 +51,26 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions was - $2.50 / lb
-* Acorn Squash  mx - $1.99 / lb
-* Yams cal - $3.50 / lb
-* Long English Cucumber  mx -  $5.99 / each
-* Brussel Sprout  mx - $8.99 / lb
-* Broccoli  cal - $5.75 / bunch
+* Cilantro  mx - $2.85 / bunch
+* Yams cal - $2.99 / lb
+* Mushroom White -  $3.75 / 227gr
+* Brussel Sprout  mx - $8.75 / lb
+* Red Grape Tomatoes  mx - $5.25 / pint
 * Carrots  BC - $6.50 / 2lb bag
-* Deli Sprouts  BC - $4.75 / 5oz
 * Avocado  mx - $6.75 / 3pack
 * Grapefruit Rio Red  cal - $1.99 / each
 * Kiwis  cal - $6.25 / lb
 * Lemon  mx -  $3.60 / 3pack
-* Blackberries  mx - $5.99 / 6oz
-* Satsuma Mandarins  cal - $4.99 / lb
+* Blackberries  mx - $5.75 / 6oz
+* Satsuma Mandarins  cal - $4.50 / lb
 
 ### Weekly Specials
 
-* Satsuma Mandarins  cal    $4.99 / lb
-* Brussel Sprout  mx   $8.99 / lb
+* Satsuma Mandarins  cal    $4.50 / lb
+* Brussel Sprout  mx   $8.75 / lb
 * Carrots  BC   $6.50 / 2lb bag
-* Broccoli  $5.75 / bunch
-* Deli Sprouts  BC  $4.75 / 5oz
+* Red Grape Tomatoes  mx  $5.25 / pint
+* Cilantro  cal  $2.85 / bunch
 * Avocado  mx   $6.75 / 3pack
 * Blackberries  mx   $5.99 / 6oz
 
