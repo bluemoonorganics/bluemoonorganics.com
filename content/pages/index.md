@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  January 11th - 15th / 2021**
+#### **from  January 18th - 22nd / 2021**
 
 ### Regular Box ($38.00)
 
 * 2 Navel Oranges  cal
 * 4 Bananas  ec
-* 4 Pink Lady Apples  BC
+* 4 Empire Apples  BC
 * 3 D'Anjou Pears  BC
-* 1 Acorn Squash  mx
-* Green Leaf Lettuce  cal
-* Bunched Spinach  cal
+* 227gr White Mushrooms  BC
+* Green Butter Lettuce  cal
+* Green Kale  cal
 * 1.5lb Russett Potatoes  BC
-* Broccoli  cal
-* 2 Green Bell Pepper  mx
+* Cauliflower  az
+* Italian Parsley  mx
 * 2 Field Cucumber  mx
 
 ### Fruit Box ($38.00)
 
-* 6 Pink Lady Apples  BC
-* 6 Bananas  ec
+* 6 Empire Apples  BC
+* 5 Bananas  ec
 * 6oz Blackberries  mx
 * 2lbs Satsuma Mandarins  cal
 * 2 Rio Red Grapefruit  cal
 * 3 Navel Oranges  cal
-* 3 D'Anjou Pears  BC
+* 5 Kiwis   cal
 
 ***
 
@@ -50,29 +50,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
-* Yellow Onions was - $2.50 / lb
-* Cilantro  mx - $2.85 / bunch
-* Yams cal - $2.99 / lb
-* Mushroom White -  $3.75 / 227gr
-* Brussel Sprout  mx - $8.75 / lb
-* Red Grape Tomatoes  mx - $5.25 / pint
+* Yellow Onions man - $2.50 / lb
+* Broccoli  cal - $4.50 / bunch
+* Yams cal - $3.35 / lb
+* Acorn Squash BC -  $2.40 / lb
+* Red Cabbage  cal - $3.25 / lb
+* Red Grape Tomatoes  mx - $5.50 / pint
 * Carrots  BC - $6.50 / 2lb bag
 * Avocado  mx - $6.75 / 3pack
-* Grapefruit Rio Red  cal - $1.99 / each
+* Grapefruit Rio Red  cal - $1.75 / each
 * Kiwis  cal - $6.25 / lb
 * Lemon  mx -  $3.60 / 3pack
-* Blackberries  mx - $5.75 / 6oz
+* Blackberries  mx - $5.25 / 6oz
+* Coconut  mx - $5.50 / each
 * Satsuma Mandarins  cal - $4.50 / lb
 
 ### Weekly Specials
 
 * Satsuma Mandarins  cal    $4.50 / lb
-* Brussel Sprout  mx   $8.75 / lb
+* Broccoli  cal   $4.50 / bunch
 * Carrots  BC   $6.50 / 2lb bag
-* Red Grape Tomatoes  mx  $5.25 / pint
-* Cilantro  cal  $2.85 / bunch
-* Avocado  mx   $6.75 / 3pack
-* Blackberries  mx   $5.99 / 6oz
+* Red Grape Tomatoes  mx  $5.50 / pint
+* Red Cabbage cal   $3.25 / lb
+* Acorn Squash  BC   $2.40 / lb
+* Coconut  mx   $5.50 / each
 
 ***
 
