@@ -10,20 +10,20 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  January 25th - 29th / 2021**
+#### **from  February 1st - 5th / 2021**
 
 ### Regular Box ($38.00)
 
 * 2 Rio Red Grapefruit  cal
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
-* 3 D'Anjou Pears  BC
-* 227gr White Mushrooms  BC
-* Green Leaf Lettuce  cal
-* Bunched Spinach  cal
+* 2 Navel Oranges  cal
+* Green Chard  cal
+* Red Butter Lettuce  cal
+* Cilantro  cal
 * 1.5lb Russett Potatoes  BC
-* Cauliflower  mx
-* Green Onions  cal
+* Broccoli  cal
+* Red Bunched Beets  cal
 * 2lb Carrots  cal
 
 ### Fruit Box ($38.00)
@@ -31,11 +31,11 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 6 Braeburn Apples  BC
 * 6 Bananas  ec
 * 4 D'Anjou Pears  BC
-* 2lbs Navel Oranges  cal
+* 2.5lbs Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
 * 1lb Lemons  cal
-* 5 Kiwis   cal
-* 3pack of Avocados  mx
+* 6 Kiwis   cal
+* 4 Tangelo  cal
 
 ***
 
@@ -52,27 +52,29 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Broccoli  cal - $4.99 / bunch
+* Cauliflower  az - $4.75 / bunch
 * Yams cal - $3.35 / lb
-* Acorn Squash BC -  $2.40 / lb
-* Red Cabbage  cal - $3.25 / lb
-* Red Grape Tomatoes  mx - $5.50 / pint
+* Butternut Squash BC -  $1.99 / lb
+* Red Cabbage  BC - $2.99 / lb
+* Roma Tomatoes  mx - $3.25 / lb
+* Red Bell Pepper  mx - $5.50 / lb
+* White Mushroom  BC - $3.75 / 227gr
 * Celery  mx - $5.99 / each
 * Avocado  mx - $6.50 / 3pack
-* Navel Oranges  cal - $2.50 / lb
+* D'Anjou Pears  was - $1.10 / each
 * Kiwis  cal - $6.25 / lb
 * Lemon meyer  cal -  $3.50 / lb
 * Coconut  mx - $5.50 / each
-* Satsuma Mandarins  cal - $19.00 / 5lb box
+* Tangelo  cal - $2.99 / lb
 
 ### Weekly Specials
 
-* Satsuma Mandarins  cal    $19.00 / 5lb box
-* Broccoli  cal   $4.99 / bunch
+* Butternut Squash  cal    $1.99 / lb
+* Cauliflower  az   $4.75 / each
 * Celery  cal   $5.99 / bunch
-* Red Grape Tomatoes  mx  $5.50 / pint
-* Navel Oranges cal   $2.50 / lb
-* Acorn Squash  BC   $2.40 / lb
+* Roma Tomatoes  mx  $3.25 / lb
+* Avocados  mx   $6.50 / 3 pack
+* Red Cabbage  BC   $2.99 / lb
 * Coconut  mx   $5.50 / each
 
 ***
