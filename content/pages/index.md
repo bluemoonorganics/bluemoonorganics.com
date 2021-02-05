@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  February 1st - 5th / 2021**
+#### **from  February 8th - 12th / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Rio Red Grapefruit  cal
+* 3 D'Anjou Pears  BC
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
 * 2 Navel Oranges  cal
-* Green Chard  cal
-* Red Butter Lettuce  cal
-* Cilantro  cal
+* Green Kale  cal
+* Green Butter Lettuce  cal
+* Green Bell Pepper  mx
 * 1.5lb Russett Potatoes  BC
-* Broccoli  cal
-* Red Bunched Beets  cal
-* 2lb Carrots  cal
+* Cauliflower  cal
+* Gold Bunched Beets  cal
+* Butternut Squash  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Braeburn Apples  BC
-* 6 Bananas  ec
+* 5 Braeburn Apples  BC
+* 5 Bananas  ec
 * 4 D'Anjou Pears  BC
-* 2.5lbs Navel Oranges  cal
+* 4 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
 * 1lb Lemons  cal
-* 6 Kiwis   cal
-* 4 Tangelo  cal
+* 2 Ataulfo Mango's  mx
+* 1.5lb Tango Mandarins  cal
 
 ***
 
@@ -52,29 +52,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Cauliflower  az - $4.75 / bunch
+* Broccoli cal - $4.99 / bunch
 * Yams cal - $3.35 / lb
-* Butternut Squash BC -  $1.99 / lb
-* Red Cabbage  BC - $2.99 / lb
+* Field Cucumber cal -  $3.99 / 2pack
+* Brussel Sprout  cal - $6.99 / lb
 * Roma Tomatoes  mx - $3.25 / lb
-* Red Bell Pepper  mx - $5.50 / lb
+* Carrots  cal - $4.50 / 2lb
 * White Mushroom  BC - $3.75 / 227gr
 * Celery  mx - $5.99 / each
 * Avocado  mx - $6.50 / 3pack
-* D'Anjou Pears  was - $1.10 / each
+* Rio Red Grapefruit cal - $1.50 / each
 * Kiwis  cal - $6.25 / lb
 * Lemon meyer  cal -  $3.50 / lb
 * Coconut  mx - $5.50 / each
-* Tangelo  cal - $2.99 / lb
+* Tango Mandarins  cal - $4.99 / lb
+* Ataulfo Mango's  mx - $35.00 / case of 20
 
 ### Weekly Specials
 
-* Butternut Squash  cal    $1.99 / lb
-* Cauliflower  az   $4.75 / each
+* Ataulfo Mango's  mx  $35.00 / case of 20
+* Broccoli  cal   $4.99 / bunch
 * Celery  cal   $5.99 / bunch
+* Carrots   cal   $4.50 / 2lbs
 * Roma Tomatoes  mx  $3.25 / lb
 * Avocados  mx   $6.50 / 3 pack
-* Red Cabbage  BC   $2.99 / lb
+* Brussel Sprout  cal   $6.99 / lb
 * Coconut  mx   $5.50 / each
 
 ***
