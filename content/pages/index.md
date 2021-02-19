@@ -10,33 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  February 15th - 19th / 2021**
+#### **from  February 22nd - 26th / 2021**
 
 ### Regular Box ($38.00)
 
-* 3 D'Anjou Pears  BC
+* 2 Rio Red Grapefruit  cal
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
 * 2 Navel Oranges  cal
-* Green Onions  cal
-* Romaine Lettuce  cal
+* Bunched Spinach  cal
+* Red Leaf Lettuce  cal
 * Broccoli  mx
 * 1.5lb Russett Potatoes  BC
-* Cauliflower  cal
+* 2 Green Bell Pepper  mx
 * Celery  mx
 * Bunched Carrots  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Braeburn Apples  BC
-* 6 Bananas  ec
+* 5 Braeburn Apples  BC
+* 5 Bananas  ec
 * 3 D'Anjou Pears  BC
 * 3 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
-* 2 MeyerLemons  cal
-* 1 Kent Mango  mx
 * 1.5lb Tango Mandarins  cal
-* 4 Kiwis  cal
+* 1 Kent Mango  mx
+* 1 Pineapple  cr
 
 ***
 
@@ -55,30 +54,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Yellow Onions man - $2.50 / lb
 * Italian Parsley  cal - $2.75 / bunch
 * Yams cal - $3.35 / lb
-* Green Kale  cal -  $3.50 / bunch
-* Brussel Sprout  cal - $6.99 / lb
+* Field Cucumber  mx -  $5.50 / 2pack
+* Brussel Sprout  cal - $6.50 / lb
 * Red Grape Tomatoes  mx - $5.25 / pt
-* Red Bell Pepper  mx - $4.50 / lb
+* Romanesco Cauliflower  cal - $5.99 / each
 * White Mushroom  BC - $3.75 / 227gr
 * Butternut Squash  mx - $1.99 / lb
 * Avocado  mx - $6.50 / 3pack
-* Rio Red Grapefruit cal - $1.50 / each
+* D'Anjou Pears  BC - $3.25 / lb
 * Kiwis  cal - $6.25 / lb
 * Lemon meyer  cal -  $3.50 / lb
-* Mango Kent  mx - $3.50 / each
-* Tango Mandarins  cal - $4.75 / lb
-* Ataulfo Mango's  mx - $35.00 / case of 20
+* Mango Kent  mx - $2.99 / each
+* Tango Mandarins  cal - $4.50 / lb
+* Pineapple  cr - $8.99 / each
 
 ### Weekly Specials
 
-* Ataulfo Mango's  mx  $35.00 / case of 20
-* Italian Parsley  cal   $2.75 / bunch
-* Green Kale  cal   $3.50 / bunch
-* Red Bell Pepper  mx   $4.50 / lb
-* Red Grape Tomatoes  mx  $5.25 / pt
+* Romanesco Cauliflower cal  $599 / each
+* Italian Parsley cal   $2.75 / bunch
+* Butternut Squash mx   $1.99 / lb
+* Field Cucumber mx   $5.50 / 2pack
+* Pineapple cr  $8.99 / eachpt
 * Avocados  mx   $6.50 / 3 pack
-* Brussel Sprout  cal   $6.99 / lb
-* Tango Mandarins  cal   $4.75 / lb
+* Brussel Sprout  cal   $6.50 / lb
+* Tango Mandarins  cal   $4.50 / lb
 
 ***
 
