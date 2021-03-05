@@ -10,21 +10,21 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  March 1st - March 5th / 2021**
+#### **from  March 8th - March 12th / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Rio Red Grapefruit  cal
+* 3 D'Anjou Pears  was
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
-* 1 Mango Kent  pr
-* Green Kale  cal
-* Red Butter Lettuce  cal
-* Broccoli  cal
+* 2 Navel Oranges cal
+* Celery  mx
+* Romaine Lettuce  cal
+* Red Bunched Beets  cal
 * Cauliflower  cal
-* 2 Green Bell Pepper  mx
-* pint Red Grape Tomatoes  mx
-* Italian Parsley  cal
+* 1lb Asparagus  mx
+* 1.5lb Russett Potatoes  BC
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
@@ -33,10 +33,9 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 D'Anjou Pears  BC
 * 3 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
-* 1.5lb Tango Mandarins  cal
+* 2lb Tango Mandarins  cal
 * 1 Kent Mango  mx
 * 5 Kiwis  cal
-* 2 Meyer Lemons  cal
 
 ***
 
@@ -53,32 +52,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Asparagus  mx - $6.99 / lb
+* Broccoli  mx - $4.25 / bunch
 * Yams cal - $3.35 / lb
-* Field Cucumber  mx -  $5.99 / 2pack
-* Green Onions  cal - $2.15 / bunch
+* Red Bell Pepper  mx -  $3.50 / lb
+* Red Grape Tomatoes  mx - $4.50 / pt
 * Carrots  cal - $4.50 / 2lb
-* Yellow Potatoes  BC - $1.99 / lb
 * White Mushroom  BC - $3.75 / 227gr
 * Butternut Squash  mx - $1.99 / lb
 * Avocado  mx - $6.50 / 3pack
-* D'Anjou Pears  BC - $3.25 / lb
+* Rio Red Grapefruit  cal - $1.60 / each
 * Kiwis  cal - $6.25 / lb
 * Lemon meyer  cal -  $3.50 / lb
-* Navel Oranges  cal - $1.45 / each
-* Tango Mandarins  cal - $4.50 / lb
-* Pineapple  cr - $8.99 / each
+* Pinepple  cr - $7.99 / each
+* Mango Kent  pr - $3.50 / each
+* Tango Mandarins  cal - $9.00 / 2lb bag
 
 ### Weekly Specials
 
-* Asparagus  mx  $6.99 / lb
-* Green Onions cal   $2.15 / bunch
+* Broccoli  mx  $4.25 / bunch
+* Red Bell Pepper  mx   $3.50 / lb
 * Butternut Squash mx   $1.99 / lb
-* Yellow Potatoes  BC   $1.99 / lb
-* Pineapple cr  $8.99 / each
+* Carrots  cal   $4.50 / 2lb bag
+* Pineapple cr  $7.99 / each
 * Avocados  mx   $6.50 / 3 pack
-* Meyer Lemons  cal   $3.50 / lb
-* Tango Mandarins  cal   $4.50 / lb
+* Tango Mandarins  cal   $9.00 / 2lb bag
 
 ***
 
