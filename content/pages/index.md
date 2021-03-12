@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  March 8th - March 12th / 2021**
+#### **from  March 15th - March 19th / 2021**
 
 ### Regular Box ($38.00)
 
-* 3 D'Anjou Pears  was
-* 4 Bananas  ec
+* 2 Asian Pears  was
+* 5 Bananas  ec
 * 4 Braeburn Apples  BC
 * 2 Navel Oranges cal
 * Celery  mx
-* Romaine Lettuce  cal
-* Red Bunched Beets  cal
-* Cauliflower  cal
-* 1lb Asparagus  mx
+* Green Leaf Lettuce  cal
+* 1 Butternut Squash  mx
+* Broccoli  cal
+* Bunched Carrots  mx
 * 1.5lb Russett Potatoes  BC
-* Green Onions  cal
+* Cilantro  cal
 
 ### Fruit Box ($38.00)
 
 * 5 Braeburn Apples  BC
 * 5 Bananas  ec
-* 4 D'Anjou Pears  BC
+* 3 D'Anjou Pears  BC
 * 3 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
 * 2lb Tango Mandarins  cal
-* 1 Kent Mango  mx
+* 2 Asian Pears  was
 * 5 Kiwis  cal
 
 ***
@@ -52,28 +52,27 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Broccoli  mx - $4.25 / bunch
+* Tomato HH on the vine mx - $5.25 / lb
 * Yams cal - $3.35 / lb
 * Red Bell Pepper  mx -  $3.50 / lb
-* Red Grape Tomatoes  mx - $4.50 / pt
-* Carrots  cal - $4.50 / 2lb
+* Asparagus  mx - $6.50 / lb
+* Fennel  cal - $4.50 / each
 * White Mushroom  BC - $3.75 / 227gr
-* Butternut Squash  mx - $1.99 / lb
+* Snow Peas  mx - $4.99 / lb
 * Avocado  mx - $6.50 / 3pack
-* Rio Red Grapefruit  cal - $1.60 / each
+* Rio Red Grapefruit  cal - $1.90 / each
 * Kiwis  cal - $6.25 / lb
 * Lemon meyer  cal -  $3.50 / lb
-* Pinepple  cr - $7.99 / each
-* Mango Kent  pr - $3.50 / each
+* Pineapple  cr - $7.99 / each
+* D'Anjou Pears  was - $2.99 / lb
 * Tango Mandarins  cal - $9.00 / 2lb bag
 
 ### Weekly Specials
 
-* Broccoli  mx  $4.25 / bunch
-* Red Bell Pepper  mx   $3.50 / lb
-* Butternut Squash mx   $1.99 / lb
-* Carrots  cal   $4.50 / 2lb bag
-* Pineapple cr  $7.99 / each
+* Snow Peas  mx  $4.99 / lb
+* Fennel  cal   $4.50 / each
+* Asparagus  mx   $6.50 / lb 
+* HH Tomatoes on the vine  mx  $5.25 / lb
 * Avocados  mx   $6.50 / 3 pack
 * Tango Mandarins  cal   $9.00 / 2lb bag
 
