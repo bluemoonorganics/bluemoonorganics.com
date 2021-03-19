@@ -64,7 +64,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Kiwis  cal - $5.99 / lb
 * Lemon cal -  $2.99 / for 2
 * Dates Medjool  cal - $9.99 / 8oz
-* D'Anjou Pears  was - $2.99 / lb
+* D'Anjou Pears  was - $3.35 / lb
 * Tango Mandarins  cal - $9.00 / 2lb bag
 
 ### Weekly Specials
