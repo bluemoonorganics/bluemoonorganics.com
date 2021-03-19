@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  March 15th - March 19th / 2021**
+#### **from  March 22nd - March 26th / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Asian Pears  was
-* 5 Bananas  ec
+* 2 Rio Red Grapefruit mx
+* 4 Bananas  ec
 * 4 Braeburn Apples  BC
 * 2 Navel Oranges cal
-* Celery  mx
-* Green Leaf Lettuce  cal
+* 1lb Roma Tomatoes mx
+* Romaine Lettuce  cal
 * 1 Butternut Squash  mx
 * Broccoli  cal
-* Bunched Carrots  mx
+* Bunched Green Kale  cal
 * 1.5lb Russett Potatoes  BC
-* Cilantro  cal
+* Italian Parsley  cal
 
 ### Fruit Box ($38.00)
 
 * 5 Braeburn Apples  BC
 * 5 Bananas  ec
-* 3 D'Anjou Pears  BC
+* 2 D'Anjou Pears  BC
 * 3 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
 * 2lb Tango Mandarins  cal
 * 2 Asian Pears  was
-* 5 Kiwis  cal
+* 1lb Kiwis  cal
 
 ***
 
@@ -52,29 +52,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Tomato HH on the vine mx - $5.25 / lb
+* Celery mx - $2.99 / each
 * Yams cal - $3.35 / lb
-* Red Bell Pepper  mx -  $3.50 / lb
-* Asparagus  mx - $6.50 / lb
-* Fennel  cal - $4.50 / each
+* Red Bell Pepper  mx -  $3.75 / lb
+* Asparagus  mx - $6.99 / lb
+* Red Cabbage  cal - $2.50 / lb
 * White Mushroom  BC - $3.75 / 227gr
 * Snow Peas  mx - $4.99 / lb
-* Avocado  mx - $6.50 / 3pack
-* Rio Red Grapefruit  cal - $1.90 / each
-* Kiwis  cal - $6.25 / lb
-* Lemon meyer  cal -  $3.50 / lb
-* Pineapple  cr - $7.99 / each
+* Carrots  cal - $4.99 / 2lb bag
+* Avocado  mx - $6.75 / 3pack
+* Kiwis  cal - $5.99 / lb
+* Lemon cal -  $2.99 / for 2
+* Dates Medjool  cal - $9.99 / 8oz
 * D'Anjou Pears  was - $2.99 / lb
 * Tango Mandarins  cal - $9.00 / 2lb bag
 
 ### Weekly Specials
 
 * Snow Peas  mx  $4.99 / lb
-* Fennel  cal   $4.50 / each
-* Asparagus  mx   $6.50 / lb 
-* HH Tomatoes on the vine  mx  $5.25 / lb
-* Avocados  mx   $6.50 / 3 pack
+* Celery  cal   $2.99 / each
+* Asparagus  mx   $6.99 / lb
+* Red Cabbage  cal  $2.50 / lb
+* Avocados  mx   $6.75 / 3 pack
 * Tango Mandarins  cal   $9.00 / 2lb bag
+* Dates Medjool  cal  $9.99 / 8oz
 
 ***
 
