@@ -10,31 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  March 22nd - March 26th / 2021**
+#### **from  March 29th -April 2nd / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Rio Red Grapefruit mx
+* 3 Red Bartlett Pears  arg
 * 4 Bananas  ec
 * 4 Braeburn Apples  BC
-* 2 Navel Oranges cal
-* 1lb Roma Tomatoes mx
-* Romaine Lettuce  cal
-* 1 Butternut Squash  mx
+* 3 Navel Oranges cal
+* 0.75lb Green Beans  mx
+* Green Leaf Lettuce  cal
+* Celery  mx
 * Broccoli  cal
-* Bunched Green Kale  cal
+* 2lbs Carrots  cal
 * 1.5lb Russett Potatoes  BC
-* Italian Parsley  cal
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Braeburn Apples  BC
+* 6 Braeburn Apples  BC
 * 5 Bananas  ec
-* 2 D'Anjou Pears  BC
-* 3 Navel Oranges  cal
+* 4 Red Bartlett Pears  arg
+* 4 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
 * 2lb Tango Mandarins  cal
-* 2 Asian Pears  was
 * 1lb Kiwis  cal
 
 ***
@@ -52,29 +51,28 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Celery mx - $2.99 / each
+* Green Kale mx - $3.25 / bunch
 * Yams cal - $3.35 / lb
 * Red Bell Pepper  mx -  $3.75 / lb
 * Asparagus  mx - $6.99 / lb
 * Red Cabbage  cal - $2.50 / lb
 * White Mushroom  BC - $3.75 / 227gr
-* Snow Peas  mx - $4.99 / lb
-* Carrots  cal - $4.99 / 2lb bag
-* Avocado  mx - $6.75 / 3pack
-* Kiwis  cal - $5.99 / lb
-* Lemon cal -  $2.99 / for 2
+* Avocados  mx  - $6.75 / 3pack
+* Pineapple  ec - $7.99 / each
+* Grapefruit  cal - $1.99 / each
+* Kiwis  cal - $6.55 / lb
+* Lime cal -  $6.50 / lb
 * Dates Medjool  cal - $9.99 / 8oz
-* D'Anjou Pears  was - $3.35 / lb
 * Tango Mandarins  cal - $9.00 / 2lb bag
 
 ### Weekly Specials
 
-* Snow Peas  mx  $4.99 / lb
-* Celery  cal   $2.99 / each
+* Green Kale  mx  $3.25 / bunch
+* Red Bell Pepper  mx   $3.75 / lb
 * Asparagus  mx   $6.99 / lb
 * Red Cabbage  cal  $2.50 / lb
 * Avocados  mx   $6.75 / 3 pack
-* Tango Mandarins  cal   $9.00 / 2lb bag
+* Pineapple  ec   $7.99 / each
 * Dates Medjool  cal  $9.99 / 8oz
 
 ***
