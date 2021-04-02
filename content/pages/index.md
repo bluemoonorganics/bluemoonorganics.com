@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  March 29th -April 2nd / 2021**
+#### **from  April 5th -April 9th / 2021**
 
 ### Regular Box ($38.00)
 
-* 3 Red Bartlett Pears  arg
+* 3 Bartlett Pears  arg
 * 4 Bananas  ec
-* 4 Braeburn Apples  BC
-* 3 Navel Oranges cal
-* 0.75lb Green Beans  mx
-* Green Leaf Lettuce  cal
+* 4 Ambrosia Apples  BC
+* 2 Cara Cara Oranges cal
+* 227gr White Mushrooms  BC
+* Romaine Lettuce  cal
 * Celery  mx
 * Broccoli  cal
-* 2lbs Carrots  cal
+* Rainbow Chard  cal
 * 1.5lb Russett Potatoes  BC
-* Green Onions  cal
+* Red Bell Pepper  mx
 
 ### Fruit Box ($38.00)
 
-* 6 Braeburn Apples  BC
+* 6 Ambrosia Apples  BC
 * 5 Bananas  ec
-* 4 Red Bartlett Pears  arg
-* 4 Navel Oranges  cal
+* 4 Bartlett Pears  arg
+* 4 Cara Cara Oranges  cal
 * 2 Rio Red Grapefruit  cal
-* 2lb Tango Mandarins  cal
-* 1lb Kiwis  cal
+* 3 Ataulfo Mangos  mx
+* 6oz Blueberries  cl
 
 ***
 
@@ -51,24 +51,26 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $3.99/each 2 for $4.99
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Green Kale mx - $3.25 / bunch
+* Carrots  cal - $4.50 / 2lb bag
+* Green Onions  cal - $1.99 / bunch
 * Yams cal - $3.35 / lb
-* Red Bell Pepper  mx -  $3.75 / lb
+* Field Tomatoes  mx -  $2.50 / each
 * Asparagus  mx - $6.99 / lb
 * Red Cabbage  cal - $2.50 / lb
-* White Mushroom  BC - $3.75 / 227gr
+* Cauliflower  cal - $5.50 / each
 * Avocados  mx  - $6.75 / 3pack
 * Pineapple  ec - $7.99 / each
 * Grapefruit  cal - $1.99 / each
 * Kiwis  cal - $6.55 / lb
 * Lime cal -  $6.50 / lb
 * Dates Medjool  cal - $9.99 / 8oz
-* Tango Mandarins  cal - $9.00 / 2lb bag
+* Blueberries  cl - $5.50 / 6oz
+* Ataulfo Mango's  mx - $2.50 / each
 
 ### Weekly Specials
 
-* Green Kale  mx  $3.25 / bunch
-* Red Bell Pepper  mx   $3.75 / lb
+* Ataulfo Mango's  mx  $2.50 / each
+* Field Tomatoes  mx   $2.50 / each
 * Asparagus  mx   $6.99 / lb
 * Red Cabbage  cal  $2.50 / lb
 * Avocados  mx   $6.75 / 3 pack
