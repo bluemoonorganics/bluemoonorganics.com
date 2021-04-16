@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  April 12th -April 16th / 2021**
+#### **from  April 19th -April 23rd / 2021**
 
 ### Regular Box ($38.00)
 
-* 3 Bartlett Pears  arg
+* 2 Bartlett Pears  arg
 * 4 Bananas  ec
-* 4 Pinata Apples  BC
+* 3 Pink Lady Apples  BC
 * 2 Cara Cara Oranges cal
 * 2lb Carrots  cal
 * Romaine Lettuce  cal
-* Celery  mx
-* Broccoli  cal
-* Collards  cal
-* 1.33lb Yams  cal
-* Green Onions  mx
+* Red Radishes  cal
+* Broccoli crown cal
+* Red Bunched Beets  cal
+* 1.5lbs Red Potatoes  man
+* Avocado  mx
 
 ### Fruit Box ($38.00)
 
-* 5 Pinata Apples  BC
-* 5 Bananas  ec
-* 3 Bartlett Pears  arg
-* 3 Cara Cara Oranges  cal
+* 5 Pink Lady Apples  BC
+* 6 Bananas  ec
+* 4 Bartlett Pears  arg
+* 4 Cara Cara Oranges  cal
 * 2 Rio Red Grapefruit  cal
-* 2 Ataulfo Mangos  mx
-* 6oz Blueberries  cl
-* 2.5lb Blood Oranges  cal
+* 1 Min seedless Watermelon  mx
+* 1.5lb Blood Oranges  cal
 
 ***
 
@@ -53,31 +52,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
 * Mushroom White  BC - $3.99 / 227gr
-* Portabello Mushroom  BC - $6.50 / 2caps
-* Potatoes Russet  BC - $1.99 / lb
-* Tomatoes on the vine  mx -  $4.50 / lb
-* Asparagus  mx - $7.50 / lb
+* Portobello Mushroom  BC - $6.50 / 2caps
+* Yams  cal - $3.25 / lb
+* Tomatoes on the vine  mx -  $4.99 / lb
+* Asparagus  mx - $7.75 / lb
 * Red Cabbage  cal - $2.50 / lb
 * Cauliflower  cal - $6.99 / each
-* Parsley Italian  cal - $2.99 / bunch
-* Avocados  mx  - $5.50 / 2pack
+* Green Onions  cal - $2.00 / bunch
+* HH Cucumber  BC - $6.50 / each
+* Mini seedless Watermelon  mx  - $7.75 / each
 * Pineapple  ec - $7.99 / each
-* Grapefruit  cal - $2.75 / lb
+* Grapefruit  cal - $1.99 / each
 * Kiwis  cal - $6.75 / lb
 * Blood Oranges  cal -  $2.75 / lb
 * Dates Medjool  cal - $9.99 / 8oz
-* Ataulfo Mango's  mx - $2.50 / each
 
 ### Weekly Specials
 
-* Potabello Mushrooms  BC  $6.50 / 2caps
-* Tomatoes on the vine  mx   $4.50 / lb
-* Asparagus  mx   $7.50 / lb
-* Italian Parsley  cal  $2.99 / bunch
+* Portobello Mushrooms  BC  $6.50 / 2caps
+* Tomatoes on the vine  mx   $4.99 / lb
+* Asparagus  mx   $7.75 / lb
+* Green Onions  cal  $2.00 / bunch
 * Red Cabbage  cal  $2.50 / lb
-* Avocados  mx   $5.50 / 2 pack
+* Mini Watermelon  mx   $7.75 / each
 * Pineapple  ec   $7.99 / each
-* Cauliflower big  cal  $6.99 / each 
+* Cauliflower big  cal  $6.99 / each
 
 ***
 
