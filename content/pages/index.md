@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  April 19th -April 23rd / 2021**
+#### **from  April 26h -April 30th / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Bartlett Pears  arg
+* 3 Red Bartlett Pears  arg
 * 4 Bananas  ec
-* 3 Pink Lady Apples  BC
-* 2 Cara Cara Oranges cal
-* 2lb Carrots  cal
+* 4 Pink Lady Apples  BC
+* 2 Navel Oranges cal
+* Cantaloupe Melon  mx
 * Romaine Lettuce  cal
-* Red Radishes  cal
-* Broccoli crown cal
-* Red Bunched Beets  cal
+* 227gr White Mushrooms BC
+* Broccolette cal
+* Bunch of Green Onions  cal
 * 1.5lbs Red Potatoes  man
-* Avocado  mx
+* Bunch of Green Kale  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Pink Lady Apples  BC
+* 6 Fuji Apples  BC
 * 6 Bananas  ec
-* 4 Bartlett Pears  arg
-* 4 Cara Cara Oranges  cal
+* 4 Red Bartlett Pears  arg
+* 4 Navel Oranges  cal
 * 2 Rio Red Grapefruit  cal
-* 1 Min seedless Watermelon  mx
-* 1.5lb Blood Oranges  cal
+* 1 Cantaloupe Melon  mx
+* 1lb Meyer Lemons  cal
+* 1lb Kiwis  cal
 
 ***
 
@@ -48,35 +49,35 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
-* Garlic  cal - $3.99/each 2 for $4.99
+* Garlic  cal - $6.50 / 3oz bag 
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Mushroom White  BC - $3.99 / 227gr
+* Carrots  cal - $4.50 / 2lb bag
 * Portobello Mushroom  BC - $6.50 / 2caps
 * Yams  cal - $3.25 / lb
-* Tomatoes on the vine  mx -  $4.99 / lb
-* Asparagus  mx - $7.75 / lb
+* Red Grape Tomatoes  mx -  $4.25 / pint
+* Asparagus  mx - $6.99 / lb
 * Red Cabbage  cal - $2.50 / lb
-* Cauliflower  cal - $6.99 / each
-* Green Onions  cal - $2.00 / bunch
-* HH Cucumber  BC - $6.50 / each
-* Mini seedless Watermelon  mx  - $7.75 / each
+* Cauliflower  cal - $5.99 / each
+* Red Bell Pepper  mx - $2.99 / lb
+* Avocado  mx - $5.75 / for 2
+* Mini seedless Watermelon  mx  - $7.50 / each
 * Pineapple  ec - $7.99 / each
-* Grapefruit  cal - $1.99 / each
+* Grapefruit  cal - $1.75 / each
 * Kiwis  cal - $6.75 / lb
-* Blood Oranges  cal -  $2.75 / lb
+* Meyer Lemons  cal -  $2.99 / lb
 * Dates Medjool  cal - $9.99 / 8oz
 
 ### Weekly Specials
 
 * Portobello Mushrooms  BC  $6.50 / 2caps
-* Tomatoes on the vine  mx   $4.99 / lb
-* Asparagus  mx   $7.75 / lb
-* Green Onions  cal  $2.00 / bunch
-* Red Cabbage  cal  $2.50 / lb
-* Mini Watermelon  mx   $7.75 / each
+* Red Grape Tomatoes  mx   $4.25 / pint
+* Asparagus  mx   $6.99 / lb
+* Carrots  cal  $4.50 / 2lb bag
+* Red Bell Pepper  mx  $2.99 / lb
+* Mini Watermelon  mx   $7.50 / each
 * Pineapple  ec   $7.99 / each
-* Cauliflower big  cal  $6.99 / each
+* Cauliflower  cal  $5.99 / each
 
 ***
 
