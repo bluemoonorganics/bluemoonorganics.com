@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  May 3rd -May 7th / 2021**
+#### **from  May 10th -May 14th / 2021**
 
 ### Regular Box ($38.00)
 
@@ -18,23 +18,23 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  ec
 * 4 Fuji Apples  BC
 * 2 Cara Cara Oranges cal
-* Yellow Bell Pepper  mx
-* Red Leaf Lettuce  cal
-* Field Cucumber  mx
-* Broccoli cal
-* 1pint Red Grape Tomatoes mx
+* Green Bell Pepper  mx
+* Green Leaf Lettuce  cal
+* Long English Cucumber  mx
+* Broccolette cal
+* Red Radishes  cal
 * 1.5lbs Russet Potatoes  cal
-* Rainbow Chard  cal
+* 2lb Carrrots  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Fuji Apples  BC
+* 5 Fuji Apples  BC
 * 6 Bananas  ec
 * 3 Bartlett Pears  arg
 * 3 Cara Cara Oranges  cal
 * 2 Rio Red Grapefruit  cal
-* 1 Mini seedless Watermelon mx
-* 1lb Meyer Lemons  cal
+* 1 Cantaloupe Melon mx
+* 2 Lemons  cal
 * 3 Kiwis  cal
 
 ***
@@ -52,30 +52,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $6.50 / 3oz bag
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Carrots  cal - $4.50 / 2lb bag
+* Roma Tomatoes mx - $3.75 / lb
 * Portobello Mushroom  BC - $7.50 / 2caps
 * Mushroom White  BC - $3.99 / 227gr
 * Yams  cal -  $3.25 / lb
 * Butternut Squash  mx - $2.25 / lb
 * Cilantro  mx - $2.50 / bunch
 * Cauliflower big cal - $7.99 / each
-* Jalapeno Pepper  mx - $2.85 / half lb
+* Jalapeno Pepper  mx - $2.50 / half lb
 * Rutabaga  cal - $4.50 / lb
-* Avocado  mx - $5.75 / for 2
+* Avocado  mx - $6.75 / for 2
 * Mini seedless Watermelon  mx  - $7.50 / each
 * Grapefruit  cal - $1.75 / each
 * Kiwis  cal - $6.75 / lb
-* Meyer Lemons  cal -  $2.99 / lb
-* Dates Medjool  cal - $9.99 / 8oz
+* Lemons  cal -  $3.50 / for 2
+* Cantaloupe Melon  mx - $5.50 / each
 
 ### Weekly Specials
 
-* Jalapeno Pepper  mx  $2.85/half lb
-* Avocados  mx   $5.75 / for 2
-* Carrots  cal  $4.50 / 2lb bag
-* Rutabaga  cal  $4.50 / lb
-* Mini Watermelon  mx   $7.50 / each
-* Cauliflower BIG  cal $7.99 / each
+* Jalapeno Pepper mx   $2.50/half lb
+* Avocados mx   $6.75 / for 2
+* Roma Tomatoes mx   $3.75 / lb
+* Rutabaga cal   $4.50 / lb
+* Cantaloupe Melon mx   $5.50 / each
+* Cauliflower BIG cal   $7.99 / each
+* Cilantro mx   $2.50 / bunch
 * Maple Syrup $14.99(reg $15.99) / 500ml
 
 ***
