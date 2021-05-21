@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  May 17th -May 21st / 2021**
+#### **from  May 24th -May 28th / 2021**
 
 ### Regular Box ($38.00)
 
 * 1 Cantaloupe Melon  mx
 * 4 Bananas  ec
 * 4 Fuji Apples  BC
-* 2 Cara Cara Oranges cal
-* Roma Tomatoes  mx
+* 3 D'Anjou Pears
+* Red Grape Tomatoes  mx
 * Romaine Lettuce  cal
-* Long English Cucumber  mx
+* 2 Field Cucumber  mx
 * Broccolette cal
-* Red Bunched Beets  cal
-* 1.5lbs Russet Potatoes  cal
-* 1 Butternut Squash  mx
+* Bunched Daikon  cal
+* 1.25lb Yellow Nugget Potatoes  cal
+* 227gr White Mushrooms  BC
 
 ### Fruit Box ($38.00)
 
-* 6 Fuji Apples  BC
+* 5 Fuji Apples  BC
 * 6 Bananas  ec
 * 3 D'Anjou Pears  arg
-* 4 Cara Cara Oranges  cal
+* 1 Mini Watermelon  mx
 * 2 Rio Red Grapefruit  cal
 * 1 Cantaloupe Melon mx
 * 2 Lemons  cal
-* 1.5lb Apricots  cal
+* 1lb Strawberries  cal
 
 ***
 
@@ -49,34 +49,34 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
-* Garlic  cal - $6.50 / 3oz bag
+* Garlic  cal - $6.00 / for 2
 * Ginger  peru - $5.99 / half lb
 * Yellow Onions man - $2.50 / lb
 * Carrots  cal - $4.75 / 2lb bag
 * Mini Sweet Pepper cal - $5.50 / 1lb bag
-* Mushroom White  BC - $3.99 / 227gr
+* Artichoke  cal - $3.99 / each
 * Yams  cal -  $3.25 / lb
 * Green Cabbage  cal - $2.65 / lb
-* Italian Parsley  cal - $3.25 / bunch
-* Cauliflower big cal - $7.99 / each
-* Green Kale  cal - $3.99 / bunch
-* Rutabaga  cal - $4.50 / lb
+* Green Onions  cal - $2.50 / bunch
+* Cauliflower big cal - $6.75 / each
+* Butternut Squash  mx - $2.50 / lb
+* Rutabaga  cal - $3.99 / lb
 * Avocado  mx - $6.75 / for 2
-* Apricots  cal  - $5.50 / lb
+* Mini Watermelon  mx  - $6.99 / each
 * Grapefruit  cal - $1.75 / each
 * Kiwis  cal - $6.75 / lb
 * Lemons  cal -  $3.50 / for 2
-* D'Anjou Pears  ar - $1.20 / each
+* Strawberries  cal - $6.75 / lb
 
 ### Weekly Specials
 
 * Mini Sweet Pepper mx   $5.50/ 1lb bag
 * Avocados mx   $6.75 / for 2
-* Green Cabbage  cal   $2.65 / lb
-* Apricots cal   $5.50 / lb
-* Italian Parsley  cal   $3.25 / bunch
+* Artichoke  cal   $3.99 / each
+* Mini seedless Watermelon cal  $6.99 / each
+* Green Onions  cal   $2.50 / bunch
 * Cauliflower BIG cal   $7.99 / each
-* Green Kale  cal   $3.99 / bunch
+* Strawberries  cal   $6.75 / lb
 * Maple Syrup $14.99(reg $15.99) / 500ml
 
 ***
