@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  June 7th -June 11th / 2021**
+#### **from  June 14th -June 18th / 2021**
 
 ### Regular Box ($38.00)
 
 * 1lb Yellow Nectarines  cal
 * 4 Bananas  ec
-* 4 Ambrosia Apples  BC
+* 4 Gala Apples  wa
 * 2 D'Anjou Pears  Ar
 * Roma Tomatoes  mx
-* Green Leaf Lettuce  BC
-* 1lb Zucchini  mx
+* Romaine Lettuce  cal
+* Celery  cal
 * Broccoli cal
-* Cilantro  cal
+* 227gr White Mushrooms  BC
 * Orange Bell Pepper  mx
-* Gold Beets Bunched  cal
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Ambrosia Apples  BC
+* 6 Gala Apples  BC
 * 5 Bananas  ec
-* 3 D'Anjou Pears  arg
+* 2 Ataulfo Mango's  mx
 * 1 Mini Watermelon  mx
-* 1.33lb Yellow Nectarines  cal
-* 1lb Red Plums  cal
+* 1.25lb Yellow Nectarines  cal
+* 1lb Black Plums  cal
 * 2 Cara Cara Oranges  cal
-* 6oz Blueberries  mx
+* 1 Cantaloupe Melon  mx
 
 ***
 
@@ -50,34 +50,34 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $6.00 / for 2
-* Ginger  peru - $5.99 / half lb
+* Tumeric  peru - $8.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Nugget Potatoes  cal - $3.25 / lb
-* Carrots cal - $4.75 / 2lb bag
-* Artichoke  cal - $3.50 / each
+* Yellow Potatoes  cal - $2.50 / lb
+* Carrots cal - $4.99 / 2lb bag
+* Cauliflower BIG  cal - $6.75 / each
 * Yams  cal -  $3.50 / lb
-* Green Cabbage  cal - $2.75 / lb
-* Italian Parsley  cal - $2.75 / bunch
-* Mushroom White  BC - $3.99 / 227gr
-* Butternut Squash  mx - $2.50 / lb
+* Red Cabbage  cal - $2.75 / lb
+* Field Cucumber  cal - $2.50 / each
+* Portabella Mushroom BC - $7.75 / 2caps
+* Iceberg Lettuce  cal - $4.99 / each
 * Avocado  mx - $6.75 / for 2
-* Red Plums  cal - $5.50 / lb
-* Mini Watermelon  mx  - $6.99 / each
-* Grapefruit  cal - $1.75 / each
-* Cara Cara Oranges  cal - $1.50 / each
-* Lemons  cal -  $3.50 / for 2
-* Blueberries  cal - $4.99 / 6oz
+* Black Plums  cal - $4.99 / lb
+* Mini Watermelon  mx  - $6.50 / each
+* Cantaloupe Melon  cal - $5.50 / each
+* Navel Oranges  cal - $1.50 / each
+* Ataulfo Mango  cal -  $3.99 / for 2
+* Red seedless Grapes cal - $5.99 / lb
 
 ### Weekly Specials
 
-* Red Plums  cal   $5.50/ lb
+* Tumeric  peru   $8.99/ half a lb
 * Avocados mx   $6.75 / for 2
-* Artichoke  cal   $3.50 / each
-* Mini seedless Watermelon cal  $6.99 / each
-* Flat Leaf Parsley  cal   $2.75 / bunch
-* Rio Red Grapefruit cal   $1.75 / each
-* Blueberries  cal   $4.99 / 6oz
-* Maple Syrup $14.99(reg $15.99) / 500ml
+* Cauliflower BIG cal   $6.75 / each
+* Mini seedless Watermelon cal  $6.50 / each
+* Iceberg Lettuce  cal   $4.99 / each
+* Ataulfo Mango's  mx   $3.99 / for 2
+* Red seedless Grapes  cal   $5.99 / lb
+* Honey BC $8.99(reg $9.99) / 500gr
 
 ***
 
