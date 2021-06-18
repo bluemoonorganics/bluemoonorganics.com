@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  June 14th -June 18th / 2021**
+#### **from  June 21st -June 25th / 2021**
 
 ### Regular Box ($38.00)
 
-* 1lb Yellow Nectarines  cal
+* 1 Cantaloupe Melon  cal
 * 4 Bananas  ec
 * 4 Gala Apples  wa
 * 2 D'Anjou Pears  Ar
 * Roma Tomatoes  mx
-* Romaine Lettuce  cal
+* Romaine Lettuce  BC
 * Celery  cal
-* Broccoli cal
-* 227gr White Mushrooms  BC
-* Orange Bell Pepper  mx
+* Broccolette cal
+* 2lbs Carrots  cal
 * Green Onions  cal
+* Garlic Scapes  BC
 
 ### Fruit Box ($38.00)
 
-* 6 Gala Apples  BC
-* 5 Bananas  ec
-* 2 Ataulfo Mango's  mx
-* 1 Mini Watermelon  mx
+* 4 Gala Apples  BC
+* 4 Bananas  ec
+* 2lbs Red seedless Grapes cal
+* 1 Mini seedless Watermelon  mx
 * 1.25lb Yellow Nectarines  cal
-* 1lb Black Plums  cal
-* 2 Cara Cara Oranges  cal
-* 1 Cantaloupe Melon  mx
+* 6oz Blueberries  mx
+* 2 Navel Oranges  cal
+* 2 D'Anjou Pears  arg
 
 ***
 
@@ -53,20 +53,19 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Tumeric  peru - $8.99 / half lb
 * Yellow Onions man - $2.50 / lb
 * Yellow Potatoes  cal - $2.50 / lb
-* Carrots cal - $4.99 / 2lb bag
+* Nugget Potatoes cal - $3.50 / lb
 * Cauliflower BIG  cal - $6.75 / each
-* Yams  cal -  $3.50 / lb
+* Green Kale BC -  $4.50 / bunch
 * Red Cabbage  cal - $2.75 / lb
-* Field Cucumber  cal - $2.50 / each
+* White Mushroom BC - $3.99 / 227gr
 * Portabella Mushroom BC - $7.75 / 2caps
 * Iceberg Lettuce  cal - $4.99 / each
 * Avocado  mx - $6.75 / for 2
-* Black Plums  cal - $4.99 / lb
-* Mini Watermelon  mx  - $6.50 / each
-* Cantaloupe Melon  cal - $5.50 / each
+* Blueberries  mx - $5.99 / 6oz
+* Mini Watermelon mx  - $6.50 / each
+* Red seedless Grapes cal - $8.99 / 2lb bag
 * Navel Oranges  cal - $1.50 / each
-* Ataulfo Mango  cal -  $3.99 / for 2
-* Red seedless Grapes cal - $5.99 / lb
+* White Nectarines  cal -  $3.99 / lb
 
 ### Weekly Specials
 
@@ -75,8 +74,8 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Cauliflower BIG cal   $6.75 / each
 * Mini seedless Watermelon cal  $6.50 / each
 * Iceberg Lettuce  cal   $4.99 / each
-* Ataulfo Mango's  mx   $3.99 / for 2
-* Red seedless Grapes  cal   $5.99 / lb
+* Green Kale  BC   $4.50 / bunch
+* Red seedless Grapes  cal   $8.99 / 2lb bag
 * Honey BC $8.99(reg $9.99) / 500gr
 
 ***
