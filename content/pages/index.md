@@ -73,7 +73,6 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Cauliflower BIG cal   $6.75 / each
 * Strawberries cal  $7.99 / lb
 * Pineapple  mx   $7.75 / each
-* Green Kale  BC   $4.50 / bunch
 * Green Leaf Lettuce  BC   $4.75 / each
 
 ***
