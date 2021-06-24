@@ -57,7 +57,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Cauliflower BIG  cal - $5.99 / each
 * Red Cabbage  cal - $2.75 / lb
 * White Mushroom BC - $3.99 / 227gr
-* Portabella Mushroom BC - $7.75 / 2caps
+* Portabella Mushroom BC - $6.99 / 2caps
 * Avocado  mx - $6.75 / for 2
 * Lemons  cal - $3.50 / for 2
 * Strawberries  cal - $7.99 / lb
