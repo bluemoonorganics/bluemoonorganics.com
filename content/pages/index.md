@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  June 28th -July2nd / 2021**
+#### **from  July 5th -July9th / 2021**
 
 ### Regular Box ($38.00)
 
 * 1 Kent Mango  mx
 * 4 Bananas  ec
-* 4 Gala Apples  wa
-* 1lb White Nectarines  cal
+* 4 Pink Cripps Apples  wa
+* 1lb Black Plums  cal
 * Roma Tomatoes  mx
-* 1.5lb Yellow Potatoes  cal
-* Red Radishes  cal
-* Broccolette cal
+* 1.5lb White Potatoes  BC
+* Gold Bunched Beets  cal
+* Green Leaf Lettuce  BC
 * 2lbs Carrots  cal
-* 1lb Zucchini  cal
-* Garlic Scapes  BC
+* Filed Cucumber  mx
+* Italian Parsley  BC
 
 ### Fruit Box ($38.00)
 
-* 5 Gala Apples  BC
+* 4 Pink Cripps Apples  arg
 * 5 Bananas  ec
 * 2lbs Red seedless Grapes cal
-* 1lb Strawberries  cal
-* 1.25lb White Nectarines  cal
-* 1.25lb Black Plums  cal
+* 1 Mini seedless Watermelon  mx
+* 1lb Apricots  BC
+* 1lb Black Plums  cal
 * 1 Kent Mango  mx
-* 2 Lemons  cal
 
 ***
 
@@ -52,28 +51,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal - $6.00 / for 2
 * Tumeric  peru - $8.99 / half lb
 * Yellow Onions man - $2.50 / lb
-* Green Leaf Lettuce  BC - $4.75 / each
-* Celery  cal - $3.50 / each
-* Cauliflower BIG  cal - $5.99 / each
+* Carrots  cal - $4.50 / 2lb bag
+* Broccoli  cal - $4.50 / each
+* Cauliflower BIG  cal - $5.50 / each
 * Red Cabbage  cal - $2.75 / lb
 * White Mushroom BC - $3.99 / 227gr
-* Portabella Mushroom BC - $6.99 / 2caps
+* Nugget Potatoes BC - $3.50 / lb
 * Avocado  mx - $6.75 / for 2
 * Lemons  cal - $3.50 / for 2
-* Strawberries  cal - $7.99 / lb
-* Pineapple  mx  - $7.75 / each
+* Strawberries  cal - $7.50 / lb
+* Pineapple  mx  - $6.99 / each
+* Mini sdless Watermelon mc - $7.75 / ea
 * Red seedless Grapes cal - $7.99 / 2lb bag
-* Navel Oranges  cal - $1.50 / each
-* Black Plums  cal -  $4.75 / lb
+* Blueberries  BC - $11.99 / lb
+* Cherries  BC -  $15.00 / 1.5lb bag
+* Apricots  BC -  $6.99 / lb
 
 ### Weekly Specials
 
-* Tumeric  peru   $8.99/ half a lb
-* Avocados mx   $6.75 / for 2
-* Cauliflower BIG cal   $6.75 / each
-* Strawberries cal  $7.99 / lb
-* Pineapple  mx   $7.75 / each
-* Green Leaf Lettuce  BC   $4.75 / each
+* Cherries  BC   $15.00/ 1.5lb bag
+* Blueberries  BC   $11.99 / lb
+* Apricots  BC   $6.99 / lb
+* Strawberries cal  $7.50 / lb
+* Avocados  mx   $6.75 / for 2
+* Nugget Potatoes  BC   $3.50 / lb
 
 ***
 
