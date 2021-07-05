@@ -22,7 +22,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 1.5lb White Potatoes  BC
 * Gold Bunched Beets  cal
 * Green Leaf Lettuce  BC
-* 2lbs Carrots  cal
+* Celery  cal
 * Filed Cucumber  mx
 * Italian Parsley  BC
 
