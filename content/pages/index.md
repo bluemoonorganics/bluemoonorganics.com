@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  July 5th -July9th / 2021**
+#### **from  July 12th -July 16th / 2021**
 
 ### Regular Box ($38.00)
 
-* 1 Kent Mango  mx
+* 1lb Yellow Peaches  cal
 * 4 Bananas  ec
-* 4 Pink Cripps Apples  wa
-* 1lb Black Plums  cal
+* 3 Pink Cripps Apples  arg
+* 1 Cantaloupe Melon cal
 * Roma Tomatoes  mx
 * 1.5lb White Potatoes  BC
-* Gold Bunched Beets  cal
+* Green Kale  BC
 * Green Leaf Lettuce  BC
 * Celery  cal
-* Filed Cucumber  mx
-* Italian Parsley  BC
+* 1lb Zucchini  mx
+* Cilantro  cal
 
 ### Fruit Box ($38.00)
 
 * 4 Pink Cripps Apples  arg
 * 5 Bananas  ec
 * 2lbs Red seedless Grapes cal
-* 1 Mini seedless Watermelon  mx
+* 1lb Strawberries  cal
 * 1lb Apricots  BC
-* 1lb Black Plums  cal
-* 1 Kent Mango  mx
+* 1lb Yellow Peaches  cal
+* 1 Cantaloupe Melon  cal
 
 ***
 
@@ -49,32 +49,33 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $6.00 / for 2
-* Tumeric  peru - $8.99 / half lb
+* Jalapeno  cal - $3.99 / half lb
 * Yellow Onions man - $2.50 / lb
 * Carrots  cal - $4.50 / 2lb bag
-* Broccoli  cal - $4.50 / each
-* Cauliflower BIG  cal - $5.50 / each
-* Red Cabbage  cal - $2.75 / lb
+* Broccoli Crown cal - $3.99 / lb
+* Cauliflower   cal - $4.99 / each
+* Red or Green Cabbage  cal - $2.75 / lb
 * White Mushroom BC - $3.99 / 227gr
-* Nugget Potatoes BC - $3.50 / lb
+* Mini Sweet Pepper  cal - $6.50 / 1lb bag
 * Avocado  mx - $6.75 / for 2
-* Lemons  cal - $3.50 / for 2
-* Strawberries  cal - $7.50 / lb
-* Pineapple  mx  - $6.99 / each
-* Mini sdless Watermelon mc - $7.75 / ea
-* Red seedless Grapes cal - $7.99 / 2lb bag
+* Lemons  cal - $4.99 / lb
+* Strawberries  cal - $6.99 / lb
+* Red seedless Grapes cal  - $7.99 / 2lb bag
+* Mini sdless Watermelon mc - $6.99 / ea
+* Blueberries  BC - $37.50 / 5lb box
 * Blueberries  BC - $11.99 / lb
 * Cherries  BC -  $15.00 / 1.5lb bag
-* Apricots  BC -  $6.99 / lb
+* Apricots  BC -  $6.50 / lb
 
 ### Weekly Specials
 
 * Cherries  BC   $15.00/ 1.5lb bag
 * Blueberries  BC   $11.99 / lb
-* Apricots  BC   $6.99 / lb
-* Strawberries cal  $7.50 / lb
+* Blueberries  BC  $37.50 / 5l box
+* Apricots  BC   $6.50 / lb
+* Strawberries cal  $6.99 / lb
 * Avocados  mx   $6.75 / for 2
-* Nugget Potatoes  BC   $3.50 / lb
+* Mini Sweet Pepper  cal   $6.50 / 1lb bag
 
 ***
 
