@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  July 19th -July 23rd / 2021**
+#### **from  July 26th -July 30th / 2021**
 
 ### Regular Box ($38.00)
 
-* 3 Bosc Pears arg
+* 2 Bartlett Pears arg
 * 4 Bananas  ec
-* 3 Pink Cripps Apples  arg
-* 1lb Red Plums cal
+* 1 Mango Kent  mx
+* 1 Mini seedless Watermelon cal
 * Roma Tomatoes  mx
 * 1.5lb White Potatoes  BC
-* Broccolette  cal
-* Green Leaf Lettuce  BC
+* Celery  cal
+* Red Leaf Lettuce  BC
 * Cauliflower  cal
-* 1 Fennel  cal
+* Zucchini  BC
 * Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 4 Pink Cripps Apples  arg
+* 4 Gala Apples  was
 * 5 Bananas  ec
-* 3 Bosc Pears  arg
-* 1lb Blueberries  BC
+* 2 Bartlett Pears  arg
+* 1 Mini seedless Watermelon cal
 * 1lb Apricots  BC
-* 2 Grapefruit  Star Ruby  cal
-* 1 Cantaloupe Melon  cal
+* 1lb Red Plums  cal
+* 1.5lb Peaches  BC
+* 1 Mango Kent  mx
 
 ***
 
@@ -49,31 +50,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix cal  -  $6.99 / 5oz
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $6.00 / for 2
-* Jalapeno  cal - $3.99 / half lb
 * Yellow Onions man - $2.50 / lb
+* Artichokes  cal - $3.50 / each
 * Carrots  cal - $4.50 / 2lb bag
-* Celery cal - $3.25 / each
+* Broccolett cal - $3.75 / each
 * Red Bell Pepper  mx - $3.99 / lb
 * Red Cabbage  cal - $2.75 / lb
 * White Mushroom BC - $3.99 / 227gr
-* Italian Parsley  cal - $2.50 / bunch
 * Avocado  mx - $6.50 / for 2
+* Apple Gala  was - $3.50 / lb
 * Lemons  cal - $4.99 / lb
-* Strawberries  cal - $6.99 / lb
+* Peaches  BC - $8.99 / 2lb bag
 * Star Ruby Grapefruit cal  - $2.25 / each
 * Cantaloupe Melon cal- $5.99 / ea
 * Blueberries  BC - $37.50 / 5lb box
-* Blueberries  BC - $9.99 / lb
-* White Nectarines  cal -  $5.50 / lb
+* Red Plums  cal - $4.50 / lb
 * Apricots  BC -  $5.99 / lb
 
 ### Weekly Specials
 
 * Blueberries  BC  $37.50/ 5lb box
-* Blueberries  BC   $9.99 / lb
+* Peaches  BC   $8.99 / 2lb bag
 * Apricots  BC  $5.99 / lb
 * Grapefruit  cal   $2.25 / each
-* Italian Parsley  cal  $2.50 / bunch
+* Cantaloupe Melon BIG cal  $5.99/ea
+* Artichokes  cal  $3.50 / each
 * Avocados  mx   $6.50 / for 2
 * Red Bell Pepper  mx   $3.99 / 1lb
 
