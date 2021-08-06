@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  August 2nd -August 6th / 2021**
+#### **from  August 9th -August 13th / 2021**
 
 ### Regular Box ($38.00)
 
-* 2 Ruby Red Grapefruit  cal
+* 1 Cantaloupe Melon  cal
 * 4 Bananas  ec
 * 1 Mango Kent  mx
-* 1lb Red Plums cal
+* 4 Peaches  BC
 * Roma Tomatoes  mx
 * 1.5lb White Potatoes  BC
-* 2lbs Carrots  cal
+* Bunched Red Beets  cal
 * Red Leaf Lettuce  BC
-* 227gr White Mushrooms  BC
+* Green Onions  cal
 * Zucchini  BC
-* 1 Field Cucumber  cal
+* Celery  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Gala Apples  was
+* 4 Gala Apples  was
 * 5 Bananas  ec
 * 1 Mini seedless Watermelon cal
 * 2 Ruby Red Grapefruit  cal
-* 1lb Red Plums  cal
-* 2lbs Peaches  BC
+* 1lb Apricots  BC
+* 6 Peaches  BC
 * 1 Mango Kent  mx
+* 3 Lemons  cal
 
 ***
 
@@ -50,27 +51,26 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal  -  $6.99 / 5oz
 * Garlic  cal - $6.00 / for 2
 * Yellow Onions man - $2.50 / lb
-* Broccoli  nv - $4.99 / each
+* Broccoli  Crown  nv - $4.50 / lb
 * Red Bell Pepper  mx - $3.99 / lb
 * Red Cabbage  cal - $2.75 / lb
-* Cauliflower big cal - $5.99 / each
-* Celery  nv - $2.99 / each
-* Avocado  mx - $6.50 / for 2
+* White Mushroom  BC - $3.99 / 227gr
+* Carrots  cal -  $4.50 / 2lb bag
+* Avocado  mx - $7.99 / for 3pack
 * Apple Gala  was - $1.25 / each
 * Lemons  cal - $12.50 / 2lb bag
-* Peaches  BC - $8.99 / 2lb bag
 * Mini seedless Watermelon cal- $6.75 / ea
-* Blueberries  BC - $37.50 / 5lb box
-* Apricots  BC -  $5.99 / lb
+* Green seedless Grapes cal - $9.99/ 2lb bag
+* Ruby Red Grapefruit  cal -  $2.25 / each
 
 ### Weekly Specials
 
-* Blueberries  BC  $37.50/ 5lb box
+* Green Seedless Grapes  cal $9.99/ 2lb bag
 * Peaches  BC   $8.99 / 2lb bag
-* Apricots  BC  $7.50 / lb
+* Ruby Red Grapefruit cal  $2.25 / each
 * Mini seedless watermelon cal  $6.75/ea
-* Broccoli  cal  $4.99 / each
-* Avocados  mx   $6.50 / for 2
+* Broccoli Crown cal  $4.50 / lb
+* Avocados  mx   $7.99 / for 3pack
 * Red Bell Pepper  mx   $3.99 / 1lb
 
 ***
