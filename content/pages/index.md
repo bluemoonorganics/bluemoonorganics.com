@@ -10,21 +10,21 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **From  August 30th - September 3rd / 2021**
+#### **September 6th - September 10th / 2021**
 
 ### Regular Box ($38.00)
 
-* 3 Sunrise Apples  BC
+* 4 Sunrise Apples  BC
 * 4 Bananas  ec
-* 1 Cantaloupe Melon  cal
+* 2 Bartlett Pears  BC
 * Italian Plums  BC
-* Field Tomatoes  BC
-* 1lb Yellow Zucchinis  BC
+* 2 Yellow Peaches  BC
+* 1lb Zucchinis  BC
 * 1.5lb Yellow Potatoes  BC
-* Romaine Lettuce  BC
+* Red Leaf Lettuce  BC
 * Red Bell  Pepper  cal
-* Green Onions  cal
-* Celery  cal
+* 1lb Broccoli Crown  nv
+* Green Kale  BC
 
 ### Fruit Box ($38.00)
 
@@ -32,10 +32,10 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 5 Bananas  ec
 * 1 Mini Watermelon  cal
 * 1lb Italian Plums  BC
-* 1lb Yellow Peaches  BC
-* 2 Red Ruby Grapefruit  cal
-* 1lb Kiwis  cl
-* 1 Cantaloupe Melon  cal
+* 4 Yellow Peaches  BC
+* 3 Bartlett Pears  BC
+* 4 Kiwis  cl
+* 1lb Thomcord Grapes  cal
 
 ***
 
@@ -51,31 +51,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.99 for 2
 * Yellow Onions  man   $2.50 / lb
-* Asparagus  cal   $9.99 / lb
-* Field Cucumber  BC   $3.99 / lb
-* Red Cabbage  cal   $2.75 / lb
-* Crown Broccoli  cal   $4.50 / ln
+* Celery  cal   $3.25 / bunch
+* Long English Cucumber BC  $5.99 / each
+* Italian Parsley  BC   $3.50 / bunch
+* Portabella Mushrooms BC  $6.99 / 2 caps
 * Cauliflower  cal   $5.75 / each
 * Carrots  cal   $4.99 / 2lb bag
 * White Mushroom  BC   $3.99 / 227gr
 * Avocados  mx   $5.99 / 2pack
 * Lemons  cal   $3.99 / lb
 * Mini seedless Watermelon  cal   $6.75/ea
-* Red seedless Grapes  cal   $9.99 / 2lb bag
+* Thomcord seedless Grapes cal  $6.50 / lb
 * Grapefruit  cal   $2.10 / each
 * Kiwis  cl   $5.50 / lb
-* Peaches  BC   $4.99 / lb
 
 ### Weekly Specials
 
-* small, medium or large freestone Peaches for canning, ask for a 18lb case price
-* Asparagus  $9.99 / lb
-* Cauliflower big  $5.75 / each
+* Italian Parsley  BC  $3.50 / bunch
+* Cauliflower big cal $5.75 / each
+* Portabella Mushroom  BC  $6.99 / 2 caps
 * White Mushrooms   $3.99 / 227gr
 * Avocados   $5.99 / 2pack
 * Mini seedless Watermelon   $6.75 / each
-* Red seedless Grapes   $9.99 / 2lb bag
-* Yellow Peaches   $4.99 / lb
+* Thomcord seedless Grapes   $6.50 / lb
+* Long English Cucumber  BC $5.99 / each
 
 ***
 
