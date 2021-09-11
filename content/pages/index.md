@@ -56,9 +56,10 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Italian Parsley  BC   $3.50 / bunch
 * Portabella Mushrooms BC  $6.99 / 2 caps
 * Cauliflower  cal   $5.75 / each
-* Carrots Table cal   $2.99 / lb 
+* Carrots Table cal   $2.99 / lb
 * Yams  cal   $3.50 / lb
 * Romaine Hearts  cal   $6.99 / 3pack
+* Jalapeno Peppers  BC $3.99/0.5lbs
 * Avocados  mx   $5.99 / 2pack
 * Lemons  cal   $3.99 / lb
 * Mini seedless Watermelon  cal   $6.75/ea
