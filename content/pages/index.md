@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **September 13th - September 17th / 2021**
+#### **September 20th - September 24th / 2021**
 
 ### Regular Box ($38.00)
 
 * 4 MacIntosh Apples  BC
 * 4 Bananas  ec
-* 2 Yellow Peaches  BC
-* Italian Plums  BC
-* Green Onions  cal
-* Celery  cal
-* 1.5lb Yellow Potatoes  BC
-* Gold Bunched Beets  cal
+* 2 Bartlett Pears  BC
+* 1 Pomegranate  cal
+* Italian Parsley  BC
+* Daikon Radish  cal
+* 1.5lb Red Potatoes  BC
+* Frisee Lettuce  cal
 * Red Bell  Pepper  cal
-* 227gr White Mushrooms  BC
-* Green Kale  BC
+* Broccoli  nv
+* Rainbow Chard  BC
 
 ### Fruit Box ($38.00)
 
 * 5 MacIntosh Apples  BC
 * 5 Bananas  ec
-* 1 Mini Watermelon  cal
+* 6oz Blackberries  cal
+* 1 Pomegranate  cal
+* 3 Nectarines  BC
+* 3 Valencia Oranges  cal
 * 1lb Italian Plums  BC
-* 3 Yellow Peaches  BC
-* 2 Valencia Oranges  cal
-* 4 Kiwis  cl
 * 1lb Thomcord Grapes  cal
 
 ***
@@ -51,32 +51,34 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.99 for 2
 * Yellow Onions  man   $2.50 / lb
-* Broccoli Crown  cal   $4.75 / lb
-* Long English Cucumber BC  $5.99 / each
-* Italian Parsley  BC   $3.50 / bunch
+* Celery  nv   $3.25 / each
+* Field Cucumber BC  $2.99 / each
+* Delicata Squash  BC   $2.99 / lb
 * Portabella Mushrooms BC  $6.99 / 2 caps
-* Cauliflower  cal   $5.75 / each
-* Carrots Table cal   $2.99 / lb
+* Cauliflower  cal   $5.99 / each
+* Carrots Table cal   $3.25 / lb
 * Yams  cal   $3.50 / lb
-* Romaine Hearts  cal   $6.99 / 3pack
+* White Mushrooms  BC   $3.99 / 227grk
 * Jalapeno Peppers  BC $3.99/0.5lbs
 * Avocados  mx   $5.99 / 2pack
 * Lemons  cal   $3.99 / lb
-* Mini seedless Watermelon  cal   $6.75/ea
+* Italian Plums  BC   $3.50 / lb
 * Thomcord seedless Grapes cal  $6.50 / lb
-* Valencia Oranges  cal   $1.85 / each
+* Valencia Oranges  cal   $1.75 / each
 * Kiwis  cl   $5.50 / lb
+* Nectarines  BC  $5.75 / lb
+* Blackberries  cal  $5.99 / 6oz
 
 ### Weekly Specials
 
-* Italian Parsley  BC  $3.50 / bunch
-* Cauliflower big cal $5.75 / each
+* Yams  cal  $3.50 / lb
+* Cauliflower big cal $5.99 / each
 * Portabella Mushroom  BC  $6.99 / 2 caps
-* Broccoli Crown  cal   $4.75 / lb
+* Nectarines  BC   $5.75 / lb
 * Avocados   $5.99 / 2pack
-* Mini seedless Watermelon   $6.75 / each
+* Blackberries  cal   $5.99 / 6oz
 * Thomcord seedless Grapes   $6.50 / lb
-* Long English Cucumber  BC $5.99 / each
+* Field Cucumber  BC $2.99 / each
 
 ***
 
