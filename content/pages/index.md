@@ -10,30 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **September 20th - September 24th / 2021**
+#### **September 27th - October 1st / 2021**
 
 ### Regular Box ($38.00)
 
-* 4 MacIntosh Apples  BC
+* 4 Gala Apples  BC
 * 4 Bananas  ec
 * 2 Bartlett Pears  BC
 * 1 Pomegranate  cal
-* Italian Parsley  BC
-* Daikon Radish  cal
+* 1.25lb Yams  cal
+* Green Kale  BC
 * 1.5lb Red Potatoes  BC
-* Frisee Lettuce  cal
-* Red Bell  Pepper  cal
-* Broccoli  nv
-* Rainbow Chard  BC
+* Cauliflower  cal
+* Bunched Carrots  cal
+* 1lb Zucchini  BC
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 MacIntosh Apples  BC
+* 5 Gala Apples  BC
 * 5 Bananas  ec
 * 6oz Blackberries  cal
 * 1 Pomegranate  cal
-* 3 Nectarines  BC
-* 3 Valencia Oranges  cal
+* 1 Mini seedless Watermelon  mx
+* 2 Asian Pears  cal
 * 1lb Italian Plums  BC
 * 1lb Thomcord Grapes  cal
 
@@ -55,30 +55,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Field Cucumber BC  $2.99 / each
 * Delicata Squash  BC   $2.99 / lb
 * Portabella Mushrooms BC  $6.99 / 2 caps
-* Cauliflower  cal   $5.99 / each
-* Carrots Table cal   $3.25 / lb
-* Yams  cal   $3.50 / lb
-* White Mushrooms  BC   $3.99 / 227grk
-* Jalapeno Peppers  BC $3.99/0.5lbs
+* White Mushrooms  BC   $3.99 / 227gr
+* Broccolette  BC   $5.99 / bunch
 * Avocados  mx   $5.99 / 2pack
-* Lemons  cal   $3.99 / lb
-* Italian Plums  BC   $3.50 / lb
-* Thomcord seedless Grapes cal  $6.50 / lb
-* Valencia Oranges  cal   $1.75 / each
+* Lemons  cal   $1.85 / each
+* Plums Italian  BC $3.50 / lb
+* Thomcord Grapes  cal   $6.50 / lb
+* Green seedless Grapes  al   $9.99/2lb bag
+* Mini seedless Watermelon mx   $6.50 / ea
+* Asian Pears  cal   $2.99 / each
 * Kiwis  cl   $5.50 / lb
-* Nectarines  BC  $5.75 / lb
 * Blackberries  cal  $5.99 / 6oz
+* Cranberries  que  $3.99 / 8oz bag
 
 ### Weekly Specials
 
-* Yams  cal  $3.50 / lb
-* Cauliflower big cal $5.99 / each
+* Broccolette  BC  $5.99 / bunch
+* Delicata Squash  BC  $2.99 / lb
 * Portabella Mushroom  BC  $6.99 / 2 caps
-* Nectarines  BC   $5.75 / lb
+* White Mushrooms  BC   $3.99 / 227gr
 * Avocados   $5.99 / 2pack
 * Blackberries  cal   $5.99 / 6oz
-* Thomcord seedless Grapes   $6.50 / lb
-* Field Cucumber  BC $2.99 / each
+* Green seedless Grapes   $9.99 / 2lb bag
+* Asian Pears  cal   $2.99 / each
+* Cranberries  quebec  $3.99 / 8oz bag
 
 ***
 
