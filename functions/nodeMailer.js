@@ -1,27 +1,8 @@
-const nodemailer = require("nodemailer");
+const sgMail = require("@sendgrid/mail");
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
-exports.handler = async event => {
-	const transporter = nodemailer.createTransport({
-		host: "smtp.office365.com",
-		port: 465,
-		secure: true,
-		auth: {
-			user: process.env.FROM_EMAIL,
-			pass: process.env.FROM_PASS
-		}
-		// debug: true, // show debug output
-		// logger: true // log information in console
-	});
-
-	// verify connection configuration
-	transporter.verify(function(error, success) {
-		if (error) {
-			console.log(error);
-		} else {
-			console.log("Server is ready to take our messages");
-		}
-	});
-
+exports.handler = async event => { 
+  
 	let data = JSON.parse(event.body).payload
 		? JSON.parse(event.body).payload
 		: JSON.parse(event.body);
@@ -81,7 +62,7 @@ Comments: ${data.comments}
 
 	try {
 		console.log("sending message");
-		await transporter.sendMail(msg);
+		await sgMail.send(msg);
 		console.log("message sent");
 		return {
 			statusCode: 200,
