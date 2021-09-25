@@ -243,9 +243,7 @@ export default {
 						sessionStorage.removeItem("substitutionData");
 					} else {
 						console.error("Submission error");
-						if (response.status == 400) {
-							this.error = true;
-						}
+						this.error = true; 
 					}
 				})
 				.catch(error => {
