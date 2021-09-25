@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **from  October 12th to 16th / 2020**
+#### **September 27th - October 1st / 2021**
 
 ### Regular Box ($38.00)
 
-* 1lb President Plums  BC
+* 4 Gala Apples  BC
 * 4 Bananas  ec
-* 4 Elstar Apples  BC
-* 2 Grapefruit Ruby/Pink  cal
-* Red Bunched Carrots  cal
-* Red Leaf Lettuce  cal
-* Bunch of Green Kale  BC
-* 1.5lb Yellow Potatoes  BC
+* 2 Bartlett Pears  BC
+* 1 Pomegranate  cal
 * 1.25lb Yams  cal
-* 1 Field Cucumber  mx
+* Green Kale  BC
+* 1.5lb Red Potatoes  BC
+* Cauliflower  cal
+* Bunched Carrots  cal
+* 1lb Zucchini  BC
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Elstar Apples  BC
+* 5 Gala Apples  BC
 * 5 Bananas  ec
-* 1lb Kiwis  chl
-* 2 Grapefruit Ruby/Pink  cal
-* 1 Cantaloupe Melon  cal
-* 2lb Red seedless Grapes   cal
-* 1lb Bartlett Pears  BC
-* 1lb President Plums  BC
+* 6oz Blackberries  cal
+* 1 Pomegranate  cal
+* 1 Mini seedless Watermelon  mx
+* 2 Asian Pears  cal
+* 1lb Italian Plums  BC
+* 1lb Thomcord Grapes  cal
 
 ***
 
@@ -46,40 +47,44 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 ### Extras
 
-* Spring Mix cal  -  $6.99 / 5oz
-* Baby Spinach cal  -  $6.99 / 5oz
-* Garlic  cal - $3.99/each 2 for $4.99
-* Ginger  peru - $5.99 / half lb
-* Yellow Onions was - $2.50 / lb
-* White Mushrooms BC - $3.80 / 227gr
-* Red Bell Pepper  mx - $4.99 / lb
-* Carrots   cal -  $5.75 / 2lb bag
-* Field Tomatoes   BC - $4.50 / lb
-* Delicata Squash  BC  $2.85 / lb
-* Celery  cal -  $4.25 / each
-* Broccolette  cal - $6.99 / bunch
-* Avocados mx - $6.99 / 3pack
-* Cantaloupe Melon  cal - $4.75 / each
-* Bartlett Pears  BC - $2.75 / lb
-* Red seedless Grapes cal - $9.99 / 2lb bag
-* Lime mx -  $3.99 / lb
-* Kiwis   cl - $4.99 / lb
+* Spring Mix  cal   $6.99 / 5oz bag
+* Baby Spinach cal   $6.99 / 5oz bag
+* Garlic  cal   $6.99 for 2
+* Yellow Onions  man   $2.50 / lb
+* Celery  nv   $3.25 / each
+* Field Cucumber BC  $2.99 / each
+* Delicata Squash  BC   $2.99 / lb
+* Portabella Mushrooms BC  $6.99 / 2 caps
+* White Mushrooms  BC   $3.99 / 227gr
+* Broccolette  BC   $5.99 / bunch
+* Avocados  mx   $5.99 / 2pack
+* Lemons  cal   $1.85 / each
+* Plums Italian  BC $3.50 / lb
+* Thomcord Grapes  cal   $6.50 / lb
+* Green seedless Grapes  al   $9.99/2lb bag
+* Mini seedless Watermelon mx   $6.50 / ea
+* Asian Pears  cal   $2.99 / each
+* Kiwis  cl   $5.50 / lb
+* Blackberries  cal  $5.99 / 6oz
+* Cranberries  que  $3.99 / 8oz bag
 
 ### Weekly Specials
 
-* Cantaloupe Melon cal   $4.75 / each
-* Avocado mx   $6.99 / 3ct bag
-* Celery  cal    $4.25 / each
-* Delicata Squash  BC   $2.85 / lb
-* Broccolette   cal   $6.99 / bunch
-* Yellow Ginger  peru   $5.99 / half a lb
-* Lime   cal    $3.99 / lb
+* Broccolette  BC  $5.99 / bunch
+* Delicata Squash  BC  $2.99 / lb
+* Portabella Mushroom  BC  $6.99 / 2 caps
+* White Mushrooms  BC   $3.99 / 227gr
+* Avocados   $5.99 / 2pack
+* Blackberries  cal   $5.99 / 6oz
+* Green seedless Grapes   $9.99 / 2lb bag
+* Asian Pears  cal   $2.99 / each
+* Cranberries  quebec  $3.99 / 8oz bag
 
 ***
 
 ## Grocery items
 
-**Organic Grocery Items** – we have flax oil, apple cider vinegar, flour, grains, oats, maple syrup, sugar, pancake mix, semolina pasta, peanut butter, rice, tomato paste, pasta sauces, cleaning supplies, honey. [**View Grocery Items page**](/groceries)
+**Organic Grocery Items** – we have flours, grains, oats, maple syrup, pancake mix, rice and honey. [**View Grocery Items page**](/groceries)
 
 ***
 
