@@ -2,7 +2,7 @@ const nodemailer = require("nodemailer");
 
 exports.handler = async event => {
 	const transporter = nodemailer.createTransport({
-		host: "smtpout.secureserver.net",
+		host: "smtp.office365.com",
 		port: 465,
 		secure: true,
 		auth: {
