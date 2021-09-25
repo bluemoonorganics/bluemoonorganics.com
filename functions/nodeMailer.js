@@ -61,19 +61,21 @@ Comments: ${data.comments}
 
 	try {
 		console.log("sending message");
-		await sgMail
+		return await sgMail
 			.send(msg)
 			.then(() => {
-				console.log("Email sent");
+				console.log("message sent");
+				return {
+					statusCode: 200,
+					body: "OK"
+				};
 			})
 			.catch(error => {
-				console.error(error);
+				return {
+					statusCode: error.code,
+					body: error.message
+				};
 			});
-		console.log("message sent");
-		return {
-			statusCode: 200,
-			body: "OK"
-		};
 	} catch (error) {
 		return {
 			statusCode: error.code,
