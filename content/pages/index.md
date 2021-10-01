@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **September 27th - October 1st / 2021**
+#### **October 4th - October 8th / 2021**
 
 ### Regular Box ($38.00)
 
-* 4 Gala Apples  BC
+* 4 Empire Apples  BC
 * 4 Bananas  ec
-* 2 Bartlett Pears  BC
-* 1 Pomegranate  cal
-* 1.25lb Yams  cal
-* Green Kale  BC
-* 1.5lb Red Potatoes  BC
-* Cauliflower  cal
+* 1 Cantaloupe Melon  BC
+* 1lb Black Plums  cal
 * Bunched Carrots  cal
-* 1lb Zucchini  BC
+* Green Butter Lettuce  cal
+* 1.5lb Yellow Potatoes  BC
+* Celery  cal
+* 1 Delicata Squash  BC
+* 1 Bunch of Italian Parsley  BC
 * Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Gala Apples  BC
+* 5 Empire Apples  BC
 * 5 Bananas  ec
-* 6oz Blackberries  cal
+* 1 Cantaloupe Melon  cal
 * 1 Pomegranate  cal
-* 1 Mini seedless Watermelon  mx
+* 2lbs Red seedless Grapes  caal
 * 2 Asian Pears  cal
-* 1lb Italian Plums  BC
-* 1lb Thomcord Grapes  cal
+* 1.5lb Black Plums  cal
 
 ***
 
@@ -49,36 +48,37 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
-* Garlic  cal   $6.99 for 2
+* Garlic  cal   $5.99 for 2
 * Yellow Onions  man   $2.50 / lb
-* Celery  nv   $3.25 / each
-* Field Cucumber BC  $2.99 / each
-* Delicata Squash  BC   $2.99 / lb
+* Cauliflower  nv   $5.50 / each
+* Brussel Sprout  cal  $7.99 / lb
+* Yams  cal   $2.99 / lb
 * Portabella Mushrooms BC  $6.99 / 2 caps
 * White Mushrooms  BC   $3.99 / 227gr
 * Broccolette  BC   $5.99 / bunch
-* Avocados  mx   $5.99 / 2pack
+* Roma Tomatoes  BC  $5.35 / lb
+* Leek  cal  $4.50 / lb
+* Avocado  mx  $5.99 / 2pack
 * Lemons  cal   $1.85 / each
-* Plums Italian  BC $3.50 / lb
-* Thomcord Grapes  cal   $6.50 / lb
-* Green seedless Grapes  al   $9.99/2lb bag
+* Red seedless Grapes  cal  $9.99 / 2lbs
+* Bartlett Pears  BC   $2.50 / lb
+* Pomegranate  cal   $2.99 / each
 * Mini seedless Watermelon mx   $6.50 / ea
 * Asian Pears  cal   $2.99 / each
-* Kiwis  cl   $5.50 / lb
-* Blackberries  cal  $5.99 / 6oz
 * Cranberries  que  $3.99 / 8oz bag
+* Dates Medjool  cal  $9.99 / 8oz 
 
 ### Weekly Specials
 
 * Broccolette  BC  $5.99 / bunch
-* Delicata Squash  BC  $2.99 / lb
-* Portabella Mushroom  BC  $6.99 / 2 caps
-* White Mushrooms  BC   $3.99 / 227gr
+* Cauliflower  cal  $5.50 / each
+* Yams  cal   $2.99 / lb
+* Portabella Mushrooms  BC   $6.99 / 2 caps
 * Avocados   $5.99 / 2pack
-* Blackberries  cal   $5.99 / 6oz
-* Green seedless Grapes   $9.99 / 2lb bag
+* Brussel Sprouts  cal   $7.99 / lb
+* Red seedless Grapes   $9.99 / 2lb bag
 * Asian Pears  cal   $2.99 / each
-* Cranberries  quebec  $3.99 / 8oz bag
+* Dates Medjool  cal  $9.99 / 8oz 
 
 ***
 
