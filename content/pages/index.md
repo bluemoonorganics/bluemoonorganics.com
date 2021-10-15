@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **October 11th - October 15th / 2021**
+#### **October 18th - October 22nd / 2021**
 
 ### Regular Box ($38.00)
 
-* 4 Ambrosia Apples  BC
+* 4 Gala Apples  BC
 * 4 Bananas  ec
 * 3 Bartlett Pears  BC
-* 1lb Black Plums  cal
+* 1lb President Plums  BC
+* 3 Kiwis  cl
 * Baby Carrots  cal
-* Collard Greens  cal
-* 1.5lb Red Potatoes  BC
-* Celery  cal
-* 1 Delicata Squash  BC
+* Green Leaf Lettuce  nv
+* 1.5lb Russett Potatoes  BC
+* Zucchini  mx
+* Green Onions  cal
 * Orange Bell Pepper  mx
-* Red Bunched Beets  BC
+* Leek  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Empire Apples  BC
+* 5 Gala Apples  BC
 * 5 Bananas  ec
 * 1lb Kiwis  cl
-* 1 Pomegranate  cal
+* 2 Asian Pears  cal
 * 2lbs Black seedless Grapes  caal
-* 3 Bartlett Pears  BC
-* 1lb Black Plums  cal
+* 2 Bartlett Pears  BC
+* 1.25lb President Plums  BC
 * 2 Lemons  cal
 
 ***
@@ -51,30 +52,27 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $5.99 for 2
 * Yellow Onions  man   $2.50 / lb
-* Cauliflower  nv   $5.99 / each
-* Brussel Sprout  cal  $8.99 / lb
+* Cauliflower  nv   $6.50 / each
+* Celery  cal  $2.99 / each
 * Yams  cal   $2.99 / lb
 * Butternut Squash BC  $2.99 / lb
 * White Mushrooms  BC   $3.99 / 227gr
-* Broccolette  BC   $5.99 / bunch
+* Broccoli Crown  cal   $5.99 / lb
 * Roma Tomatoes  BC  $5.35 / lb
-* Leek  cal  $3.99 / lb
+* Beets Red  or  $2.99 / lb
 * Avocado  mx  $5.99 / 2pack
 * Lemons  cal   $1.75 / each
 * Black seedless Grapes  cal  $9.99 / 2lbs
-* Kiwis  cl   $3.99 / lb
 * Pomegranate  cal   $2.99 / each
-* Mini seedless Watermelon mx   $5.99 / ea
 * Asian Pears  cal   $2.99 / each
 * Dates Medjool  cal  $9.99 / 8oz
 
 ### Weekly Specials
 
-* Broccolette  BC  $5.99 / bunch
-* Cauliflower  cal  $5.99 / each
-* Leek  cal   $3.99 / lb
+* Broccoli Crown  cal  $5.99 / lb
+* Cauliflower  cal  $6.50 / each
 * Avocados   $5.99 / 2pack
-* Brussel Sprouts  cal   $8.99 / lb
+* Roma Tomatoes  BC   $5.35 / lb
 * Black seedless Grapes   $9.99 / 2lb bag
 * Asian Pears  cal   $2.99 / each
 * Dates Medjool  cal  $9.99 / 8oz
