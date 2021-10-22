@@ -10,33 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **October 18th - October 22nd / 2021**
+#### **October 25th - October 29th / 2021**
 
 ### Regular Box ($38.00)
 
 * 4 Gala Apples  BC
 * 4 Bananas  ec
-* 3 Bartlett Pears  BC
-* 1lb President Plums  BC
+* 3 D'Anjou Pears  BC
+* 1 Pomegranate  cal
 * 3 Kiwis  cl
-* Baby Carrots  cal
-* Green Leaf Lettuce  nv
+* 1lb Beets Chioggia  cal
+* Green Butter Lettuce  cal
 * 1.5lb Russett Potatoes  BC
-* Zucchini  mx
-* Green Onions  cal
-* Orange Bell Pepper  mx
+* 1 Field Cucumber  az
+* 1 Avocado  mx
+* Green Bell Pepper  cal
 * Leek  cal
 
 ### Fruit Box ($38.00)
 
 * 5 Gala Apples  BC
 * 5 Bananas  ec
-* 1lb Kiwis  cl
+* 4 Kiwis  cl
 * 2 Asian Pears  cal
 * 2lbs Black seedless Grapes  caal
-* 2 Bartlett Pears  BC
-* 1.25lb President Plums  BC
-* 2 Lemons  cal
+* 2 D'Anjou Pears  BC
+* 1 Red seedless Watermleon  mx
 
 ***
 
@@ -50,29 +49,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
-* Garlic  cal   $5.99 for 2
+* Garlic  cal   $6.00 for 2
+* Ginger  pe  $6.00 for half a pound
 * Yellow Onions  man   $2.50 / lb
-* Cauliflower  nv   $6.50 / each
-* Celery  cal  $2.99 / each
+* Cauliflower  cal   $6.00 / each
+* Celery  cal  $3.25 / each
 * Yams  cal   $2.99 / lb
-* Butternut Squash BC  $2.99 / lb
+* Butternut Squash BC  $3.25 / lb
 * White Mushrooms  BC   $3.99 / 227gr
 * Broccoli Crown  cal   $5.99 / lb
-* Roma Tomatoes  BC  $5.35 / lb
-* Beets Red  or  $2.99 / lb
-* Avocado  mx  $5.99 / 2pack
+* Field Tomatoes  BC  $4.75 / lb
+* Carrots  que   $5.75 / 2lb bag
+* Italian Parsley  cal  $2.75 / bunch
 * Lemons  cal   $1.75 / each
 * Black seedless Grapes  cal  $9.99 / 2lbs
-* Pomegranate  cal   $2.99 / each
+* Mini Watermelon seedless mx  $6.99/ea
 * Asian Pears  cal   $2.99 / each
 * Dates Medjool  cal  $9.99 / 8oz
 
 ### Weekly Specials
 
-* Broccoli Crown  cal  $5.99 / lb
-* Cauliflower  cal  $6.50 / each
-* Avocados   $5.99 / 2pack
-* Roma Tomatoes  BC   $5.35 / lb
+* Broccoli Crown  cal  $6.00 / lb
+* Cauliflower  cal  $6.00 / each
+* Mini Red seedless Watermelon $6.99/ea
+* Field Tomatoes  BC   $4.75 / lb
 * Black seedless Grapes   $9.99 / 2lb bag
 * Asian Pears  cal   $2.99 / each
 * Dates Medjool  cal  $9.99 / 8oz
