@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **October 25th - October 29th / 2021**
+#### **November 1st - November 5th / 2021**
 
 ### Regular Box ($38.00)
 
@@ -18,24 +18,23 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  ec
 * 3 D'Anjou Pears  BC
 * 1 Pomegranate  cal
-* 3 Kiwis  cl
-* 1lb Beets Chioggia  cal
+* 2lbs Carrots  cal
+* 1 Sweet Dumpling Squash BC
 * Green Butter Lettuce  cal
 * 1.5lb Russett Potatoes  BC
 * 1 Field Cucumber  az
-* 1 Avocado  mx
-* Green Bell Pepper  cal
-* Leek  cal
+* Celery  cal
+* Purple Kale  cal
 
 ### Fruit Box ($38.00)
 
 * 5 Gala Apples  BC
 * 5 Bananas  ec
-* 4 Kiwis  cl
+* 1lb Kiwis  cl
 * 2 Asian Pears  cal
-* 2lbs Black seedless Grapes  caal
+* 2L Concord Grapes  BC
 * 2 D'Anjou Pears  BC
-* 1 Red seedless Watermleon  mx
+* 1 Red seedless Watermelon  mx
 
 ***
 
@@ -53,29 +52,30 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Ginger  pe  $6.00 for half a pound
 * Yellow Onions  man   $2.50 / lb
 * Cauliflower  cal   $6.00 / each
-* Celery  cal  $3.25 / each
-* Yams  cal   $2.99 / lb
-* Butternut Squash BC  $3.25 / lb
+* Asparagus  mx  $9.99 / lb
+* Yams  cal   $3.50 / lb
+* Leek  cal  $4.99 / lb
 * White Mushrooms  BC   $3.99 / 227gr
-* Broccoli Crown  cal   $5.99 / lb
+* Broccolette  cal   $6.25 / bunch
 * Field Tomatoes  BC  $4.75 / lb
-* Carrots  que   $5.75 / 2lb bag
-* Italian Parsley  cal  $2.75 / bunch
-* Lemons  cal   $1.75 / each
-* Black seedless Grapes  cal  $9.99 / 2lbs
-* Mini Watermelon seedless mx  $6.99/ea
-* Asian Pears  cal   $2.99 / each
-* Dates Medjool  cal  $9.99 / 8oz
+* Parsnips  cal   $4.75 / lb
+* Chioggia Beets  cal  $3.00 / lb
+* Avocado Hass mx  $5.99 / 2pack
+* Lemons  cal   $2.75 / 2pack
+* Concord Grapes  cal  $9.99 / 2L
+* Mini Watermelon seedless mx  $6.50/ea
+* Asian Pears  cal   $2.75 / each
+* Kiwis  cl   $4.75 / lb
 
 ### Weekly Specials
 
-* Broccoli Crown  cal  $6.00 / lb
-* Cauliflower  cal  $6.00 / each
-* Mini Red seedless Watermelon $6.99/ea
+* Broccolette  cal  $6.25 / bunch
+* Asparagus  mx  $9.99 / lb
+* Leek  cal   $4.99 / lb
 * Field Tomatoes  BC   $4.75 / lb
-* Black seedless Grapes   $9.99 / 2lb bag
-* Asian Pears  cal   $2.99 / each
-* Dates Medjool  cal  $9.99 / 8oz
+* Concord Grapes  BC $9.99 / 2l container
+* Parsnips  cal   $4.75 / lb
+* Chioggia Beets  cal  $3.00 / lb
 
 ***
 
