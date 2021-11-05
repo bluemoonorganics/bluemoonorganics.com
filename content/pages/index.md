@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **November 1st - November 5th / 2021**
+#### **November 8th - November 12th / 2021**
 
 ### Regular Box ($38.00)
 
@@ -19,22 +19,22 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 3 D'Anjou Pears  BC
 * 1 Pomegranate  cal
 * 2lbs Carrots  cal
-* 1 Sweet Dumpling Squash BC
-* Green Butter Lettuce  cal
+* 1lb Zucchini  az
+* Bunched Spinach  cal
 * 1.5lb Russett Potatoes  BC
-* 1 Field Cucumber  az
+* 1 Long English Cucumber  mx
 * Celery  cal
-* Purple Kale  cal
+* 1lb Red Beets  or
 
 ### Fruit Box ($38.00)
 
 * 5 Gala Apples  BC
 * 5 Bananas  ec
-* 1lb Kiwis  cl
-* 2 Asian Pears  cal
+* 4 Kiwis  cl
+* 2 Arirang Pears  BC
 * 2L Concord Grapes  BC
-* 2 D'Anjou Pears  BC
-* 1 Red seedless Watermelon  mx
+* 1lb Satsuma Mandarins  cal
+* 1 Cantaloupe Melon  mx
 
 ***
 
@@ -51,31 +51,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Ginger  pe  $6.00 for half a pound
 * Yellow Onions  man   $2.50 / lb
-* Cauliflower  cal   $6.00 / each
-* Asparagus  mx  $9.99 / lb
+* Cauliflower  cal   $7.50 / each
+* Sweet Dumpling Squash BC  $2.75 / lb
 * Yams  cal   $3.50 / lb
-* Leek  cal  $4.99 / lb
-* White Mushrooms  BC   $3.99 / 227gr
-* Broccolette  cal   $6.25 / bunch
-* Field Tomatoes  BC  $4.75 / lb
+* Leek  cal  $4.75 / lb
+* Chantarelle Mushrooms  BC  $11.50/100gr
+* Broccolette  cal   $6.00 / bunch
+* Red Grape Tomatoes  mx  $6.00 / PT
 * Parsnips  cal   $4.75 / lb
-* Chioggia Beets  cal  $3.00 / lb
-* Avocado Hass mx  $5.99 / 2pack
+* Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.75 / 2pack
-* Concord Grapes  cal  $9.99 / 2L
-* Mini Watermelon seedless mx  $6.50/ea
-* Asian Pears  cal   $2.75 / each
-* Kiwis  cl   $4.75 / lb
+* Concord Grapes  cal  $9.50 / 2L
+* Cantaloupe Melon  mx  $6.99/ea
+* Asian Pears  BC   $3.99 / lb
+* Kiwis  cl   $5.00 / lb
+* Satsuma Mandarins  cal $5.50 / lb
 
 ### Weekly Specials
 
-* Broccolette  cal  $6.25 / bunch
-* Asparagus  mx  $9.99 / lb
-* Leek  cal   $4.99 / lb
-* Field Tomatoes  BC   $4.75 / lb
-* Concord Grapes  BC $9.99 / 2l container
+* Chantarelle Mushrooms BC $11.50/100gr
+* Broccolette  cal  $6.00 / bunch
+* Leek  cal   $4.75 / lb
+* Red Grape Tomatoes  mx   $6.00 / PT
+* Concord Grapes  BC $9.50 / 2l container
 * Parsnips  cal   $4.75 / lb
-* Chioggia Beets  cal  $3.00 / lb
+* Sweet Dumpling Squash BC  $2.75 / lb
 
 ***
 
