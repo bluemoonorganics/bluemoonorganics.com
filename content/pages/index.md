@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **November 8th - November 12th / 2021**
+#### **November 15th - November 19th / 2021**
 
 ### Regular Box ($38.00)
 
-* 4 Gala Apples  BC
+* 4 Spartan Apples  BC
 * 4 Bananas  ec
 * 3 D'Anjou Pears  BC
-* 1 Pomegranate  cal
-* 2lbs Carrots  cal
-* 1lb Zucchini  az
-* Bunched Spinach  cal
+* 2 Rio Red Grapefruit  cal
+* 1 Cauliflower  cal
+* 1lb Zucchini  mx
+* Romaine Lettuce  cal
 * 1.5lb Russett Potatoes  BC
-* 1 Long English Cucumber  mx
-* Celery  cal
+* 1 Field Cucumber  mx
+* 1 Yellow Bell Pepper  mx
 * 1lb Red Beets  or
 
 ### Fruit Box ($38.00)
 
-* 5 Gala Apples  BC
+* 5 Spartan Apples  BC
 * 5 Bananas  ec
-* 4 Kiwis  cl
-* 2 Arirang Pears  BC
-* 2L Concord Grapes  BC
-* 1lb Satsuma Mandarins  cal
-* 1 Cantaloupe Melon  mx
+* 1 Mini seedless Watermelon mx
+* 2 Asian Pears  BC
+* 4 Navel Oranges  cal
+* 2 Rio Red Grapefruit  cal
+* 1 Tommy Atkins Mango  mx
+* 3 D'Anjou Pears  was
 
 ***
 
@@ -49,32 +50,32 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
-* Ginger  pe  $6.00 for half a pound
+* Green Onions  cal  $2.25 / bunch
 * Yellow Onions  man   $2.50 / lb
-* Cauliflower  cal   $7.50 / each
+* Celery  cal   $3.85 / each
 * Sweet Dumpling Squash BC  $2.75 / lb
 * Yams  cal   $3.50 / lb
 * Leek  cal  $4.75 / lb
-* Chantarelle Mushrooms  BC  $11.50/100gr
-* Broccolette  cal   $6.00 / bunch
-* Red Grape Tomatoes  mx  $6.00 / PT
-* Parsnips  cal   $4.75 / lb
+* Carrots  cal   $4.50 / 2lb bag
+* Broccolette  cal   $5.50 / bunch
+* Red Grape Tomatoes  mx  $5.50 / PT
 * Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.75 / 2pack
-* Concord Grapes  cal  $9.50 / 2L
-* Cantaloupe Melon  mx  $6.99/ea
+* Navel Oranges  cal  $1.75 / each
+* Mini seedless Watermelon  mx  $5.99/ea
 * Asian Pears  BC   $3.99 / lb
-* Kiwis  cl   $5.00 / lb
-* Satsuma Mandarins  cal $5.50 / lb
+* Kiwis  cl   $6.55 / lb
+* Satsuma Mandarins limited  cal $5.50 / lb
+* Tommy Atkins Mango  mx  $3.50 / each
 
 ### Weekly Specials
 
-* Chantarelle Mushrooms BC $11.50/100gr
-* Broccolette  cal  $6.00 / bunch
+* Green Onions  cal  $2.25 / bunch
+* Broccolette  cal  $5.50 / bunch
 * Leek  cal   $4.75 / lb
-* Red Grape Tomatoes  mx   $6.00 / PT
-* Concord Grapes  BC $9.50 / 2l container
-* Parsnips  cal   $4.75 / lb
+* Red Grape Tomatoes  mx   $5.50 / PT
+* Mini seedless Watermelon  mx  $5.99/each
+* Tommy Atkins Mango   $3.50 / each
 * Sweet Dumpling Squash BC  $2.75 / lb
 
 ***
