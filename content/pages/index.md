@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **November 15th - November 19th / 2021**
+#### **November 22nd - November 26th / 2021**
 
 ### Regular Box ($38.00)
 
-* 4 Spartan Apples  BC
+* 5 Spartan Apples  BC
 * 4 Bananas  ec
-* 3 D'Anjou Pears  BC
-* 2 Rio Red Grapefruit  cal
-* 1 Cauliflower  cal
-* 1lb Zucchini  mx
-* Romaine Lettuce  cal
-* 1.5lb Russett Potatoes  BC
-* 1 Field Cucumber  mx
-* 1 Yellow Bell Pepper  mx
-* 1lb Red Beets  or
+* 1lb Bartlett Pears  BC
+* 2 Navel Oranges  cal
+* 1 Broccolette  cal
+* 1lb Yellow Zucchini  mx
+* Bunched Spinach  cal
+* 1.5lb Yams  cal
+* 1 Bunch of Green Onions  cal
+* 1 Orange Bell Pepper  mx
+* 1 Sweet Dumpling Squash  BC
 
 ### Fruit Box ($38.00)
 
 * 5 Spartan Apples  BC
 * 5 Bananas  ec
 * 1 Mini seedless Watermelon mx
-* 2 Asian Pears  BC
-* 4 Navel Oranges  cal
-* 2 Rio Red Grapefruit  cal
-* 1 Tommy Atkins Mango  mx
-* 3 D'Anjou Pears  was
+* 11oz Blueberries  pe
+* 3 Navel Oranges  cal
+* 1.5lb Satsuma Mandarins  cal
+* 4 Kiwis  cl
 
 ***
 
@@ -50,33 +49,34 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
-* Green Onions  cal  $2.25 / bunch
-* Yellow Onions  man   $2.50 / lb
-* Celery  cal   $3.85 / each
-* Sweet Dumpling Squash BC  $2.75 / lb
-* Yams  cal   $3.50 / lb
+* Yellow Onions  or   $2.50 / lb
+* Brussel Sprouts  mx   $7.99 / lb
+* Celery  cal   $3.99 / each
+* Yellow Potatoes BC  $5.99 / 5lb bag
+* Field Cucumber  mx    $4.50 / for 2
 * Leek  cal  $4.75 / lb
 * Carrots  cal   $4.50 / 2lb bag
-* Broccolette  cal   $5.50 / bunch
+* Cauliflower  cal   $6.99 / each
+* Beets  cal   $2.75 / lb
 * Red Grape Tomatoes  mx  $5.50 / PT
 * Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.75 / 2pack
-* Navel Oranges  cal  $1.75 / each
+* Blueberries  pe   $6.99 / 11oz
 * Mini seedless Watermelon  mx  $5.99/ea
-* Asian Pears  BC   $3.99 / lb
 * Kiwis  cl   $6.55 / lb
-* Satsuma Mandarins limited  cal $5.50 / lb
+* Satsuma Mandarins  cal $5.50 / lb
 * Tommy Atkins Mango  mx  $3.50 / each
 
 ### Weekly Specials
 
-* Green Onions  cal  $2.25 / bunch
-* Broccolette  cal  $5.50 / bunch
+* Brussel Sprouts  mx   $7.99 / lb
+* Cauliflower  cal  $6.99 / each
 * Leek  cal   $4.75 / lb
 * Red Grape Tomatoes  mx   $5.50 / PT
 * Mini seedless Watermelon  mx  $5.99/each
 * Tommy Atkins Mango   $3.50 / each
-* Sweet Dumpling Squash BC  $2.75 / lb
+* Blueberries  peru   $6.99 / 11oz
+* Satsuma Mandarins  cal   $5.50 / lb
 
 ***
 
