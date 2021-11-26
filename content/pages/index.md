@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **November 22nd - November 26th / 2021**
+#### **November 29th - December 3rd / 2021**
 
 ### Regular Box ($38.00)
 
 * 5 Spartan Apples  BC
 * 4 Bananas  ec
-* 1lb Bartlett Pears  BC
+* 1lb D'Anjou Pears  BC
 * 2 Navel Oranges  cal
 * 1 Broccolette  cal
-* 1lb Yellow Zucchini  mx
-* Bunched Spinach  cal
-* 1.5lb Yams  cal
+* 1.5lb Yellow Potatoes  BC
+* Celery  cal
+* Romaine Lettuce  cal
 * 1 Bunch of Green Onions  cal
-* 1 Orange Bell Pepper  mx
+* Green Kale  cal
 * 1 Sweet Dumpling Squash  BC
 
 ### Fruit Box ($38.00)
 
-* 5 Spartan Apples  BC
-* 5 Bananas  ec
+* 6 Spartan Apples  BC
+* 6 Bananas  ec
 * 1 Mini seedless Watermelon mx
 * 11oz Blueberries  pe
 * 3 Navel Oranges  cal
 * 1.5lb Satsuma Mandarins  cal
-* 4 Kiwis  cl
+* 1 Mango Tommy Atkins  mx
 
 ***
 
@@ -50,32 +50,29 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Brussel Sprouts  mx   $7.99 / lb
-* Celery  cal   $3.99 / each
-* Yellow Potatoes BC  $5.99 / 5lb bag
+* Yams  cal   $3.50 / lb
 * Field Cucumber  mx    $4.50 / for 2
-* Leek  cal  $4.75 / lb
+* Leek  cal  $4.50 / lb
 * Carrots  cal   $4.50 / 2lb bag
-* Cauliflower  cal   $6.99 / each
+* Cauliflower  cal   $6.50 / each
 * Beets  cal   $2.75 / lb
-* Red Grape Tomatoes  mx  $5.50 / PT
+* Red Grape Tomatoes  mx  $4.99 / PT
 * Avocado Hass mx  $6.00 / 2pack
-* Lemons  cal   $2.75 / 2pack
-* Blueberries  pe   $6.99 / 11oz
-* Mini seedless Watermelon  mx  $5.99/ea
-* Kiwis  cl   $6.55 / lb
+* Lemons  cal   $2.80 / 2pack
+* Blueberries  pe   $6.50 / 11oz
+* Mini seedless Watermelon  mx  $5.50/ea
+* Kiwis  cl   $5.99 / lb
 * Satsuma Mandarins  cal $5.50 / lb
 * Tommy Atkins Mango  mx  $3.50 / each
 
 ### Weekly Specials
 
-* Brussel Sprouts  mx   $7.99 / lb
-* Cauliflower  cal  $6.99 / each
-* Leek  cal   $4.75 / lb
-* Red Grape Tomatoes  mx   $5.50 / PT
-* Mini seedless Watermelon  mx  $5.99/each
-* Tommy Atkins Mango   $3.50 / each
-* Blueberries  peru   $6.99 / 11oz
+* Field Cucumber  mx   $4.50 / for two
+* Cauliflower  cal  $6.50 / each
+* Leek  cal   $4.50 / lb
+* Red Grape Tomatoes  mx   $4.99 / PT
+* Mini seedless Watermelon  mx  $5.50/each
+* Blueberries  peru   $6.50 / 11oz
 * Satsuma Mandarins  cal   $5.50 / lb
 
 ***
