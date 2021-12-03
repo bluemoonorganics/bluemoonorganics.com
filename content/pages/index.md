@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **November 29th - December 3rd / 2021**
+#### **December 6th - 10th / 2021**
 
 ### Regular Box ($38.00)
 
@@ -18,23 +18,23 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  ec
 * 1lb D'Anjou Pears  BC
 * 2 Navel Oranges  cal
-* 1 Broccolette  cal
-* 1.5lb Yellow Potatoes  BC
-* Celery  cal
+* Green Bell Pepper  mx
+* 1.5lb Russet Potatoes  BC
+* pint Red Grape Tomatoes  cal
 * Romaine Lettuce  cal
-* 1 Bunch of Green Onions  cal
-* Green Kale  cal
-* 1 Sweet Dumpling Squash  BC
+* 1 Field Cucumber  cal
+* Purple Kale  cal
+* Italian Parsley  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Spartan Apples  BC
-* 6 Bananas  ec
-* 1 Mini seedless Watermelon mx
-* 11oz Blueberries  pe
+* 5 Spartan Apples  BC
+* 5 Bananas  ec
+* 1 Cantaloupe Melon  mx
+* 2 Rio Red Grapefruit  cal
 * 3 Navel Oranges  cal
-* 1.5lb Satsuma Mandarins  cal
-* 1 Mango Tommy Atkins  mx
+* 2lbs Satsuma Mandarins  cal
+* 1 Pomegranate  cal
 
 ***
 
@@ -51,29 +51,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
 * Yams  cal   $3.50 / lb
-* Field Cucumber  mx    $4.50 / for 2
-* Leek  cal  $4.50 / lb
+* Celery  cal    $4.30 / each
+* Leek  cal  $4.99 / lb
 * Carrots  cal   $4.50 / 2lb bag
 * Cauliflower  cal   $6.50 / each
-* Beets  cal   $2.75 / lb
-* Red Grape Tomatoes  mx  $4.99 / PT
+* Green Beans  az   $5.50 / lb
+* Butternut Squash  mx  $2.25 / lb
 * Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.80 / 2pack
-* Blueberries  pe   $6.50 / 11oz
-* Mini seedless Watermelon  mx  $5.50/ea
+* Blueberries  pe   $6.99 / 11oz
+* Cantaloupe Melon  mx  $6.75/ea
 * Kiwis  cl   $5.99 / lb
-* Satsuma Mandarins  cal $5.50 / lb
-* Tommy Atkins Mango  mx  $3.50 / each
+* Satsuma Mandarins  cal $10.99/2lb bag
+* Pomegranate  cal  $2.50 / each
+* Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
-* Field Cucumber  mx   $4.50 / for two
+* Green Beans  az    $5.50 / lb
 * Cauliflower  cal  $6.50 / each
-* Leek  cal   $4.50 / lb
-* Red Grape Tomatoes  mx   $4.99 / PT
-* Mini seedless Watermelon  mx  $5.50/each
-* Blueberries  peru   $6.50 / 11oz
-* Satsuma Mandarins  cal   $5.50 / lb
+* Leek  cal   $4.99 / lb
+* Butternut Squash  mx   $2.25 / lb
+* Cantaloupe Melon  mx  $6.75/each
+* Satsuma Mandarins  cal  $10.99 / 2lb bag
+* Dates pitted  cal  $9.99 / 8oz bag
+* Maple Syrup  que  $15.99 / 500ml
 
 ***
 
