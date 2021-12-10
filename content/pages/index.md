@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **December 6th - 10th / 2021**
+#### **December 13th - 17th / 2021**
 
 ### Regular Box ($38.00)
 
@@ -18,13 +18,12 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  ec
 * 1lb D'Anjou Pears  BC
 * 2 Navel Oranges  cal
-* Green Bell Pepper  mx
-* 1.5lb Russet Potatoes  BC
-* pint Red Grape Tomatoes  cal
-* Romaine Lettuce  cal
-* 1 Field Cucumber  cal
-* Purple Kale  cal
-* Italian Parsley  cal
+* 1 Cauliflower  az
+* 1.5lb Yellow Potatoes  BC
+* 1lb Roma Tomatoes  cal
+* Celery  mx
+* 2lb Carrots  cal
+* Green Kale  cal
 
 ### Fruit Box ($38.00)
 
@@ -32,9 +31,9 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 5 Bananas  ec
 * 1 Cantaloupe Melon  mx
 * 2 Rio Red Grapefruit  cal
-* 3 Navel Oranges  cal
+* 2 Navel Oranges  cal
 * 2lbs Satsuma Mandarins  cal
-* 1 Pomegranate  cal
+* 3 D'Anjou Pears  BC
 
 ***
 
@@ -50,30 +49,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Yams  cal   $3.50 / lb
-* Celery  cal    $4.30 / each
-* Leek  cal  $4.99 / lb
-* Carrots  cal   $4.50 / 2lb bag
-* Cauliflower  cal   $6.50 / each
-* Green Beans  az   $5.50 / lb
+* Yams  cal   $2.99 / lb
+* Field Cucumber  mx    $3.99 / for 2
+* Red Cabbage  cal  $2.50 / lb
+* Broccoli  cal   $4.75 / lb
+* Brussel Sprouts  cal   $7.99 / lb
 * Butternut Squash  mx  $2.25 / lb
-* Avocado Hass mx  $6.00 / 2pack
+* Avocado Hass mx  $6.50 / 2pack
 * Lemons  cal   $2.80 / 2pack
 * Blueberries  pe   $6.99 / 11oz
+* Grapefruit Rio Red  $2.75 / each
 * Cantaloupe Melon  mx  $6.75/ea
 * Kiwis  cl   $5.99 / lb
 * Satsuma Mandarins  cal $10.99/2lb bag
-* Pomegranate  cal  $2.50 / each
+* Pineapple  mx  $7.99 / each
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
-* Green Beans  az    $5.50 / lb
-* Cauliflower  cal  $6.50 / each
-* Leek  cal   $4.99 / lb
+* Brussel Sprouts  mx    $7.99 / lb
+* Broccoli  cal  $4.75 / lb
+* Red Cabbage  cal   $2.50 / lb
 * Butternut Squash  mx   $2.25 / lb
 * Cantaloupe Melon  mx  $6.75/each
 * Satsuma Mandarins  cal  $10.99 / 2lb bag
+* Pineapple  mx   $7.99 / each
 * Dates pitted  cal  $9.99 / 8oz bag
 * Maple Syrup  que  $15.99 / 500ml
 
