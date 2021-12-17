@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **December 13th - 17th / 2021**
+#### **January 3rd - 7th / 2022**
 
 ### Regular Box ($38.00)
 
@@ -19,18 +19,18 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 1lb D'Anjou Pears  BC
 * 2 Navel Oranges  cal
 * 1 Cauliflower  az
-* 1.5lb Yellow Potatoes  BC
+* 1.5lb Russet Potatoes  BC
 * 1lb Roma Tomatoes  cal
-* Celery  mx
+* Celery  cal
 * 2lb Carrots  cal
-* Green Kale  cal
+* Romaine Lettuce  cal
 
 ### Fruit Box ($38.00)
 
 * 5 Spartan Apples  BC
 * 5 Bananas  ec
-* 1 Cantaloupe Melon  mx
-* 2 Rio Red Grapefruit  cal
+* Mini seedless Watermelon mx
+* 11oz Blueberries  pe
 * 2 Navel Oranges  cal
 * 2lbs Satsuma Mandarins  cal
 * 3 D'Anjou Pears  BC
@@ -49,18 +49,18 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Yams  cal   $2.99 / lb
+* Yams  cal   $3.25 / lb
 * Field Cucumber  mx    $3.99 / for 2
 * Red Cabbage  cal  $2.50 / lb
-* Broccoli  cal   $4.75 / lb
+* Broccolette  cal   $4.75 / lb
 * Brussel Sprouts  cal   $7.99 / lb
 * Butternut Squash  mx  $2.25 / lb
-* Avocado Hass mx  $6.50 / 2pack
+* Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.80 / 2pack
 * Blueberries  pe   $6.99 / 11oz
 * Grapefruit Rio Red  $2.75 / each
-* Cantaloupe Melon  mx  $6.75/ea
-* Kiwis  cl   $5.99 / lb
+* Mini Watermelon  mx  $5.50/ea
+* Kiwis  cl   $5.75 / lb
 * Satsuma Mandarins  cal $10.99/2lb bag
 * Pineapple  mx  $7.99 / each
 * Dates pitted  cal  $9.99 / 8oz bag
@@ -68,14 +68,14 @@ If your changes bring your order to more than $38.00 we will email you and confi
 ### Weekly Specials
 
 * Brussel Sprouts  mx    $7.99 / lb
-* Broccoli  cal  $4.75 / lb
+* Broccolette  cal  $4.75 / bunch
 * Red Cabbage  cal   $2.50 / lb
 * Butternut Squash  mx   $2.25 / lb
-* Cantaloupe Melon  mx  $6.75/each
+* Mini seedless Watermelon mx $5.50/ea
 * Satsuma Mandarins  cal  $10.99 / 2lb bag
 * Pineapple  mx   $7.99 / each
 * Dates pitted  cal  $9.99 / 8oz bag
-* Maple Syrup  que  $15.99 / 500ml
+* Maple Syrup  que  $14.99 / 500ml
 
 ***
 
