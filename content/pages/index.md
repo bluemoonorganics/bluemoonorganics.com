@@ -29,8 +29,8 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 * 5 Spartan Apples  BC
 * 5 Bananas  ec
-* Mini seedless Watermelon mx
-* 11oz Blueberries  pe
+* 1lb Kiwis  cal
+* 1 Pineapple  mx
 * 2 Navel Oranges  cal
 * 2lbs Satsuma Mandarins  cal
 * 3 D'Anjou Pears  BC
@@ -57,9 +57,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Butternut Squash  mx  $2.25 / lb
 * Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.80 / 2pack
-* Blueberries  pe   $6.99 / 11oz
 * Grapefruit Rio Red  $2.75 / each
-* Mini Watermelon  mx  $5.50/ea
 * Kiwis  cl   $5.75 / lb
 * Satsuma Mandarins  cal $10.99/2lb bag
 * Pineapple  mx  $7.99 / each
