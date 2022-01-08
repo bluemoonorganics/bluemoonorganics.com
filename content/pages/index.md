@@ -10,28 +10,28 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **January 3rd - 7th / 2022**
+#### **January 10th - 14th / 2022**
 
 ### Regular Box ($38.00)
 
 * 5 Spartan Apples  BC
 * 4 Bananas  ec
-* 1lb D'Anjou Pears  BC
+* 2 Grapefruit Rio Red  cal
 * 2 Navel Oranges  cal
 * 1 Cauliflower  az
-* 1.5lb Russet Potatoes  BC
-* 1lb Roma Tomatoes  cal
-* Celery  cal
-* 2lb Carrots  cal
-* Romaine Lettuce  cal
+* 1.5lb Yams  cal
+* 1lb Zucchini  mx
+* Green Bell Pepper  mx
+* Bunched Spinach  cal
+* Green Leaf Lettuce  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Spartan Apples  BC
+* 6 Spartan Apples  BC
 * 5 Bananas  ec
 * 1lb Kiwis  cal
-* 1 Pineapple  mx
-* 2 Navel Oranges  cal
+* 3 Lemons  cal
+* 3 Navel Oranges  cal
 * 2lbs Satsuma Mandarins  cal
 * 3 D'Anjou Pears  BC
 
@@ -49,28 +49,26 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Yams  cal   $3.25 / lb
-* Field Cucumber  mx    $3.99 / for 2
+* Russet POtatoes  BC   $1.75 / lb
 * Red Cabbage  cal  $2.50 / lb
-* Broccolette  cal   $4.75 / lb
+* Broccoli  cal   $5.75 / bunch
 * Brussel Sprouts  cal   $7.99 / lb
 * Butternut Squash  mx  $2.25 / lb
 * Avocado Hass mx  $6.00 / 2pack
 * Lemons  cal   $2.80 / 2pack
-* Grapefruit Rio Red  $2.75 / each
+* Pears D'Anjou  BC  $1.45 / each
 * Kiwis  cl   $5.75 / lb
-* Satsuma Mandarins  cal $10.99/2lb bag
+* Satsuma Mandarins  cal $9.99/2lb 
 * Pineapple  mx  $7.99 / each
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
 * Brussel Sprouts  mx    $7.99 / lb
-* Broccolette  cal  $4.75 / bunch
+* Broccoli  cal  $5.75 / bunch
 * Red Cabbage  cal   $2.50 / lb
 * Butternut Squash  mx   $2.25 / lb
-* Mini seedless Watermelon mx $5.50/ea
-* Satsuma Mandarins  cal  $10.99 / 2lb bag
+* Satsuma Mandarins  cal  $9.99 / 2lb bag
 * Pineapple  mx   $7.99 / each
 * Dates pitted  cal  $9.99 / 8oz bag
 * Maple Syrup  que  $14.99 / 500ml
