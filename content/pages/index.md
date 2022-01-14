@@ -51,7 +51,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
 * Yams  cal   $3.50 / lb
-* Red Cabbage  cal  $2.50 / lb
+* Red Cabbage  cal  $2.75 / lb
 * Broccoli  cal   $6.75 / bunch
 * Eggplant  mx   $3.75 / each
 * Red Beets  was  $2.75 / lb
@@ -67,7 +67,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Red Beets  was    $2.75 / lb
 * Broccoli  cal  $6.75 / bunch
-* Red Cabbage  cal   $2.50 / lb
+* Red Cabbage  cal   $2.75 / lb
 * Eggplant  mx   $3.75 / each
 * Tangelo Minneola  cal  $3.50 / lb 
 * Pears D'Anjou  BC   $1.45 / each
