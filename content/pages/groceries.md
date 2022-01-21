@@ -15,14 +15,14 @@ title: Groceries
 
 ## Honey
 
-* Northern Meadows (500g) — $9.99
+* Northern Meadows (500g)  BC — $11.99
 
 ## Oats (Certified Organic)
 
 * Regular (1kg) — $8.90
-* Regular (10kg) — $39.99
+* Regular (25lbs) — $39.99
 * Quick (1kg) — $8.90
-* Quick (10kg) — $39.99
+* Quick (25lbs) — $39.99
 
 ## Pancake Mix (Certified Organic)
 
