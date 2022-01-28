@@ -10,21 +10,21 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **January 24th - 28th / 2022**
+#### **January 31st - February 2nd / 2022**
 
 ### Regular Box ($38.00)
 
-* 5 Spartan Apples  BC
+* 4 Spartan Apples  BC
 * 4 Bananas  ec
 * 1 Mango Kent  mx
-* 2 Navel Oranges  cal
-* 7gr Chives  BC
+* 2 Cara Cara Oranges  cal
+* Red Bunched Beets  mx
 * 1.5lb Russet Potatoes  BC
 * 1pt  Red Grape Tomatoes  az
 * Red Bell Pepper  mx
 * Green Kale  mx
 * Red Leaf Lettuce  cal
-* Celery  mx
+* 2lbs Carrots  cal
 
 ### Fruit Box ($38.00)
 
@@ -32,9 +32,9 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 5 Bananas  ec
 * 2 Mango Kent  mx
 * 2 Grapefruit Rio Red  cal
-* 3 Navel Oranges  cal
-* 2lbs Tangelos Minneola  cal
-* 4 D'Anjou Pears  BC
+* 3 Cara Cara Oranges  cal
+* 1.5lbs Tangelos Minneola  cal
+* 3 D'Anjou Pears  BC
 
 ***
 
@@ -50,18 +50,17 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Carrots  cal  $4.75 / 2lb bag
+* Asparagus  mx  $7.50 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Broccoli  cal   $6.75 / bunch
-* Long English Cucumber mx  $6.75/ea
-* Red Beets  was  $2.80 / lb
+* Broccoli  cal   $6.99 / bunch
+* Long English Cucumber mx  $5.75/ea
 * Acorn Squash  mx  $2.80 / lb
 * Avocado Hass mx  $6.00 / 2pack
 * Lemon Meyer  cal   $2.50 / lb
 * Kiwis  cl   $6.99 / lb
 * Pears D'Anjou  BC  $1.35 / each
-* Tangelo Minneola  cal $3.50/lb
+* Tangelo Minneola  cal $4.95/lb
 * Grapefruit Rio Red  cal  $2.40 / each
 * Dates pitted  cal  $9.99 / 8oz bag
 
