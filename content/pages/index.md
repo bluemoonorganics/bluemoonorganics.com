@@ -10,30 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **January 31st - February 2nd / 2022**
+#### **February 7th - February 11th / 2022**
 
 ### Regular Box ($38.00)
 
 * 4 Spartan Apples  BC
 * 4 Bananas  ec
-* 1 Mango Kent  mx
-* 2 Cara Cara Oranges  cal
-* Red Bunched Beets  mx
+* 2 D'Anjou Pears  was
+* 2 Navel Oranges  cal
+* Long English HH Cucumber  mx
 * 1.5lb Russet Potatoes  BC
 * 1pt  Red Grape Tomatoes  az
 * Red Bell Pepper  mx
-* Green Kale  mx
+* Italian Parsley  mx
 * Red Leaf Lettuce  cal
 * 2lbs Carrots  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Spartan Apples  BC
+* 5 Spartan Apples  BC
 * 5 Bananas  ec
-* 2 Mango Kent  mx
+* 1 Mango Kent  mx
 * 2 Grapefruit Rio Red  cal
-* 3 Cara Cara Oranges  cal
-* 1.5lbs Tangelos Minneola  cal
+* 2 Navel Oranges  cal
+* 1.5lbs Tango Mandarin's  cal
+* 1.5lbs Blood Oranges  cal
 * 3 D'Anjou Pears  BC
 
 ***
@@ -50,29 +51,32 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Asparagus  mx  $7.50 / lb
+* Red Beets  was  $3.25 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Broccoli  cal   $6.99 / bunch
-* Long English Cucumber mx  $5.75/ea
+* Broccoli  cal   $5.99 / bunch
+* Cauliflower  mx  $5.99 / each
+* Jalapeno Pepper  mx  $3.50 / 8oz
 * Acorn Squash  mx  $2.80 / lb
-* Avocado Hass mx  $6.00 / 2pack
-* Lemon Meyer  cal   $2.50 / lb
+* Spaghetti Squash  mx  $2.80 / lb
+* Avocado Hass mx  $6.50 / 2pack
+* Lemon Meyer  cal   $6.99 / 2lb net
 * Kiwis  cl   $6.99 / lb
-* Pears D'Anjou  BC  $1.35 / each
-* Tangelo Minneola  cal $4.95/lb
-* Grapefruit Rio Red  cal  $2.40 / each
+* Mango Kent  mx   $3.25 / each
+* Tango Mandarin's   cal $4.99 / lb
+* Blood Oranges  cal  $4.99 / lb
+* Grapefruit Rio Red  cal  $2.25 / each
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
-* Red Beets  was    $2.80 / lb
-* Broccoli  cal  $6.75 / bunch
+* Cauliflower  mx   $5.99 / each
+* Broccoli  cal  $5.99 / bunch
 * Red Cabbage  cal   $2.80 / lb
-* Long English Cucumber mx  $6.75/ea
-* Tangelo Minneola  cal  $3.50 / lb
-* Pears D'Anjou  BC   $1.35 / each
-* Meyer Lemons  cal  $2.50 / lb
+* Blood Oranges  cal   $4.99 / lb
+* Tango Mandarin's  cal  $4.99 / lb
+* Rio Red Grapefruit  cal   $2.25 / each
+* Meyer Lemons  cal  $6.99 / 2lb net
 * Dates pitted  cal  $9.99 / 8oz bag
 * Honey Organic  BC   $11.99 / 500gr
 
