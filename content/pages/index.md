@@ -10,25 +10,25 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **February 7th - February 11th / 2022**
+#### **February 14th - February 18th / 2022**
 
 ### Regular Box ($38.00)
 
-* 4 Spartan Apples  BC
+* 4 Ambrosia Apples  BC
 * 4 Bananas  ec
-* 2 D'Anjou Pears  was
+* 3 D'Anjou Pears  was
 * 2 Navel Oranges  cal
 * Long English HH Cucumber  mx
 * 1.5lb Russet Potatoes  BC
-* 1pt  Red Grape Tomatoes  az
+* 1lb Roma Grape Tomatoes  mx
 * Red Bell Pepper  mx
-* Italian Parsley  mx
-* Red Leaf Lettuce  cal
-* 2lbs Carrots  cal
+* Cauliflower  cal
+* Romaine Lettuce  cal
+* Green Onions  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Spartan Apples  BC
+* 5 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 1 Mango Kent  mx
 * 2 Grapefruit Rio Red  cal
@@ -50,19 +50,20 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
+* Ginger  pe  $6.00 / half lb
 * Yellow Onions  or   $2.50 / lb
 * Red Beets  was  $3.25 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Broccoli  cal   $5.99 / bunch
-* Cauliflower  mx  $5.99 / each
+* Broccoli  cal   $4.99 / bunch
+* Carrots  cal  $4.75 / 2lb bag
 * Jalapeno Pepper  mx  $3.50 / 8oz
 * Acorn Squash  mx  $2.80 / lb
 * Spaghetti Squash  mx  $2.80 / lb
 * Avocado Hass mx  $6.50 / 2pack
 * Lemon Meyer  cal   $6.99 / 2lb net
 * Kiwis  cl   $6.99 / lb
-* Mango Kent  mx   $3.25 / each
+* Mango Kent  mx   $3.00 / each
 * Tango Mandarin's   cal $4.99 / lb
 * Blood Oranges  cal  $4.99 / lb
 * Grapefruit Rio Red  cal  $2.25 / each
@@ -70,8 +71,8 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 ### Weekly Specials
 
-* Cauliflower  mx   $5.99 / each
-* Broccoli  cal  $5.99 / bunch
+* Spaghetti Squash  mx   $2.80 / lbach
+* Broccoli  cal  $4.99 / bunch
 * Red Cabbage  cal   $2.80 / lb
 * Blood Oranges  cal   $4.99 / lb
 * Tango Mandarin's  cal  $4.99 / lb
