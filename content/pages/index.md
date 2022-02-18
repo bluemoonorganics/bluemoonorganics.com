@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **February 14th - February 18th / 2022**
+#### **February 21st - February 25th / 2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
-* 3 D'Anjou Pears  was
+* 1 Mango Kent  mx
 * 2 Navel Oranges  cal
 * Long English HH Cucumber  mx
 * 1.5lb Russet Potatoes  BC
-* 1lb Roma Grape Tomatoes  mx
+* pt Grape Tomatoes  mx
 * Red Bell Pepper  mx
-* Cauliflower  cal
-* Romaine Lettuce  cal
-* Green Onions  cal
+* Spaghetti Squash  mx
+* Green Leaf Lettuce  cal
+* Celery  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Ambrosia Apples  BC
+* 6 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 1 Mango Kent  mx
 * 2 Grapefruit Rio Red  cal
 * 2 Navel Oranges  cal
-* 1.5lbs Tango Mandarin's  cal
-* 1.5lbs Blood Oranges  cal
-* 3 D'Anjou Pears  BC
+* 2lbs Tango Mandarin's  cal
+* 6oz Blackberries  mx
 
 ***
 
@@ -52,30 +51,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Ginger  pe  $6.00 / half lb
 * Yellow Onions  or   $2.50 / lb
-* Red Beets  was  $3.25 / lb
+* Red Beets  was  $2.99 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
 * Broccoli  cal   $4.99 / bunch
 * Carrots  cal  $4.75 / 2lb bag
 * Jalapeno Pepper  mx  $3.50 / 8oz
+* Cauliflower  cal  $6.50 / each
 * Acorn Squash  mx  $2.80 / lb
-* Spaghetti Squash  mx  $2.80 / lb
 * Avocado Hass mx  $6.50 / 2pack
 * Lemon Meyer  cal   $6.99 / 2lb net
 * Kiwis  cl   $6.99 / lb
 * Mango Kent  mx   $3.00 / each
 * Tango Mandarin's   cal $4.99 / lb
-* Blood Oranges  cal  $4.99 / lb
+* Pears D'Anjou  was  $3.00 / lb
 * Grapefruit Rio Red  cal  $2.25 / each
+* Tango Mandarins  cal  $5.75 / lb
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
-* Spaghetti Squash  mx   $2.80 / lbach
+* Cauliflower  cal   $6.50 / each
 * Broccoli  cal  $4.99 / bunch
 * Red Cabbage  cal   $2.80 / lb
-* Blood Oranges  cal   $4.99 / lb
-* Tango Mandarin's  cal  $4.99 / lb
+* Blackberries  mx   $5.50 / 6oz
+* Tango Mandarin's  cal  $5.75 / lb
 * Rio Red Grapefruit  cal   $2.25 / each
 * Meyer Lemons  cal  $6.99 / 2lb net
 * Dates pitted  cal  $9.99 / 8oz bag
