@@ -62,8 +62,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Avocado Hass mx  $6.50 / 2pack
 * Lemon Meyer  cal   $6.99 / 2lb net
 * Kiwis  cl   $6.99 / lb
-* Mango Kent  mx   $3.00 / each
-* Tango Mandarin's   cal $4.99 / lb
+* Blackberries  mx  $5.50 / 6oz
 * Pears D'Anjou  was  $3.00 / lb
 * Grapefruit Rio Red  cal  $2.25 / each
 * Tango Mandarins  cal  $5.75 / lb
