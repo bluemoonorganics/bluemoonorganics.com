@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **February 21st - February 25th / 2022**
+#### **February 28 - March 4/2022**
 
 ### Regular Box ($38.00)
 
@@ -18,12 +18,12 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  ec
 * 1 Mango Kent  mx
 * 2 Navel Oranges  cal
-* Long English HH Cucumber  mx
+* Bunched Carrots  cal
 * 1.5lb Russet Potatoes  BC
-* pt Grape Tomatoes  mx
-* Red Bell Pepper  mx
-* Spaghetti Squash  mx
-* Green Leaf Lettuce  cal
+* 1lb Roma Tomatoes  mx
+* Green Kale  cal
+* Broccoli  mx
+* 1 Red Onion  or
 * Celery  cal
 
 ### Fruit Box ($38.00)
@@ -31,10 +31,9 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 6 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 1 Mango Kent  mx
-* 2 Grapefruit Rio Red  cal
-* 2 Navel Oranges  cal
+* 1 Pineapple  cr
+* 3 Navel Oranges  cal
 * 2lbs Tango Mandarin's  cal
-* 6oz Blackberries  mx
 
 ***
 
@@ -54,15 +53,15 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Red Beets  was  $2.99 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Broccoli  cal   $4.99 / bunch
-* Carrots  cal  $4.75 / 2lb bag
-* Jalapeno Pepper  mx  $3.50 / 8oz
-* Cauliflower  cal  $6.50 / each
-* Acorn Squash  mx  $2.80 / lb
+* Long English Cucumber  $3.99/each
+* Green Beans  mx  $4.99 / lb
+* Leek  az  $4.99 / lb
+* Cauliflower  cal  $6.75 / each
+* Spaghetti Squash  mx  $2.70 / lb
 * Avocado Hass mx  $6.50 / 2pack
 * Lemon Meyer  cal   $6.99 / 2lb net
 * Kiwis  cl   $6.99 / lb
-* Blackberries  mx  $5.50 / 6oz
+* Pineapple  cr  $7.99 / each
 * Pears D'Anjou  was  $3.00 / lb
 * Grapefruit Rio Red  cal  $2.25 / each
 * Tango Mandarins  cal  $5.75 / lb
@@ -70,12 +69,12 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 ### Weekly Specials
 
-* Cauliflower  cal   $6.50 / each
-* Broccoli  cal  $4.99 / bunch
+* Cauliflower  cal   $6.75 / each
+* Green Beans  mx  $4.99 / lb
 * Red Cabbage  cal   $2.80 / lb
-* Blackberries  mx   $5.50 / 6oz
+* Leeks  az   $4.99 / lb
 * Tango Mandarin's  cal  $5.75 / lb
-* Rio Red Grapefruit  cal   $2.25 / each
+* Spaghetti Squash  mx   $2.75 / lb
 * Meyer Lemons  cal  $6.99 / 2lb net
 * Dates pitted  cal  $9.99 / 8oz bag
 * Honey Organic  BC   $11.99 / 500gr
