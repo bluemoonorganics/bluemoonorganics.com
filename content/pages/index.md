@@ -10,30 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **February 28 - March 4/2022**
+#### **March 7th - 11th/2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
 * 1 Mango Kent  mx
-* 2 Navel Oranges  cal
+* 3 Navel Oranges  cal
 * Bunched Carrots  cal
 * 1.5lb Russet Potatoes  BC
-* 1lb Roma Tomatoes  mx
-* Green Kale  cal
+* Roma Tomatoes  mx
+* Romaine Lettuce  cal
 * Broccoli  mx
-* 1 Red Onion  or
-* Celery  cal
+* Green Bell Pepper  mx
+* Red Bunched Beets  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Ambrosia Apples  BC
+* 5 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 1 Mango Kent  mx
 * 1 Pineapple  cr
 * 3 Navel Oranges  cal
 * 2lbs Tango Mandarin's  cal
+* 1lb Pears Bartlett arg
 
 ***
 
@@ -48,21 +49,18 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
-* Ginger  pe  $6.00 / half lb
 * Yellow Onions  or   $2.50 / lb
-* Red Beets  was  $2.99 / lb
+* Red Onion  or  $2.50 / each
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Long English Cucumber  $3.99/each
-* Green Beans  mx  $4.99 / lb
-* Leek  az  $4.99 / lb
+* Field Cucumber  $3.99/for 2
 * Cauliflower  cal  $6.75 / each
-* Spaghetti Squash  mx  $2.70 / lb
-* Avocado Hass mx  $6.50 / 2pack
+* Spaghetti Squash  mx  $2.75 / lb
+* Avocado Hass mx  $8.99 / 3pack
 * Lemon Meyer  cal   $6.99 / 2lb net
 * Kiwis  cl   $6.99 / lb
 * Pineapple  cr  $7.99 / each
-* Pears D'Anjou  was  $3.00 / lb
+* Pears Bartlette  arg  $3.75 / lb
 * Grapefruit Rio Red  cal  $2.25 / each
 * Tango Mandarins  cal  $5.75 / lb
 * Dates pitted  cal  $9.99 / 8oz bag
@@ -70,9 +68,8 @@ If your changes bring your order to more than $38.00 we will email you and confi
 ### Weekly Specials
 
 * Cauliflower  cal   $6.75 / each
-* Green Beans  mx  $4.99 / lb
 * Red Cabbage  cal   $2.80 / lb
-* Leeks  az   $4.99 / lb
+* Field Cucumber  mx  $3.99 / for 2
 * Tango Mandarin's  cal  $5.75 / lb
 * Spaghetti Squash  mx   $2.75 / lb
 * Meyer Lemons  cal  $6.99 / 2lb net
