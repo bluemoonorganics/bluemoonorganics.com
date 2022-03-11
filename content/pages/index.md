@@ -10,31 +10,11 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **March 7th - 11th/2022**
+#### **We will be closed for Spring Break, resuming delivery the week of March 28th/2022**
 
 ### Regular Box ($38.00)
 
-* 4 Ambrosia Apples  BC
-* 4 Bananas  ec
-* 1 Mango Kent  mx
-* 3 Navel Oranges  cal
-* Bunched Carrots  cal
-* 1.5lb Russet Potatoes  BC
-* Roma Tomatoes  mx
-* Romaine Lettuce  cal
-* Broccoli  mx
-* Green Bell Pepper  mx
-* Red Bunched Beets  cal
-
 ### Fruit Box ($38.00)
-
-* 5 Ambrosia Apples  BC
-* 5 Bananas  ec
-* 1 Mango Kent  mx
-* 1 Pineapple  cr
-* 3 Navel Oranges  cal
-* 2lbs Tango Mandarin's  cal
-* 1lb Pears Bartlett arg
 
 ***
 
