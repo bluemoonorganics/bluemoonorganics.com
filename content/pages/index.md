@@ -47,15 +47,6 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 ### Weekly Specials
 
-* Cauliflower  cal   $6.75 / each
-* Red Cabbage  cal   $2.80 / lb
-* Field Cucumber  mx  $3.99 / for 2
-* Tango Mandarin's  cal  $5.75 / lb
-* Spaghetti Squash  mx   $2.75 / lb
-* Meyer Lemons  cal  $6.99 / 2lb net
-* Dates pitted  cal  $9.99 / 8oz bag
-* Honey Organic  BC   $11.99 / 500gr
-
 ***
 
 ## Grocery items
