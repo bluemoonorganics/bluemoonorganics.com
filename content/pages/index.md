@@ -10,11 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **We will be closed for Spring Break, resuming delivery the week of March 28th/2022**
+#### **March 28th - April 1st/2022**
 
 ### Regular Box ($38.00)
 
+* 3 Orin Apples  BC
+* 4 Bananas  ec
+* 2 Navel Oranges  cal
+* 2 Bartlett Pears  arg
+* Green Onions  mx
+* Bunched Carrots  cal
+* Green Kale  mx
+* Celery  mx
+* Orange Bell Pepper  mx
+* 1.5lbs Russet Potatoes  BC
+* Spaghetti Squash  mx
+* pt Red Grape Tomatoes  mx
+
 ### Fruit Box ($38.00)
+
+* 6 Orin Apples  BC
+* 5 Bananas  ec
+* 2 Rio Red Grapefruit  cal
+* 6oz Blackberries  mx
+* 4 Navel Oranges  cal
+* 1.5lbs Tango Mandarins  cal
+* 3 Bartlett Pears  arg
 
 ***
 
@@ -31,21 +52,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
 * Red Onion  or  $2.50 / each
+* Aparagus  mx  $6.50 / lb
+* Iceberg Lettuce  cal  $5.99 / each
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
 * Field Cucumber  $3.99/for 2
-* Cauliflower  cal  $6.75 / each
-* Spaghetti Squash  mx  $2.75 / lb
-* Avocado Hass mx  $8.99 / 3pack
-* Lemon Meyer  cal   $6.99 / 2lb net
+* Cauliflower  cal  $5.99 / each
+* Broccoli  cal  $5.99 / bunch
+* Avocado Hass mx  $7.50 / 2pack
+* Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $6.99 / lb
 * Pineapple  cr  $7.99 / each
-* Pears Bartlette  arg  $3.75 / lb
+* Blackberries  mx  $5.99 / 6oz
 * Grapefruit Rio Red  cal  $2.25 / each
-* Tango Mandarins  cal  $5.75 / lb
+* Tango Mandarins  cal  $5.50 / lb
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
+
+* Asparagus  mx  $6.50 / lb
+* Avocados  mx  $7.50 / 2pack
+* Lemon  cal  $3.60 / 3pack
+* Blackberries  mx  $5.99 / 6oz
+* Iceberg Lettuce  cal  $5.99 / each
+* Broccoli  cal  $5.99 / bunch
+* Organic HONEY BC  $11.99 / 500gr
 
 ***
 
