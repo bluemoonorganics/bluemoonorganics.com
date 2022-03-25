@@ -19,7 +19,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 2 Navel Oranges  cal
 * 2 Bartlett Pears  arg
 * Green Onions  mx
-* Bunched Carrots  cal
+* Bunched Red Beets  cal
 * Green Kale  mx
 * Celery  mx
 * Orange Bell Pepper  mx
@@ -52,8 +52,9 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
 * Red Onion  or  $2.50 / each
-* Aparagus  mx  $6.50 / lb
+* Asparagus  mx  $6.50 / lb
 * Iceberg Lettuce  cal  $5.99 / each
+* Carrots  cal   $4.99 / 2lb bag
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
 * Field Cucumber  $3.99/for 2
