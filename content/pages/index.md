@@ -10,31 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **March 28th - April 1st/2022**
+#### **April 4th - April 1st/2022**
 
 ### Regular Box ($38.00)
 
-* 3 Orin Apples  BC
+* 3 Ambrosia Apples  BC
 * 4 Bananas  ec
 * 2 Navel Oranges  cal
 * 2 Bartlett Pears  arg
-* Green Onions  mx
-* Bunched Red Beets  cal
-* Green Kale  mx
-* Celery  mx
-* Orange Bell Pepper  mx
+* Field Cucumbers  mx
+* 2lb bag of Carrots  cal
+* Italian Parsley  cal
+* 1lb Asparagus  mx
+* Green Bell Pepper  mx
 * 1.5lbs Russet Potatoes  BC
-* Spaghetti Squash  mx
-* pt Red Grape Tomatoes  mx
+* Roma Tomatoes  mx
 
 ### Fruit Box ($38.00)
 
-* 6 Orin Apples  BC
+* 6 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 2 Rio Red Grapefruit  cal
-* 6oz Blackberries  mx
+* 1 Mango Tommy Atkins  mx
 * 4 Navel Oranges  cal
-* 1.5lbs Tango Mandarins  cal
+* 2lbs Tango Mandarins  cal
 * 3 Bartlett Pears  arg
 
 ***
@@ -51,31 +50,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Red Onion  or  $2.50 / each
-* Asparagus  mx  $6.50 / lb
-* Iceberg Lettuce  cal  $5.99 / each
-* Carrots  cal   $4.99 / 2lb bag
+* Green Onion  cal  $2.99 / 2pck
+* Spaghetti Squash  mx  $1.99 / lb
+* Romaine Lettuce  cal  $5.75 / each
+* Celery  cal   $3.99 / each
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Field Cucumber  $3.99/for 2
-* Cauliflower  cal  $5.99 / each
+* Kale  mx    $3.99 / bunch
 * Broccoli  cal  $5.99 / bunch
 * Avocado Hass mx  $7.50 / 2pack
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $6.99 / lb
 * Pineapple  cr  $7.99 / each
-* Blackberries  mx  $5.99 / 6oz
-* Grapefruit Rio Red  cal  $2.25 / each
+* Mango Tommy Atkins mx  $3.50/each
+* Grapefruit Rio Red  cal  $2.40 / each
 * Tango Mandarins  cal  $5.50 / lb
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
-* Asparagus  mx  $6.50 / lb
+* Romaine Lettuce cal  $5.75 / each
 * Avocados  mx  $7.50 / 2pack
 * Lemon  cal  $3.60 / 3pack
-* Blackberries  mx  $5.99 / 6oz
-* Iceberg Lettuce  cal  $5.99 / each
+* Mango  mx  $3.50 / each 
+* Pineapple  mx   $7.99 / each
+* Spaghetti Squash  mx  $1.99 / lb
 * Broccoli  cal  $5.99 / bunch
 * Organic HONEY BC  $11.99 / 500gr
 
