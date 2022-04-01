@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **April 4th - April 1st/2022**
+#### **April 4th - April 8th/2022**
 
 ### Regular Box ($38.00)
 
@@ -72,7 +72,7 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Romaine Lettuce cal  $5.75 / each
 * Avocados  mx  $7.50 / 2pack
 * Lemon  cal  $3.60 / 3pack
-* Mango  mx  $3.50 / each 
+* Mango  mx  $3.50 / each
 * Pineapple  mx   $7.99 / each
 * Spaghetti Squash  mx  $1.99 / lb
 * Broccoli  cal  $5.99 / bunch
