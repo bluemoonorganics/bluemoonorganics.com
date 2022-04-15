@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **April 11th - April 15th/2022**
+#### **April 18th - April 22nd/2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
 * 2 Navel Oranges  cal
-* 2 Ataulfo Mango's  mx
-* Field Cucumbers  mx
-* 2lb bag of Carrots  cal
-* Celery  cal
-* Green Kale  cal
-* Green Bell Pepper  mx
+* 2 Bartlett Pears  arg
+* 1 Field Cucumbers  mx
+* Bunched Spinach  cal
+* Romaine Lettuce  cal
+* Orange Bell Pepper  mx
+* Gold Bunched Beets  mx
 * 1.5lbs Russet Potatoes  BC
-* Roma Tomatoes  mx
+* Green Onions  mx
 
 ### Fruit Box ($38.00)
 
-* 6 Ambrosia Apples  BC
+* 5 Ambrosia Apples  BC
 * 5 Bananas  ec
-* 2 Rio Red Grapefruit  cal
+* 1 Pineapple  mx
 * 2 Mango Ataulfo  mx
 * 3 Navel Oranges  cal
-* 2lbs Tango Mandarins  cal
-* 3 Bartlett Pears  arg
+* 1lbs Tango Mandarins  cal
+* 4 Bartlett Pears  arg
 
 ***
 
@@ -50,31 +50,33 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Asparagus  mx  $6.99 / lb
+* Asparagus  mx  $7.75 / lb
 * Spaghetti Squash  mx  $1.99 / lb
-* Romaine Lettuce  cal  $5.75 / each
+* Carrots  cal  $4.99 / 2lb bag
 * Jicama  mx   $5.75 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.50 / lb
-* Broccoli  cal  $5.99 / bunch
-* Avocado Hass mx  $7.50 / 2pack
+* Broccolette  cal  $6.50 / bunch
+* Celery  mx  $3.99 / each
+* Avocado Hass mx  $6.50 / each
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $6.99 / lb
-* Pineapple  cr  $8.99 / each
-* Pears Bartlett  arg  $1.75 / each
-* Grapefruit Rio Red  cal  $2.40 / each
+* Pineapple  cr  $7.99 / each
+* Mango Ataulfo  mx  $3.80 / for 2
+* Grapefruit Rio Red  cal  $2.50 / each
 * Tango Mandarins  cal  $5.50 / lb
 * Dates pitted  cal  $9.99 / 8oz bag
 
 ### Weekly Specials
 
-* Romaine Lettuce cal  $5.75 / each
-* Avocados  mx  $7.50 / 2pack
-* Lemon  cal  $3.60 / 3pack
+* Broccolette  cal  $6.50 / each
+* Avocados  mx  $6.50 / 2pack
+* Celery  mx  $3.99 / each
 * Asparagus  mx  $6.99 / lb
 * Jicama  mx  $5.75 / lb
 * Spaghetti Squash  mx  $1.99 / lb
-* Broccoli  cal  $5.99 / bunch
+* Mango Ataulfo  mx  $3.80 / for 2
+* Pineapple  mx  $7.99
 * Organic HONEY BC  $11.99 / 500gr
 
 ***
