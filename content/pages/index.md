@@ -10,19 +10,19 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **April 18th - April 22nd/2022**
+#### **April 25th - April 29th/2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
-* 2 Navel Oranges  cal
+* 3 Navel Oranges  cal
 * 2 Bartlett Pears  arg
 * 1 Field Cucumbers  mx
-* Bunched Spinach  cal
+* Collard Greens  cal
 * Romaine Lettuce  cal
-* Orange Bell Pepper  mx
-* Gold Bunched Beets  mx
+* Red Radishes  mx
+* 2 Beefsteak Tomatoes  mx
 * 1.5lbs Russet Potatoes  BC
 * Green Onions  mx
 
@@ -50,13 +50,13 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Asparagus  mx  $7.75 / lb
+* Cauliflower  az  $5.50 / each
 * Spaghetti Squash  mx  $1.99 / lb
 * Carrots  cal  $4.99 / 2lb bag
 * Jicama  mx   $5.75 / lb
 * Yams  cal   $3.50 / lb
 * Red Cabbage  cal  $2.50 / lb
-* Broccolette  cal  $6.50 / bunch
+* Broccoli  cal  $5.50 / bunch
 * Celery  mx  $3.99 / each
 * Avocado Hass mx  $6.50 / each
 * Lemon  cal   $3.60 / 3pack
@@ -69,11 +69,11 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 ### Weekly Specials
 
-* Broccolette  cal  $6.50 / each
-* Avocados  mx  $6.50 / 2pack
+* Broccoli  cal  $5.50 / each
+* Avocados  mx  $6.50 / each
 * Celery  mx  $3.99 / each
-* Asparagus  mx  $6.99 / lb
-* Jicama  mx  $5.75 / lb
+* Cauliflower  az  $5.50 / each
+* Carrots  cal   $4.99 / 2lb bag
 * Spaghetti Squash  mx  $1.99 / lb
 * Mango Ataulfo  mx  $3.80 / for 2
 * Pineapple  mx  $7.99
