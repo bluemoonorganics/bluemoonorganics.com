@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **April 25th - April 29th/2022**
+#### **May 2nd - May 6th/2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
-* 3 Navel Oranges  cal
-* 2 Bartlett Pears  arg
+* 2 Ataulfo Mango's  mx
+* 2 D'Anjou Pears  was
 * 1 Field Cucumbers  mx
-* Collard Greens  cal
+* Green Kale  cal
 * Romaine Lettuce  cal
-* Red Radishes  mx
+* 1lb Zucchini  mx
 * 2 Beefsteak Tomatoes  mx
-* 1.5lbs Russet Potatoes  BC
-* Green Onions  mx
+* 1lb Yams  cal
+* Cilantro  cal
 
 ### Fruit Box ($38.00)
 
-* 5 Ambrosia Apples  BC
+* 6 Ambrosia Apples  BC
 * 5 Bananas  ec
-* 1 Pineapple  mx
+* 1lb Strawberries  cal
 * 2 Mango Ataulfo  mx
-* 3 Navel Oranges  cal
-* 1lbs Tango Mandarins  cal
-* 4 Bartlett Pears  arg
+* 2lbs Cara Cara Oranges  cal
+* 1lb Kiwis  cal
+* 3 D'Anjou Pears  was
 
 ***
 
@@ -50,34 +50,33 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Cauliflower  az  $5.50 / each
-* Spaghetti Squash  mx  $1.99 / lb
+* Cauliflower  az  $6.99 / each
 * Carrots  cal  $4.99 / 2lb bag
-* Jicama  mx   $5.75 / lb
-* Yams  cal   $3.50 / lb
-* Red Cabbage  cal  $2.50 / lb
+* Leeks  mx   $4.25 / lb
+* Brussel Sprout cal   $5.99 / lb
+* Red Cabbage  cal  $2.80 / lb
 * Broccoli  cal  $5.50 / bunch
 * Celery  mx  $3.99 / each
 * Avocado Hass mx  $6.50 / each
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $6.99 / lb
-* Pineapple  cr  $7.99 / each
-* Mango Ataulfo  mx  $3.80 / for 2
+* Strawberries  cal  $6.99 / lb
 * Grapefruit Rio Red  cal  $2.50 / each
-* Tango Mandarins  cal  $5.50 / lb
-* Dates pitted  cal  $9.99 / 8oz bag
+* Cara Cara Oranges  cal  $2.99 / lb
+* Quick Rolled Oats BC  $9.99/ 1kg bag
 
 ### Weekly Specials
 
 * Broccoli  cal  $5.50 / each
 * Avocados  mx  $6.50 / each
 * Celery  mx  $3.99 / each
-* Cauliflower  az  $5.50 / each
+* Cauliflower big  az  $6.99 / each
 * Carrots  cal   $4.99 / 2lb bag
-* Spaghetti Squash  mx  $1.99 / lb
-* Mango Ataulfo  mx  $3.80 / for 2
-* Pineapple  mx  $7.99
+* Leeks  mx  $4.25 / lb
+* Strawberries  cal  $6.99 / lb
+* Cara Cara Oranges  cal  $2.99/lb
 * Organic HONEY BC  $11.99 / 500gr
+* Quick Rolled Oats BC  $9.99/1kg bag
 
 ***
 
