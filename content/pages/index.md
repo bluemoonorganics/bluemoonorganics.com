@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **May 2nd - May 6th/2022**
+#### **May 9th - May 13th/2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
-* 2 Ataulfo Mango's  mx
+* 1lb Cara Cara Oranges  cal
 * 2 D'Anjou Pears  was
 * 1 Field Cucumbers  mx
-* Green Kale  cal
-* Romaine Lettuce  cal
-* 1lb Zucchini  mx
+* Bunched Spinach  cal
+* Green Leaf Lettuce  cal
+* 1 Field Cucumber  mx
 * 2 Beefsteak Tomatoes  mx
-* 1lb Yams  cal
-* Cilantro  cal
+* Green Onions  cal
+* Broccoli  cal
 
 ### Fruit Box ($38.00)
 
-* 6 Ambrosia Apples  BC
+* 5 Ambrosia Apples  BC
 * 5 Bananas  ec
-* 1lb Strawberries  cal
-* 2 Mango Ataulfo  mx
-* 2lbs Cara Cara Oranges  cal
+* 1 Cantaloupe Melon  cal
+* 1 Mango Tommy Atkins  mx
+* 1.5lbs Cara Cara Oranges  cal
 * 1lb Kiwis  cal
 * 3 D'Anjou Pears  was
+* 2 Grapefruit Star Ruby  cal
 
 ***
 
@@ -55,28 +56,27 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Leeks  mx   $4.25 / lb
 * Brussel Sprout cal   $5.99 / lb
 * Red Cabbage  cal  $2.80 / lb
-* Broccoli  cal  $5.50 / bunch
-* Celery  mx  $3.99 / each
+* Green Beans  mx  $5.50 / lb
+* Potatoes Russet was  $2.75 / lb
+* Yams  cal   $3.50 / lb
 * Avocado Hass mx  $6.50 / each
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $6.99 / lb
-* Strawberries  cal  $6.99 / lb
+* Mango Tommy Atkins mx  $3.25/ea
 * Grapefruit Rio Red  cal  $2.50 / each
-* Cara Cara Oranges  cal  $2.99 / lb
-* Quick Rolled Oats BC  $9.99/ 1kg bag
+* Cantaloupe Melon  cal  $5.99 / each
+* Quick Rolled Oats BC  $8.99/ 1kg bag
 
 ### Weekly Specials
 
-* Broccoli  cal  $5.50 / each
+* Green Bean  mx  $5.50 / lb
 * Avocados  mx  $6.50 / each
-* Celery  mx  $3.99 / each
+* Potatoes Russet  was  $2.75 / lb
 * Cauliflower big  az  $6.99 / each
 * Carrots  cal   $4.99 / 2lb bag
 * Leeks  mx  $4.25 / lb
-* Strawberries  cal  $6.99 / lb
-* Cara Cara Oranges  cal  $2.99/lb
-* Organic HONEY BC  $11.99 / 500gr
-* Quick Rolled Oats BC  $9.99/1kg bag
+* Cantaloupe Melon  cal  $5.99/each
+* Quick Rolled Oats BC  $8.99/1kg bag
 
 ***
 
