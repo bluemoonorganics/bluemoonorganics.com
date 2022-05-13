@@ -10,20 +10,19 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **May 9th - May 13th/2022**
+#### **May 16th - May 20th/2022**
 
 ### Regular Box ($38.00)
 
 * 4 Ambrosia Apples  BC
 * 4 Bananas  ec
-* 1lb Cara Cara Oranges  cal
-* 2 D'Anjou Pears  was
+* 1 Cantaloupe Melon  mx
+* 1.5lbs Russet Potatoes  was
 * 1 Field Cucumbers  mx
-* Bunched Spinach  cal
-* Green Leaf Lettuce  cal
-* 1 Field Cucumber  mx
+* Bunched Red Beets  cal
+* Romaine Lettuce  cal
 * 2 Beefsteak Tomatoes  mx
-* Green Onions  cal
+* 0.75lb Green Beans  mx
 * Broccoli  cal
 
 ### Fruit Box ($38.00)
@@ -31,11 +30,11 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 5 Ambrosia Apples  BC
 * 5 Bananas  ec
 * 1 Cantaloupe Melon  cal
-* 1 Mango Tommy Atkins  mx
-* 1.5lbs Cara Cara Oranges  cal
+* 1.5lbs Yellow Peaches  cal
+* 1lb Navel Oranges  cal
 * 1lb Kiwis  cal
 * 3 D'Anjou Pears  was
-* 2 Grapefruit Star Ruby  cal
+* 1 Grapefruit Star Ruby  cal
 
 ***
 
@@ -53,29 +52,28 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Yellow Onions  or   $2.50 / lb
 * Cauliflower  az  $6.99 / each
 * Carrots  cal  $4.99 / 2lb bag
-* Leeks  mx   $4.25 / lb
-* Brussel Sprout cal   $5.99 / lb
-* Red Cabbage  cal  $2.80 / lb
-* Green Beans  mx  $5.50 / lb
-* Potatoes Russet was  $2.75 / lb
+* Red Bell Pepper  mx   $4.50 / lb
+* Brussel Sprout cal   $6.50 / lb
+* Red Cabbage  cal  $2.90 / lb
 * Yams  cal   $3.50 / lb
 * Avocado Hass mx  $6.50 / each
 * Lemon  cal   $3.60 / 3pack
-* Kiwis  cl   $6.99 / lb
-* Mango Tommy Atkins mx  $3.25/ea
+* Kiwis  cl   $7.50 / lb
+* Navel Oranges  cal  $3.50 / lb
 * Grapefruit Rio Red  cal  $2.50 / each
-* Cantaloupe Melon  cal  $5.99 / each
+* Yellow Peaches  cal  $4.50 / lb
+* D'Anjou Pears  was  $1.25 / each
 * Quick Rolled Oats BC  $8.99/ 1kg bag
 
 ### Weekly Specials
 
-* Green Bean  mx  $5.50 / lb
-* Avocados  mx  $6.50 / each
-* Potatoes Russet  was  $2.75 / lb
-* Cauliflower big  az  $6.99 / each
 * Carrots  cal   $4.99 / 2lb bag
-* Leeks  mx  $4.25 / lb
-* Cantaloupe Melon  cal  $5.99/each
+* Red Cabbage  cal  $2.90 / lb
+* Yams  mx    $3.50 / lb
+* Cauliflower big  az  $6.99 / each
+* Red Bell Pepper  mx   $4.50 / lb
+* Yellow Peaches  cal  $4.50 / lb
+* D'Anjou Pears  was  $1.25 / each
 * Quick Rolled Oats BC  $8.99/1kg bag
 
 ***
