@@ -71,7 +71,6 @@ If your changes bring your order to more than $38.00 we will email you and confi
 
 * Yellow Nectarines  cal   $4.50/lb
 * Red Cabbage  cal  $2.90 / lb
-* Yams  mx    $3.50 / lb
 * Plumcot Plums  cal  $5.99/lb
 * Orange Bell Pepper  mx  $4.75/lb
 * Mini Watermelon cal  $7.99/each
