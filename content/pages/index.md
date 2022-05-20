@@ -14,27 +14,27 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ### Regular Box ($38.00)
 
-* 4 Ambrosia Apples  BC
+* 3 Apples Granny Smith  was
 * 4 Bananas  ec
-* 1 Cantaloupe Melon  mx
+* 1 Mango Tommy Atkins  mx
+* 3 Pears D'Anjou  was
 * 1.5lbs Russet Potatoes  was
-* 1 Field Cucumbers  mx
-* Bunched Red Beets  cal
-* Romaine Lettuce  cal
+* 1 Acorn Squash  mx
+* Bunched Green Onions  cal
+* Green Leaf Lettuce  cal
 * 2 Beefsteak Tomatoes  mx
-* 0.75lb Green Beans  mx
-* Broccoli  cal
+* Green Kale  cal
+* Broccoli Crown cal
 
 ### Fruit Box ($38.00)
 
-* 5 Ambrosia Apples  BC
+* 5 Granny Smith Apples  was
 * 5 Bananas  ec
-* 1 Cantaloupe Melon  cal
-* 1.5lbs Yellow Peaches  cal
-* 1lb Navel Oranges  cal
-* 1lb Kiwis  cal
+* 1 Mini Watermelon  cal
+* 1.25lbs Yellow Nectarines  cal
+* 1.25lb Plumcot Plums  cal
+* 1 Tommy Atkins Mango  mx
 * 3 D'Anjou Pears  was
-* 1 Grapefruit Star Ruby  cal
 
 ***
 
@@ -50,30 +50,33 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  or   $2.50 / lb
-* Cauliflower  az  $6.99 / each
+* Bunched Basil cal  $3.99 / bunch
 * Carrots  cal  $4.99 / 2lb bag
-* Red Bell Pepper  mx   $4.50 / lb
-* Brussel Sprout cal   $6.50 / lb
+* Orange Bell Pepper  mx   $4.75 / lb
+* White Mushrooms BC  $4.99 / 227gr
 * Red Cabbage  cal  $2.90 / lb
 * Yams  cal   $3.50 / lb
+* Red Beets  cal   $2.99 / lb
 * Avocado Hass mx  $6.50 / each
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $7.50 / lb
-* Navel Oranges  cal  $3.50 / lb
+* Mini Watermelon cal  $7.99 / each
 * Grapefruit Rio Red  cal  $2.50 / each
-* Yellow Peaches  cal  $4.50 / lb
-* D'Anjou Pears  was  $1.25 / each
+* Yellow Nectarines  cal  $4.50 / lb
+* Plumcot Plums  cal  $5.99 / lb
+* Cantaloupe Melon  mx  $5.99 / each
 * Quick Rolled Oats BC  $8.99/ 1kg bag
 
 ### Weekly Specials
 
-* Carrots  cal   $4.99 / 2lb bag
+* Yellow Nectarines  cal   $4.50/lb
 * Red Cabbage  cal  $2.90 / lb
 * Yams  mx    $3.50 / lb
-* Cauliflower big  az  $6.99 / each
-* Red Bell Pepper  mx   $4.50 / lb
-* Yellow Peaches  cal  $4.50 / lb
-* D'Anjou Pears  was  $1.25 / each
+* Plumcot Plums  cal  $5.99/lb
+* Orange Bell Pepper  mx  $4.75/lb
+* Mini Watermelon cal  $7.99/each
+* Basil  cal  $3.99/bunch
+* White Mushrooms  BC  $4.99/227gr
 * Quick Rolled Oats BC  $8.99/1kg bag
 
 ***
