@@ -64,7 +64,6 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Grapefruit Rio Red  cal  $2.50 / each
 * Yellow Nectarines  cal  $4.50 / lb
 * Plumcot Plums  cal  $5.99 / lb
-* Cantaloupe Melon  mx  $5.99 / each
 * Quick Rolled Oats BC  $8.99/ 1kg bag
 
 ### Weekly Specials
