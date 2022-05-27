@@ -10,31 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **May 16th - May 20th/2022**
+#### **May 30th - June 3rd/2022**
 
-### Regular Box ($38.00)
+### Regular Box ($38.00, $42.00 as of June 11th)
 
 * 3 Apples Granny Smith  was
 * 4 Bananas  ec
-* 1 Mango Tommy Atkins  mx
-* 3 Pears D'Anjou  was
-* 1.5lbs Russet Potatoes  was
+* 1,25lb Nectarines  cal
+* 0.75lb Green Beans  cal
+* 2lbs Carrots  cal
 * 1 Acorn Squash  mx
-* Bunched Green Onions  cal
-* Green Leaf Lettuce  cal
+* 1 Field Cucumber  cal
+* Broccolett  cal
 * 2 Beefsteak Tomatoes  mx
-* Green Kale  cal
-* Broccoli Crown cal
+* Collard Greens  cal
 
-### Fruit Box ($38.00)
+### Fruit Box ($38.00, $42.00 as of June 11th)
 
-* 5 Granny Smith Apples  was
+* 4 Granny Smith Apples  was
 * 5 Bananas  ec
 * 1 Mini Watermelon  cal
-* 1.25lbs Yellow Nectarines  cal
-* 1.25lb Plumcot Plums  cal
+* 1.5lbs Yellow Nectarines  cal
+* 1lb Plumcot Plums  cal
 * 1 Tommy Atkins Mango  mx
-* 3 D'Anjou Pears  was
+* 2 Grapefruit Ruby Red
 
 ***
 
@@ -49,31 +48,31 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
-* Yellow Onions  or   $2.50 / lb
-* Bunched Basil cal  $3.99 / bunch
-* Carrots  cal  $4.99 / 2lb bag
-* Orange Bell Pepper  mx   $4.75 / lb
+* Yellow Onions  or   $3.00 / lb
+* Rhubarb  BC  $4.99 / lb
+* Russet Potatoes  was  $2.00 / lb
+* Red Bell Pepper  mx   $4.99 / lb
 * White Mushrooms BC  $4.99 / 227gr
 * Red Cabbage  cal  $2.90 / lb
 * Yams  cal   $3.50 / lb
-* Red Beets  cal   $2.99 / lb
-* Avocado Hass mx  $6.50 / each
+* Iceberg Lettuce  cal   $6.50 / each
+* Avocado Hass mx  $5.75 / each
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $7.50 / lb
 * Mini Watermelon cal  $7.99 / each
 * Grapefruit Rio Red  cal  $2.50 / each
-* Yellow Nectarines  cal  $4.50 / lb
+* Mango Tommy Atkins  mx  $3.50/ea
 * Plumcot Plums  cal  $5.99 / lb
 * Quick Rolled Oats BC  $8.99/ 1kg bag
 
 ### Weekly Specials
 
-* Yellow Nectarines  cal   $4.50/lb
+* Rhubarb  BC   $4.99/lb
 * Red Cabbage  cal  $2.90 / lb
 * Plumcot Plums  cal  $5.99/lb
-* Orange Bell Pepper  mx  $4.75/lb
+* Red Bell Pepper  mx  $4.75/lb
 * Mini Watermelon cal  $7.99/each
-* Basil  cal  $3.99/bunch
+* Artichokes  cal  $2.99 / each
 * White Mushrooms  BC  $4.99/227gr
 * Quick Rolled Oats BC  $8.99/1kg bag
 
