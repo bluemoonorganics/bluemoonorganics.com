@@ -14,24 +14,25 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ### Regular Box ($38.00, $42.00 as of June 11th)
 
-* 3 Apples Granny Smith  was
+* 3 Apples Gala  was
 * 4 Bananas  ec
-* 1,25lb Nectarines  cal
+* 1lb Nectarines  cal
 * 0.75lb Green Beans  cal
-* 2lbs Carrots  cal
-* 1 Acorn Squash  mx
+* Italian Parsley  cal
+* Broccoli  cal
 * 1 Field Cucumber  cal
-* Broccolett  cal
+* 1lb Beets Red  cal
 * 2 Beefsteak Tomatoes  mx
-* Collard Greens  cal
+* Bunched Spinach  cal
+* 1 Yellow Onion  mx
 
 ### Fruit Box ($38.00, $42.00 as of June 11th)
 
-* 4 Granny Smith Apples  was
+* 4 Gala Apples  was
 * 5 Bananas  ec
 * 1 Mini Watermelon  cal
-* 1.5lbs Yellow Nectarines  cal
-* 1lb Plumcot Plums  cal
+* 1.33lbs Yellow Nectarines  cal
+* 1lb Kiwis  cal
 * 1 Tommy Atkins Mango  mx
 * 2 Grapefruit Ruby Red
 
@@ -48,21 +49,21 @@ If your changes bring your order to more than $38.00 we will email you and confi
 * Spring Mix  cal   $6.99 / 5oz bag
 * Baby Spinach cal   $6.99 / 5oz bag
 * Garlic  cal   $6.00 for 2
-* Yellow Onions  or   $3.00 / lb
+* Ginger  pr   $6.00 / half a lb
 * Rhubarb  BC  $4.99 / lb
-* Russet Potatoes  was  $2.00 / lb
-* Red Bell Pepper  mx   $4.99 / lb
+* Cauliflower  cal  $6.99 / each
+* Red Potatoes  cal   $3.99 / lb
 * White Mushrooms BC  $4.99 / 227gr
-* Red Cabbage  cal  $2.90 / lb
+* Squash Acorn  mx  $2.50 / lb
 * Yams  cal   $3.50 / lb
-* Iceberg Lettuce  cal   $6.50 / each
+* Artichoke  cal   $2.99 / each
+* Carrots  cal   $4.99 / 2lb bag
 * Avocado Hass mx  $5.75 / each
 * Lemon  cal   $3.60 / 3pack
 * Kiwis  cl   $7.50 / lb
 * Mini Watermelon cal  $7.99 / each
 * Grapefruit Rio Red  cal  $2.50 / each
 * Mango Tommy Atkins  mx  $3.50/ea
-* Plumcot Plums  cal  $5.99 / lb
 * Quick Rolled Oats BC  $8.99/ 1kg bag
 
 ### Weekly Specials
