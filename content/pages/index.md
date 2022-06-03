@@ -69,11 +69,11 @@ If your changes bring your order to more than $38.00 we will email you and confi
 ### Weekly Specials
 
 * Rhubarb  BC   $4.99/lb
-* Red Cabbage  cal  $2.90 / lb
-* Plumcot Plums  cal  $5.99/lb
-* Red Bell Pepper  mx  $4.75/lb
+* Cauliflower  cal  $6.99 / each
+* Ginger  peru  $6.00/half a lb
+* Red Potatoes  cal  $3.99/lb
 * Mini Watermelon cal  $7.99/each
-* Artichokes  cal  $2.99 / each
+* Artichokes  cal  $2.99/each
 * White Mushrooms  BC  $4.99/227gr
 * Quick Rolled Oats BC  $8.99/1kg bag
 
