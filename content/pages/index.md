@@ -17,8 +17,8 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  ec
 * 4 Gala Apples  was
 * 4 Nectarines  cal
-* 1 Mango Tommy Atkins  mx
-* 0.75lb Green Beans  cal
+* 1 Mango Ataulfo  mx
+* 1lb Yams  cal
 * Broccolette  cal
 * 1 Field Cucumber  cal
 * Red Radishes  cal
@@ -33,7 +33,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 1 Mini Watermelon  cal
 * 5 Yellow Nectarines  cal
 * 2lbs Green Grapes  cal
-* 1 Tommy Atkins Mango  mx
+* 2 Ataulfo Mangos  mx
 * 2 Grapefruit Ruby Red
 
 ***
