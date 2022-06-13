@@ -40,7 +40,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## Extras for purchase or substitutions
 
-If your changes bring your order to more than $38.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
+If your changes bring your order to more than $42.00 we will email you and confirm your total. Remember you can make as many changes as you like. You can also add vegetables to the fruit box. **All changes and cancellations must be made by 9:00 AM the day prior to your delivery day at the very latest.**
 
 [Click here for substitutions](/substitutions "Click here for substitutions")
 
