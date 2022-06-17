@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **June 13th - June 17th/2022**
+#### **June 20th - June 24th/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
-* 4 Gala Apples  was
+* 3 Gala Apples  was
 * 4 Nectarines  cal
 * 1 Mango Ataulfo  mx
-* 1lb Yams  cal
-* Broccolette  cal
-* 1 Field Cucumber  cal
-* Red Radishes  cal
-* pint Red Grape Tomatoes  mx
-* Red Leaf Lettuce  cal
-* Green Onions  mx
+* 0.7lb Green Beans  cal
+* 1 Orange Bell Pepper  mx
+* 2lbs Carrots  cal
+* Green Kale  cal
+* 1lb Roma Tomatoes  mx
+* Romaine Lettuce  cal
+* Garlic Scape  BC
 
 ### Fruit Box $42.00
 
-* 5 Gala Apples  was
+* 4 Gala Apples  was
 * 5 Bananas  ec
-* 1 Mini Watermelon  cal
+* 1lb Strawberries  cal
 * 5 Yellow Nectarines  cal
-* 2lbs Green Grapes  cal
+* 1.5lb Black Plums  cal
 * 2 Ataulfo Mangos  mx
-* 2 Grapefruit Ruby Red
+* 1lb Apricots  cal
 
 ***
 
@@ -46,37 +46,37 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Extras
 
-* Spring Mix  cal   $6.99 / 5oz bag
-* Baby Spinach cal   $6.99 / 5oz bag
+* Spring Mix  cal   $6.99/ 5oz bag
+* Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
-* Ginger  pr   $6.00 / half a lb
-* Yellow Onions  cal   $3.00 / lb
-* Rhubarb  BC  $4.50 / lb
-* Cauliflower  cal  $6.99 / each
-* Red Potatoes  cal   $3.99 / lb
-* White Mushrooms BC  $4.99 / 227gr
-* Squash Acorn  mx  $2.50 / lb
-* Yams  cal   $3.50 / lb
-* Artichoke  cal   $2.50 / each
-* Carrots  cal   $5.00 / 2lb bag
-* Avocado Hass mx  $5.75 / each
-* Lemon  cal   $3.60 / 3pack
-* Kiwis  cl   $7.99 / lb
-* Mini Watermelon cal  $7.99 / each
-* Grapefruit Rio Red  cal  $2.75 / each
-* Green Grapes  mx  $9.99/2lb bag
-* Quick Rolled Oats BC  $8.99/ 1kg bag
+* Ginger  pr   $6.00/ half a lb
+* Yellow Onions  cal   $3.00/ lb
+* Long English Cucumber BC $5.99/ea
+* Cauliflower  cal  $6.99/ each
+* Red Potatoes  cal   $3.99/ lb
+* White Mushrooms BC  $4.99/ 227gr
+* Squash Acorn  mx  $2.50/ lb
+* Yams  cal   $3.50/ lb
+* Broccollette  cal   $4.75/ bunch
+* Avocado Hass mx  $5.75/ each
+* Lemon  cal   $3.60/ 3pack
+* Apricots  cal   $8.99/ lb
+* Mini Watermelon cal  $7.99/ each
+* Grapefruit Rio Red  cal  $2.75/ each
+* Red Grapes  mx  $9.99/ 2lb bag
+* Strawberries  cal  $7.99/ lb
+* Black Plums  cal  $4.75/ lb
 
 ### Weekly Specials
 
-* Rhubarb  BC   $4.50 / lb
+* Strawberries  cal   $7.99/ lb
 * Cauliflower  cal  $6.99 / each
 * Ginger  peru  $6.00/half a lb
 * Red Potatoes  cal  $3.99/lb
-* Mini Watermelon cal  $7.99/each
-* Green Grapes  cal  $9.99/2lb bag
-* White Mushrooms  BC  $4.99/227gr
-* Quick Rolled Oats BC  $8.99/1kg bag
+* Apricots  cal  $8.99/ lb
+* Red seedless Grapes  $9.99/2lb bag
+* Black Plums  cal  $4.75/ lb
+* Whole Wheat Flour BC  $8.99/1kg bag
 
 ***
 
