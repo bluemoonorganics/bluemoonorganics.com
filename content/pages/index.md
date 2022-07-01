@@ -69,10 +69,10 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Weekly Specials
 
-* Strawberries  cal   $7.50/ lb
-* Cauliflower big  cal  $6.99 / each
-* Ginger  peru  $6.00/half a lb
-* Red Potatoes  cal  $3.50/lb
+* Yellow Nectarines  cal   $4.75/ lb
+* Cauliflower big  cal  $7.99 / each
+* Red Plums  cal  $5.00/ lb
+* Red Potatoes  cal  $3.99/lb
 * Kohlrabi  BC  $5.99/ each
 * Apricots  cal  $8.99/ lb
 * Red seedless Grapes  $9.99/2lb bag
