@@ -10,32 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **June 27th - July 1st/2022**
+#### **July 4th - July 8th/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
 * 3 Gala Apples  was
-* 3 Nectarines  cal
-* 3 Red Plums  cal
-* 1 Field Cucumber  cal
+* 1lb Strawberries  cal
+* Green Onions  cal
+* 1 Orange Bell Pepper  cal
 * 1lb Yams Garnet  cal
 * Bunched Rainbow Carrots  cal
-* Red Bunched Beets  cal
-* 1lb Roma Tomatoes  mx
-* Red Leaf Lettuce  cal
-* Garlic Scape  BC
+* Celery  cal
+* Red Radishes
+* Romaine Lettuce  cal
 
 ### Fruit Box $42.00
 
 * 4 Gala Apples  was
 * 5 Bananas  ec
 * 1lb Strawberries  cal
-* 4 Yellow Nectarines  cal
+* 1lb Yellow Nectarines  cal
 * 1lb Red Plums  cal
 * 1 Ataulfo Mangos  mx
-* 2 Grapefruit Star Ruby  cal
-* 1lb Apricots  cal
+* 3 Pears Bartlette  ar
+* 1 Mini Watermelon  cal
 
 ***
 
@@ -53,17 +52,19 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Ginger  pr   $6.00/ half a lb
 * Yellow Onions  cal   $3.00/ lb
 * Kohlrabi  BC $5.99/ea
-* Cauliflower  cal  $6.99/ each
-* Red Potatoes  cal   $3.50/ lb
+* Cauliflower  cal  $7.99/ each
+* Red Potatoes  cal   $3.99/ lb
 * White Mushrooms BC  $4.99/ 227gr
-* Broccoli crowns  cal  $5.50/ lb
-* Avocado Hass mx  $5.75/ each
+* Broccolette  cal  $5.50/ lb
+* Avocado Hass mx  $4.99/ each
 * Lemon  cal   $3.60/ 3pack
 * Apricots  cal   $8.99/ lb
 * Mini Watermelon cal  $7.99/ each
 * Grapefruit Rio Red  cal  $2.50/ each
 * Red Grapes  mx  $9.99/ 2lb bag
-* Strawberries  cal  $7.50/ lb
+* Yellow Nectarines  cal  $4.75/ lb
+* Red Plums  cal  $5.00/lb
+* Pears Bartlett  ar  $1.75/each
 * Mango Ataulfo  mx  $2.50/ each
 
 ### Weekly Specials
@@ -75,7 +76,7 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Kohlrabi  BC  $5.99/ each
 * Apricots  cal  $8.99/ lb
 * Red seedless Grapes  $9.99/2lb bag
-* Mango Ataulfo  mx  $2.50/ each 
+* Mango Ataulfo  mx  $2.50/ each
 * Whole Wheat Flour BC  $8.99/1kg bag
 
 ***
