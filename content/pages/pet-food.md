@@ -9,14 +9,14 @@ Pet Chef Express provides the highest quality dog and cat food available. Made i
 
 ### Salmon & Potato Premium Natural Blend
 
-* 4kg (8.8lb) bag — $23.00
-* 13kg (28.6lb) bag — $56.00
+* 4kg (8.8lb) bag — $29.00
+* 13kg (28.6lb) bag — $60.00
 
 ## Cat Food
 
 ### Chicken, Rice, & Salmon Premium Natural Blend
 
-* 3.63kg (8lb) bag — $29.00
+* 3.63kg (8lb) bag — $32.00
 
 ## About
 
