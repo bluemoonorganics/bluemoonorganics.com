@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 4th - July 8th/2022**
+#### **July 11th - July 15th/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
 * 3 Gala Apples  was
-* 1lb Strawberries  cal
-* Green Onions  cal
-* 1 Orange Bell Pepper  cal
-* 1lb Yams Garnet  cal
+* 1lb Black Plums  cal
+* 2 Yellow Nectarines  cal
+* 1 Yellow Onion  cal
+* 1.5lb White Potatoes  BC
 * Bunched Rainbow Carrots  cal
 * Celery  cal
-* Red Radishes
-* Romaine Lettuce  cal
+* Zucchini  cal
+* Green Leaf Lettuce  cal
+* Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
 * 4 Gala Apples  was
-* 5 Bananas  ec
+* 4 Bananas  ec
 * 1lb Strawberries  cal
-* 1lb Yellow Nectarines  cal
-* 1lb Red Plums  cal
-* 1 Ataulfo Mangos  mx
-* 3 Pears Bartlette  ar
-* 1 Mini Watermelon  cal
+* 3 Yellow Nectarines  cal
+* 1lb Black Plums  cal
+* 2 Ataulfo Mangos  mx
+* 1lb Apricots  cal
 
 ***
 
@@ -49,34 +49,29 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Spring Mix  cal   $6.99/ 5oz bag
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
-* Ginger  pr   $6.00/ half a lb
 * Yellow Onions  cal   $3.00/ lb
-* Kohlrabi  BC $5.99/ea
+* Asparagus  cal  $9.50/lb
 * Cauliflower  cal  $7.99/ each
-* Red Potatoes  cal   $3.99/ lb
+* Yams  cal   $3.75/ lb
 * White Mushrooms BC  $4.99/ 227gr
-* Broccolette  cal  $5.50/ lb
 * Avocado Hass mx  $4.99/ each
-* Lemon  cal   $3.60/ 3pack
+* Lemon  cal   $3.99/ 3pack
 * Apricots  cal   $8.99/ lb
 * Mini Watermelon cal  $7.99/ each
 * Grapefruit Rio Red  cal  $2.50/ each
 * Red Grapes  mx  $9.99/ 2lb bag
-* Yellow Nectarines  cal  $4.75/ lb
-* Red Plums  cal  $5.00/lb
 * Pears Bartlett  ar  $1.75/each
-* Mango Ataulfo  mx  $2.50/ each
+* Mango Ataulfo  mx  $2.75/ each
+* Strawberries  cal  $7.99/lb
 
 ### Weekly Specials
 
-* Yellow Nectarines  cal   $4.75/ lb
+* Asparagus  cal   $9.50/ lb
 * Cauliflower big  cal  $7.99 / each
-* Red Plums  cal  $5.00/ lb
-* Red Potatoes  cal  $3.99/lb
-* Kohlrabi  BC  $5.99/ each
+* Strawberries  cal  $7.99/ lb
 * Apricots  cal  $8.99/ lb
-* Red seedless Grapes  $9.99/2lb bag
-* Mango Ataulfo  mx  $2.50/ each
+* Red seedless Grapes  $8.99/2lb bag
+* Mango Ataulfo  mx  $2.75/ each
 * Whole Wheat Flour BC  $8.99/1kg bag
 
 ***
