@@ -59,7 +59,7 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Apricots  cal   $8.99/ lb
 * Mini Watermelon cal  $7.99/ each
 * Grapefruit Rio Red  cal  $2.50/ each
-* Red Grapes  mx  $9.99/ 2lb bag
+* Red Grapes  mx  $8.99/ 2lb bag
 * Pears Bartlett  ar  $1.75/each
 * Mango Ataulfo  mx  $2.75/ each
 * Strawberries  cal  $7.99/lb
