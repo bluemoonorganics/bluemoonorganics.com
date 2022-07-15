@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 11th - July 15th/2022**
+#### **July 18th - July 22nd/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
 * 3 Gala Apples  was
 * 1lb Black Plums  cal
-* 2 Yellow Nectarines  cal
-* 1 Yellow Onion  cal
+* 1 Mango Tommy Atkins  mx
+* Italian Parsley  cal
 * 1.5lb White Potatoes  BC
 * Bunched Rainbow Carrots  cal
-* Celery  cal
-* Zucchini  cal
-* Green Leaf Lettuce  cal
+* 1 Field Cucumber  cal
+* 1 Cauliflower  cal
+* Green Onions  cal
 * Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
-* 4 Gala Apples  was
+* 3 Gala Apples  was
 * 4 Bananas  ec
 * 1lb Strawberries  cal
-* 3 Yellow Nectarines  cal
+* 1lb Yellow Nectarines  cal
 * 1lb Black Plums  cal
-* 2 Ataulfo Mangos  mx
-* 1lb Apricots  cal
+* 1 Tommy Atkins Mangos  mx
+* 2lbs Red seedless Grapes  cal
+* 2 Lemons  cal
 
 ***
 
@@ -51,27 +52,26 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
 * Asparagus  cal  $9.50/lb
-* Cauliflower  cal  $7.99/ each
+* Romaine Lettuce  BC  $5.50/ each
 * Yams  cal   $3.75/ lb
 * White Mushrooms BC  $4.99/ 227gr
 * Avocado Hass mx  $4.99/ each
 * Lemon  cal   $3.99/ 3pack
-* Apricots  cal   $8.99/ lb
-* Mini Watermelon cal  $7.99/ each
+* Yellow Nectarins  cal   $6.99/ lb
+* Mini Watermelon cal  $7.50/ each
 * Grapefruit Rio Red  cal  $2.50/ each
-* Red Grapes  mx  $8.99/ 2lb bag
+* Red Grapes  mx  $9.50/ 2lb bag
 * Pears Bartlett  ar  $1.75/each
-* Mango Ataulfo  mx  $2.75/ each
 * Strawberries  cal  $7.99/lb
 
 ### Weekly Specials
 
 * Asparagus  cal   $9.50/ lb
-* Cauliflower big  cal  $7.99 / each
-* Strawberries  cal  $7.99/ lb
-* Apricots  cal  $8.99/ lb
-* Red seedless Grapes  $8.99/2lb bag
-* Mango Ataulfo  mx  $2.75/ each
+* Romaine Lettuce BC  $5.50 / each
+* Strawberries  cal  $7.50/ lb
+* Yellow Nectarines  cal  $6.99/ lb
+* Red seedless Grapes  $9.50/2lb bag
+* Red seedless Watermelon $7.50/ ea
 * Whole Wheat Flour BC  $8.99/1kg bag
 
 ***
