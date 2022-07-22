@@ -19,10 +19,10 @@ title: Groceries
 
 ## Oats (Certified Organic)
 
-* Regular (1kg) — $9.50
-* Regular (25lbs) — $45.00
-* Quick (1kg) — $9.50
-* Quick (25lbs) — $45.00
+* Regular (1kg) — $10.50
+* Regular (25lbs) — $56.00
+* Quick (1kg) — $10.50
+* Quick (25lbs) — $56.00
 
 ## Pancake Mix (Certified Organic)
 
