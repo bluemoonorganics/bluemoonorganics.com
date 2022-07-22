@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 18th - July 22nd/2022**
+#### **July 25th - July 29th/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
-* 3 Gala Apples  was
-* 1lb Black Plums  cal
-* 1 Mango Tommy Atkins  mx
-* Italian Parsley  cal
+* 1lb Yellow Nectarines cal
+* 1lb Red Plums  cal
+* Persian Limes  mx
+* Green Kale  BC
 * 1.5lb White Potatoes  BC
 * Bunched Rainbow Carrots  cal
 * 1 Field Cucumber  cal
-* 1 Cauliflower  cal
-* Green Onions  cal
+* Celery  cal
+* Fresh Garlic  BC
 * Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
-* 3 Gala Apples  was
+* 2 Gala Apples  was
 * 4 Bananas  ec
-* 1lb Strawberries  cal
+* Pint Blueberries  BC
 * 1lb Yellow Nectarines  cal
-* 1lb Black Plums  cal
-* 1 Tommy Atkins Mangos  mx
-* 2lbs Red seedless Grapes  cal
-* 2 Lemons  cal
+* 1lb Red Plums  cal
+* 1lb Apricots  BC
+* 1 Mini seedless Watermelon mx
+* Limes  mx
 
 ***
 
@@ -51,28 +51,29 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
-* Asparagus  cal  $9.50/lb
+* Nugget Potatoes  BC  $4.50/ lb
+* Cauliflower  cal  $6.00/ each
 * Romaine Lettuce  BC  $5.50/ each
 * Yams  cal   $3.75/ lb
 * White Mushrooms BC  $4.99/ 227gr
 * Avocado Hass mx  $4.99/ each
 * Lemon  cal   $3.99/ 3pack
-* Yellow Nectarins  cal   $6.99/ lb
+* Apricots  BC   $7.99/ lb
 * Mini Watermelon cal  $7.50/ each
 * Grapefruit Rio Red  cal  $2.50/ each
-* Red Grapes  mx  $9.50/ 2lb bag
-* Pears Bartlett  ar  $1.75/each
-* Strawberries  cal  $7.99/lb
+* Cherries  BC   $15.50/ 1.5lb bag
+* Blueberries  BC   $9.50/ Pint
+* Blueberries  BC  $43.00/ 5lb box
 
 ### Weekly Specials
 
-* Asparagus  cal   $9.50/ lb
+* Blueberries BC  $43.00/ 5lb box
+* Blueberries BC  $9.50/ pint
+* Cherries BC  $15.50/ 1.5lb bag
+* Apricots BC  $7.99/ lb
 * Romaine Lettuce BC  $5.50 / each
-* Strawberries  cal  $7.50/ lb
-* Yellow Nectarines  cal  $6.99/ lb
-* Red seedless Grapes  $9.50/2lb bag
-* Red seedless Watermelon $7.50/ ea
-* Whole Wheat Flour BC  $8.99/1kg bag
+* Nugget Potatoes BC  $4.50/ lb
+* Cauliflower cal  $6.00/ each
 
 ***
 
