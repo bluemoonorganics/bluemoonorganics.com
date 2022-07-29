@@ -10,32 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **July 25th - July 29th/2022**
+#### **August 1st - 5th/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
 * 1lb Yellow Nectarines cal
-* 1lb Red Plums  cal
-* Persian Limes  mx
-* Green Kale  BC
+* 1lb Black Plums  cal
+* Cauliflower  nv
+* Broccoli Crown  nv
 * 1.5lb White Potatoes  BC
-* Bunched Rainbow Carrots  cal
-* 1 Field Cucumber  cal
-* Celery  cal
+* Romaine Lettuce  BC
+* 1 Zucchini  BC
 * Fresh Garlic  BC
 * Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
-* 2 Gala Apples  was
+* 3 Gala Apples  was
 * 4 Bananas  ec
-* Pint Blueberries  BC
+* 18oz (1.1lb) Blueberries  BC
 * 1lb Yellow Nectarines  cal
-* 1lb Red Plums  cal
+* 1lb Black Plums  cal
 * 1lb Apricots  BC
-* 1 Mini seedless Watermelon mx
-* Limes  mx
+* 2 Grapefruit  cal
 
 ***
 
@@ -52,28 +50,29 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
 * Nugget Potatoes  BC  $4.50/ lb
-* Cauliflower  cal  $6.00/ each
-* Romaine Lettuce  BC  $5.50/ each
+* Celery  cal  $3.75/ each
+* Rainbow Carrots  cal  $4.75/ bunch
 * Yams  cal   $3.75/ lb
+* Jalapeno Pepper  mx  $5.70/ half lb
 * White Mushrooms BC  $4.99/ 227gr
 * Avocado Hass mx  $4.99/ each
-* Lemon  cal   $3.99/ 3pack
+* Apples Gala  cal   $3.60/ lb
 * Apricots  BC   $7.99/ lb
-* Mini Watermelon cal  $7.50/ each
+* Red seedlss Grapes cal  $9.99/2lb bag
 * Grapefruit Rio Red  cal  $2.50/ each
-* Cherries  BC   $15.50/ 1.5lb bag
-* Blueberries  BC   $9.50/ Pint
+* Cherries  BC   $16.00/ 1.5lb bag
+* Blueberries  BC   $12.50/18oz (1.1lb)
 * Blueberries  BC  $43.00/ 5lb box
 
 ### Weekly Specials
 
 * Blueberries BC  $43.00/ 5lb box
-* Blueberries BC  $9.50/ pint
-* Cherries BC  $15.50/ 1.5lb bag
+* Blueberries BC  $12.50/18oz (1.1lb)
+* Cherries BC  $16.00/ 1.5lb bag
 * Apricots BC  $7.99/ lb
-* Romaine Lettuce BC  $5.50 / each
+* Mushroom White BC  $4.99/ 227gr
 * Nugget Potatoes BC  $4.50/ lb
-* Cauliflower cal  $6.00/ each
+* Red seedlss Grapes cal  $9.99/2lb bag
 
 ***
 
