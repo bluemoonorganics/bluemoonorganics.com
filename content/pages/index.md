@@ -10,30 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **August 1st - 5th/2022**
+#### **August 8th - 12th/2022**
 
 ### Regular Box $42.00
 
 * 4 Bananas  ec
 * 1lb Yellow Nectarines cal
-* 1lb Black Plums  cal
+* 4 Gala Apples was
 * Cauliflower  nv
-* Broccoli Crown  nv
+* Broccolette  cal
 * 1.5lb White Potatoes  BC
-* Romaine Lettuce  BC
-* 1 Zucchini  BC
-* Fresh Garlic  BC
-* Roma Tomatoes  mx
+* Red Bunched Beets  BC
+* 1lb Zucchini  BC
+* Green Onions  cal
+* 1lb Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
-* 3 Gala Apples  was
+* 4 Gala Apples  was
 * 4 Bananas  ec
 * 18oz (1.1lb) Blueberries  BC
 * 1lb Yellow Nectarines  cal
-* 1lb Black Plums  cal
+* 1lb Red Pluot Plums  cal
 * 1lb Apricots  BC
-* 2 Grapefruit  cal
+* 1 Ataulfo Mango  mx
 
 ***
 
@@ -49,18 +49,18 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
-* Nugget Potatoes  BC  $4.50/ lb
+* Iceberg Lettuce  cal  $5.75/ each
 * Celery  cal  $3.75/ each
 * Rainbow Carrots  cal  $4.75/ bunch
 * Yams  cal   $3.75/ lb
 * Jalapeno Pepper  mx  $5.70/ half lb
 * White Mushrooms BC  $4.99/ 227gr
 * Avocado Hass mx  $4.99/ each
-* Apples Gala  cal   $3.60/ lb
-* Apricots  BC   $7.99/ lb
-* Red seedlss Grapes cal  $9.99/2lb bag
+* Ataulfo Mango  mx  $2.50/ each
+* Apricots  BC   $7.50/ lb
+* Black Grapes cal  $9.00/2lb bag
 * Grapefruit Rio Red  cal  $2.50/ each
-* Cherries  BC   $16.00/ 1.5lb bag
+* Red Pluot Plums  cal   $5.99/ lb
 * Blueberries  BC   $12.50/18oz (1.1lb)
 * Blueberries  BC  $43.00/ 5lb box
 
@@ -68,11 +68,11 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 * Blueberries BC  $43.00/ 5lb box
 * Blueberries BC  $12.50/18oz (1.1lb)
-* Cherries BC  $16.00/ 1.5lb bag
-* Apricots BC  $7.99/ lb
+* Iceberg Lettuce cal  $5.75/ each
+* Apricots BC  $7.50/ lb
 * Mushroom White BC  $4.99/ 227gr
-* Nugget Potatoes BC  $4.50/ lb
-* Red seedlss Grapes cal  $9.99/2lb bag
+* Black seedless Grapes $9.00/2lb bag
+* Red Pluot Plums cal  $5.99/ lb
 
 ***
 
