@@ -10,30 +10,11 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-#### **August 8th - 12th/2022**
+## **We will be closed from**     **August  15th - 26th/2022**
 
 ### Regular Box $42.00
 
-* 4 Bananas  ec
-* 1lb Yellow Nectarines cal
-* 4 Gala Apples was
-* Cauliflower  nv
-* Broccolette  cal
-* 1.5lb White Potatoes  BC
-* Red Bunched Beets  BC
-* 1lb Zucchini  BC
-* Green Onions  cal
-* 1lb Roma Tomatoes  mx
-
 ### Fruit Box $42.00
-
-* 4 Gala Apples  was
-* 4 Bananas  ec
-* 18oz (1.1lb) Blueberries  BC
-* 1lb Yellow Nectarines  cal
-* 1lb Red Pluot Plums  cal
-* 1lb Apricots  BC
-* 1 Ataulfo Mango  mx
 
 ***
 
