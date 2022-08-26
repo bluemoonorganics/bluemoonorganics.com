@@ -10,11 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-## **We will be closed from**     **August  15th - 26th/2022**
+## **Aug 29th - Sept 2nd /2022**
 
 ### Regular Box $42.00
 
+* 4 Sunrise Apples  BC
+* 4 Bananas  ec
+* 2 Yellow Peaches  BC
+* 1 Mango Esquire  cal
+* Green Kale  BC
+* 1.5lbs White Potatoes  BC
+* 1lb Zucchini  BC
+* 1 Celery  cal
+* Bunched Carrots  cal
+* 0.66lbs Green Beans  BC
+
 ### Fruit Box $42.00
+
+* 5 Sunrise Apple  BC
+* 4 Bananas  ec
+* 2lbs Black seedless Grapes  cal
+* 4 Yellow Peaches  BC
+* 1 Mango Esquire  cal
+* 1 Mini seedless Watermelon mx
+* 3 Lemons  cal
 
 ***
 
@@ -30,30 +49,29 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
-* Iceberg Lettuce  cal  $5.75/ each
-* Celery  cal  $3.75/ each
-* Rainbow Carrots  cal  $4.75/ bunch
+* Iceberg Lettuce  cal  $6.50/ each
+* Broccoli  BC   $5.99/ lb
+* Cauliflower  cal  $5.50/ each
+* HH Cucumber  BC  $5.99/ each
 * Yams  cal   $3.75/ lb
-* Jalapeno Pepper  mx  $5.70/ half lb
+* Green Cabbage  BC  $3.50/ lb
+* Green Kohlrabi  BC  $4.99/ each
 * White Mushrooms BC  $4.99/ 227gr
 * Avocado Hass mx  $4.99/ each
-* Ataulfo Mango  mx  $2.50/ each
-* Apricots  BC   $7.50/ lb
-* Black Grapes cal  $9.00/2lb bag
-* Grapefruit Rio Red  cal  $2.50/ each
-* Red Pluot Plums  cal   $5.99/ lb
-* Blueberries  BC   $12.50/18oz (1.1lb)
-* Blueberries  BC  $43.00/ 5lb box
+* Mini Watermelon  mx  $6.99/ each
+* Black Grapes cal  $7.50/ 2lb bag
+* Lemons  cal  $3.50/ for 3
+* Freestone Peaches  BC  $65.00 for a 18lb box (more then 40)
 
 ### Weekly Specials
 
-* Blueberries BC  $43.00/ 5lb box
-* Blueberries BC  $12.50/18oz (1.1lb)
-* Iceberg Lettuce cal  $5.75/ each
-* Apricots BC  $7.50/ lb
+* Broccoli  BC  $5.99/ lb
+* Green Cabbage BC  $3.50/ lb
+* Iceberg Lettuce cal  $6.50/ each
+* Kohlrabi Green  BC  $4.99/ each
 * Mushroom White BC  $4.99/ 227gr
-* Black seedless Grapes $9.00/2lb bag
-* Red Pluot Plums cal  $5.99/ lb
+* Black seedless Grapes $7.50/2lb bag
+* Peaches Freestone BC  $65.00/ 18lb
 
 ***
 
