@@ -10,30 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-## **Aug 29th - Sept 2nd /2022**
+### **September 5th - 9th /2022**
 
 ### Regular Box $42.00
 
 * 4 Sunrise Apples  BC
 * 4 Bananas  ec
 * 2 Yellow Peaches  BC
-* 1 Mango Esquire  cal
-* Green Kale  BC
+* 1lb Italian Plums  BC
+* Green Cabbage  BC
 * 1.5lbs White Potatoes  BC
-* 1lb Zucchini  BC
-* 1 Celery  cal
-* Bunched Carrots  cal
+* 1 Field Cucumber  BC
+* 1 Romaine Lettuce  BC
+* Red Bunched Beets  BC
 * 0.66lbs Green Beans  BC
 
 ### Fruit Box $42.00
 
 * 5 Sunrise Apple  BC
 * 4 Bananas  ec
-* 2lbs Black seedless Grapes  cal
-* 4 Yellow Peaches  BC
-* 1 Mango Esquire  cal
+* 1lb Thomcord Grapes  cal
+* 3 Yellow Peaches  BC
+* 1 Dragon Fruit  mx
 * 1 Mini seedless Watermelon mx
-* 3 Lemons  cal
+* 2 Lemons  cal
+* 1lb Italian Plums  BC
 
 ***
 
@@ -49,28 +50,31 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
-* Iceberg Lettuce  cal  $6.50/ each
-* Broccoli  BC   $5.99/ lb
-* Cauliflower  cal  $5.50/ each
-* HH Cucumber  BC  $5.99/ each
+* Bunched Carrots  cal  $4.99/ bunch
+* Broccolette  cal   $4.99/ bunch
+* Cauliflower  cal  $7.50/ each
+* Zucchini  BC  $3.50/ lb
 * Yams  cal   $3.75/ lb
-* Green Cabbage  BC  $3.50/ lb
+* HH Tomatoes  BC  $5.99/ lb
 * Green Kohlrabi  BC  $4.99/ each
 * White Mushrooms BC  $4.99/ 227gr
+* Green Bell Pepper  BC  $5.50/ lb
 * Avocado Hass mx  $4.99/ each
 * Mini Watermelon  mx  $6.99/ each
-* Black Grapes cal  $7.50/ 2lb bag
-* Lemons  cal  $3.50/ for 3
+* Thomcord Grapes cal  $5.99/ lb clam
+* Lemons  cal  $3.30/ for 3
+* Dragon Fruit  mx  $6.99/ each
 * Freestone Peaches  BC  $65.00 for a 18lb box (more then 40)
 
 ### Weekly Specials
 
-* Broccoli  BC  $5.99/ lb
-* Green Cabbage BC  $3.50/ lb
-* Iceberg Lettuce cal  $6.50/ each
+* Zucchini  BC  $3.50/ lb
+* HH Tomatoes BC  $5.99/ lb
+* Green Bell Pepper  BC  $5.50/ each
 * Kohlrabi Green  BC  $4.99/ each
 * Mushroom White BC  $4.99/ 227gr
-* Black seedless Grapes $7.50/2lb bag
+* Broccolette  cal  $4.99/ bunch
+* Thomcord seedless Grapes $5.99/lb
 * Peaches Freestone BC  $65.00/ 18lb
 
 ***
