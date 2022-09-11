@@ -59,7 +59,6 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * HH Tomatoes  BC  $5.99/ lb
 * Green Kohlrabi  BC  $3.99/ each
 * White Mushrooms BC  $4.99/ 227gr
-* Jicama  mx  $5.99/ lb
 * Avocado Hass mx  $7.50/ 2pack
 * Mini Watermelon  mx  $6.99/ each
 * Thomcord Grapes cal  $6.75/ lb clam
