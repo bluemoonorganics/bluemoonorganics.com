@@ -10,11 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Do to illness we will resume delivery on Monday September 26th /2022**
+### **Sept 26th - Sept 30th /2022**
 
 ### Regular Box $42.00
 
+* 4 Macintosh Apples  BC
+* 3 Bartlett Pears  BC
+* 4 Bananas  ec
+* 1lb Italian PLums  BC
+* Carrots  cal
+* Green Cabbage  BC
+* 1.5lbs Yellow Potatoes  BC
+* Celery  cal
+* Romaine Lettuce  BC
+* Green Bell Pepper  BC
+
 ### Fruit Box $42.00
+
+* 5 Macintosh Apples  BC
+* 5 Bananas  ec
+* 2lbs Red seedless Grapes  cal
+* 3 Yellow peaches  BC
+* 2 Grapefruit Star Ruby  cal
+* 1 Mini seedless Watermelon cal
+* 3 Bartlett Pears  BC
+* 1lb Italian Plums  BC
+* 2 Lemons  cal
 
 ***
 
@@ -31,30 +52,27 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
 * Deli Sprouts  BC  $5.50/ 5oz
-* Broccolette  cal   $5.50/ bunch
-* Romanesco Cauliflower $7.50/ea
 * Field Cucumber  BC  $4.75/ lb
-* Yams  cal   $3.80/ lb
-* HH Tomatoes  BC  $5.99/ lb
-* Green Kohlrabi  BC  $3.99/ each
+* Yams  cal   $3.50/ lb
+* Jicama  mx   $5.99/lb
+* Roma Tomatoes  BC  $4.99/ lb
 * White Mushrooms BC  $4.99/ 227gr
-* Avocado Hass mx  $7.50/ 2pack
+* Avocado Hass mx  $6.99/ 2pack
 * Mini Watermelon  mx  $6.99/ each
-* Thomcord Grapes cal  $6.75/ lb clam
-* Lemons  cal  $3.30/ for 3
+* Red seedless Grapes cal  $8.99/2lb
+* Lemons  cal  $4.99/ for 3
 * Star Ruby Grapefruit  cal  $3.80/2pack
-* Freestone Peaches  BC  $65.00 for a 18lb box (more then 40)
+* Peaches  BC  $5.50/lb
 
 ### Weekly Specials
 
 * Deli Sprout  BC  $5.50/ 5oz
-* HH Tomatoes BC  $5.99/ lb
-* Romanesco Cauliflower cal $7.50/ea
-* Kohlrabi Green  BC  $3.99/ each
+* Roma Tomatoes BC  $4.99/ lb
+* Avocados  mx  $6.99/2pack
+* Mushrooms  BC  $4.99/ 227gr
 * Jicama  mx  $5.99/ lb
-* Broccolette  cal  $5.50/ bunch
-* Thomcord seedless Grapes $6.75/lb
-* Peaches Freestone BC  $65.00/ 18lb
+* Red seedless Grapes $8.99/2lb
+* Peaches Yellow  BC  $5.50/lb
 
 ***
 
