@@ -49,28 +49,26 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
-* Deli Sprouts  BC  $5.50/ 5oz
-* Field Cucumber  BC  $4.75/ lb
-* Yams  cal   $3.50/ lb
+* Romaine Lettuce  BC  $4.75/ each
+* Carrots  BC  $4.75/ 2lb bag
 * Jicama  mx   $5.99/lb
-* Roma Tomatoes  BC  $4.99/ lb
+* Field Tomatoes  BC  $4.50/ lb
 * White Mushrooms BC  $4.99/ 227gr
 * Avocado Hass mx  $6.99/ 2pack
 * Mini Watermelon  mx  $6.99/ each
 * Red seedless Grapes cal  $8.99/2lb
 * Lemons  cal  $4.99/ for 3
 * Star Ruby Grapefruit  cal  $3.80/2pack
-* Peaches  BC  $5.50/lb
 
 ### Weekly Specials
 
-* Deli Sprout  BC  $5.50/ 5oz
-* Roma Tomatoes BC  $4.99/ lb
+* Spring Mix cal  $6.99/ 5oz
+* Field Tomatoes BC  $4.50/ lb
 * Avocados  mx  $6.99/2pack
 * Mushrooms  BC  $4.99/ 227gr
 * Jicama  mx  $5.99/ lb
 * Red seedless Grapes $8.99/2lb
-* Peaches Yellow  BC  $5.50/lb
+* Red Cabbage  cal  $2.75/lb
 
 ***
 
