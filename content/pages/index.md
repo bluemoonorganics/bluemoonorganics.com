@@ -10,31 +10,29 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Sept 26th - Sept 30th /2022**
+### **October 3rd - 7th / 2022**
 
 ### Regular Box $42.00
 
-* 4 Macintosh Apples  BC
+* 4 Gala Apples  BC
 * 3 Bartlett Pears  BC
 * 4 Bananas  ec
-* 1lb Italian PLums  BC
-* Carrots  cal
-* Green Cabbage  BC
+* 3 Peaches Yellow  BC
+* Red Radishes  cal
+* Sweet Dumpling Squash  BC
 * 1.5lbs Yellow Potatoes  BC
 * Celery  cal
-* Romaine Lettuce  BC
-* Green Bell Pepper  BC
+* 1.5lbs Yams Garnet  cal
+* Green Kale  BC
 
 ### Fruit Box $42.00
 
-* 5 Macintosh Apples  BC
+* 5 Gala Apples  BC
 * 5 Bananas  ec
 * 2lbs Red seedless Grapes  cal
-* 3 Yellow peaches  BC
-* 2 Grapefruit Star Ruby  cal
+* 5 Yellow peaches  BC
 * 1 Mini seedless Watermelon cal
-* 3 Bartlett Pears  BC
-* 1lb Italian Plums  BC
+* 4 Bartlett Pears  BC
 * 2 Lemons  cal
 
 ***
