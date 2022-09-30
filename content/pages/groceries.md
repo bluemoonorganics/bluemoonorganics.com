@@ -11,7 +11,7 @@ title: Groceries
 
 ## Maple Syrup & Sugar
 
-* Maple Syrup Amber (500 ml) — $15.99
+* Maple Syrup Amber (500 ml) — $16.99
 
 ## Honey
 
