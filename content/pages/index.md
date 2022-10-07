@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **October 3rd - 7th / 2022**
+### **October 10th - 14th / 2022**
 
 ### Regular Box $42.00
 
@@ -18,22 +18,24 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 3 Bartlett Pears  BC
 * 4 Bananas  ec
 * 3 Peaches Yellow  BC
-* Red Radishes  cal
+* 2lb Carrots  cal
 * Sweet Dumpling Squash  BC
 * 1.5lbs Yellow Potatoes  BC
-* Celery  cal
-* 1.5lbs Yams Garnet  cal
-* Green Kale  BC
+* Roma Tomatoes  BC
+* 1 Field Cucumber  cal
+* Green Bell Pepper  or
+* Green Butter Lettuce  cal
 
 ### Fruit Box $42.00
 
 * 5 Gala Apples  BC
 * 5 Bananas  ec
-* 2lbs Red seedless Grapes  cal
-* 5 Yellow peaches  BC
+* 1lb Thomcord Grapes  cal
+* 4 Yellow peaches  BC
 * 1 Mini seedless Watermelon cal
-* 4 Bartlett Pears  BC
-* 2 Lemons  cal
+* 3 Bartlett Pears  BC
+* 1lb Italian Plums  BC
+* 3 Lemons  cal
 
 ***
 
@@ -49,25 +51,24 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach cal   $6.99/ 5oz bag
 * Garlic  cal   $6.00 for 2
 * Yellow Onions  cal   $3.00/ lb
-* Romaine Lettuce  BC  $4.75/ each
-* Carrots  BC  $4.75/ 2lb bag
-* Jicama  mx   $5.99/lb
-* Field Tomatoes  BC  $4.50/ lb
+* Yams  cal    $3.50/ lb
+* Red Cabbage  cal  $2.75/ lb
 * White Mushrooms BC  $4.99/ 227gr
-* Avocado Hass mx  $6.99/ 2pack
+* Avocado Hass mx  $7.99/ 2pack
 * Mini Watermelon  mx  $6.99/ each
-* Red seedless Grapes cal  $8.99/2lb
-* Lemons  cal  $4.99/ for 3
+* Thomcord Grapes cal  $5.99/lb
+* Lemons  cal  $3.75/ for 3
+* Italian Plums  BC $3.75/ lb
 * Star Ruby Grapefruit  cal  $3.80/2pack
 
 ### Weekly Specials
 
-* Spring Mix cal  $6.99/ 5oz
+* Italian Plums  BC  $3.75/ lb
 * Field Tomatoes BC  $4.50/ lb
-* Avocados  mx  $6.99/2pack
+* Avocados  mx  $7.99/2pack
 * Mushrooms  BC  $4.99/ 227gr
-* Jicama  mx  $5.99/ lb
-* Red seedless Grapes $8.99/2lb
+* Mini seedless Watermelon $6.99/ea
+* Thomcord seedless Grapes $5.99/lb
 * Red Cabbage  cal  $2.75/lb
 
 ***
