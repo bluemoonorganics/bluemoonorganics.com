@@ -32,29 +32,11 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Extras
 
-* Spring Mix  cal   $6.99/ 5oz bag
-* Baby Spinach cal   $6.99/ 5oz bag
-* Garlic  cal   $6.00 for 2
-* Yellow Onions  cal   $3.00/ lb
-* Yams  cal    $3.50/ lb
-* Red Cabbage  cal  $2.75/ lb
-* White Mushrooms BC  $4.99/ 227gr
-* Avocado Hass mx  $7.99/ 2pack
-* Mini Watermelon  mx  $6.99/ each
-* Thomcord Grapes cal  $5.99/lb
-* Lemons  cal  $3.75/ for 3
-* Italian Plums  BC $3.75/ lb
-* Star Ruby Grapefruit  cal  $3.80/2pack
+* 
 
 ### Weekly Specials
 
-* Italian Plums  BC  $3.75/ lb
-* Field Tomatoes BC  $4.50/ lb
-* Avocados  mx  $7.99/2pack
-* Mushrooms  BC  $4.99/ 227gr
-* Mini seedless Watermelon $6.99/ea
-* Thomcord seedless Grapes $5.99/lb
-* Red Cabbage  cal  $2.75/lb
+* 
 
 ***
 
