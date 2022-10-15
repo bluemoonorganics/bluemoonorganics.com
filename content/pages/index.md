@@ -10,32 +10,17 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **October 10th - 14th / 2022**
+### **Due to necessary surgery, we will be closed for two weeks.**
+
+### **We will resume delivery the week of November 1st.**
+
+### **Thank you for understanding.**
 
 ### Regular Box $42.00
 
-* 4 Gala Apples  BC
-* 3 Bartlett Pears  BC
-* 4 Bananas  ec
-* 3 Peaches Yellow  BC
-* 2lb Carrots  cal
-* Sweet Dumpling Squash  BC
-* 1.5lbs Yellow Potatoes  BC
-* Roma Tomatoes  BC
-* 1 Field Cucumber  cal
-* Green Bell Pepper  or
-* Green Butter Lettuce  cal
-
 ### Fruit Box $42.00
 
-* 5 Gala Apples  BC
-* 5 Bananas  ec
-* 1lb Thomcord Grapes  cal
-* 4 Yellow peaches  BC
-* 1 Mini seedless Watermelon cal
-* 3 Bartlett Pears  BC
-* 1lb Italian Plums  BC
-* 3 Lemons  cal
+* 
 
 ***
 
