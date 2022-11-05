@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **October 31st to November 4th / 2022**
+### **November 7th to November 11th / 2022**
 
 ### Regular Box $42.00
 
-* 4 Gala Apples  BC
+* 4 Spartan Apples  BC
 * 4 Bananas  ec
-* 3 Bartlett Pears  BC
-* Red Bunched Beets  BC
-* Bunched Spinach  cal
-* 1 Delicata Squash  BC
-* 1.5lbs Yellow Potatoes  BC
-* Zucchini  mx
+* 3 D'Anjou Pears  BC
+* 2lb Carrots  BC
+* Bunched Green Kale  cal
+* 1 Avocado  mx
+* 1.5lbs Purple Potatoes  BC
+* Field Cucumber  cal
 * Roma Tomatoes  BC
-* Green Bell Pepper  cal
-* Celery  cal
+* Green Onions  cal
+* 1lb Yams  cal
 
 ### Fruit Box $42.00
 
-* 5 Gala Apples  BC
+* 5 Spartan Apples  BC
 * 5 Bananas  ec
 * 1 Pomegranate  cal
 * 2 Asian Pears  BC
 * 3 Lemons  cal
-* 6oz Raspberries  mx
-* 3 Bartlette Pears  BC
-* 1,5lbs Navel Oranges  cal
+* 6oz Blueberries  pe
+* 3 D'Anjou  BC
+* 4 Navel Oranges  cal
 
 ***
 
@@ -50,30 +50,29 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Spring Mix  cal  $7.00/ 5oz
 * Baby Spinach  cal  $7.00/ 5oz
 * Garlic  cal  $6.00/ for 2
-* Ginger  pe  $7.00/ half a pound
 * Yellow Onions  was  $3.00/ lb
 * White Mushrooms  BC $5.00/ 227gr
 * Yams  cal  $3.75/ lb
 * Red Cabbage  BC  $2.75/ lb
-* Carrots  BC  $6.00/ 2lb bag
-* HH Cucumber  mx  $5.50/ each
+* Fennel  BC  $6.00/ each
+* Celery  BC  $5.50/ each
 * Broccolini  cal  $7.75/ bunch
-* Avocado  mx  $7.00/ for 2
+* Delicata Squash  BC  $3.00/ for 2
 * Pomegranate  cal  $4.00/ each
 * Lemons  cal  $4.00/ for 3
-* Navel Oranges  cal  $5.75/ lb
+* Navel Oranges  cal  $1.90/ each
 * Asian Pears  BC  $6.00/ for 2
-* Raspberries  mx  $6.00/ 6oz
+* Blueberries  pe  $6.50/ 6oz
 
 ### Weekly Specials
 
-* Ginger  $7.00/ half a pound
+* Fennel  BC  $7.00/ half a pound
 * Mushroom  BC   $5.00/ 227gr
-* Carrots  BC  $6.00/ 2lb bag
-* HH Cucumber   $5.50/ each
+* Delicata Squash  BC  $3.00/ lb
+* Celery  BC   $5.50/ each
 * Broccolini  BC  $7.75/ bunch
 * Asian Pears  BC  $6.00/ for 2
-* Raspberries   $6.00/ 6oz
+* Blueberries   $6.50/ 6oz
 
 ***
 
