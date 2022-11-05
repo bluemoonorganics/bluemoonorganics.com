@@ -56,7 +56,8 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Red Cabbage  BC  $2.75/ lb
 * Fennel  BC  $6.00/ each
 * Celery  BC  $5.50/ each
-* Broccolini  cal  $7.75/ bunch
+* Brussel Sprouts cal  $9.00/ lb
+* Broccolini  BC  $7.75/ bunch
 * Delicata Squash  BC  $3.00/ for 2
 * Pomegranate  cal  $4.00/ each
 * Lemons  cal  $4.00/ for 3
