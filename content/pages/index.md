@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **November 14th to November 18th / 2022**
+### **November 21st to November 25th / 2022**
 
 ### Regular Box $42.00
 
 * 4 Spartan Apples BC
 * 4 Bananas ec
 * 2 Navel Oranges cal
-* 2lb Carrots BC
-* Endive Lettuce cal
 * 1 Avocado mx
-* 1.5lbs White Potatoes BC
-* Field Cucumber cal
-* Red Radishes cal
-* Green Onions  cal
-* 227gr White Mushrooms BC
+* Bunched Spinach cal
+* Celery BC
+* 1.5lbs Purple or Yellow Potatoes BC
+* Zucchini mx
+* Green Bell Pepper mx
+* Italian Parsley cal
+* Sweet Dumpling Squash BC
 
 ### Fruit Box $42.00
 
-* 6 Spartan Apples BC
-* 6 Bananas ec
+* 5 Spartan Apples BC
+* 5 Bananas ec
 * 1 Pomegranate  cal
-* 5 Navel Oranges cal
-* 3 Lemons  cal
+* 3 Navel Oranges cal
+* 2lb Satsuma Mandarines  cal
 * 6oz Blueberries pe
-* 4 D'Anjou BC
+* 3 D'Anjou BC
 
 ***
 
@@ -50,29 +50,29 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Baby Spinach  cal  $7.00/ 5oz
 * Garlic  cal  $6.00/ for 2
 * Yellow Onions was  $3.00/ lb
-* Zucchini cal  $3.50/ lb
 * Yams  cal  $3.80/ lb
-* Red Cabbage  BC  $3.25/ lb
-* Fennel  BC  $6.00/ each
-* Celery  BC  $5.50/ each
-* Brussel Sprouts cal  $9.00/ lb
-* Delicata Squash  BC  $3.00/ lb
+* Red Cabbage BC  $3.25/ lb
+* Fennel BC  $5.00/ each
+* Carrots BC  $6.00/ 2lb bag
+* White Mushrooms BC  $5.00/227gr
+* Green Kale cal  BC  $3.90/ bunch
 * Pomegranate  cal  $4.00/ each
 * Lemons  cal  $4.00/ for 3
 * Blueberries pe  $6.50/ 6oz
-* D'Anjou Pears  BC  $2.90/ for 2
-* Chinese Mandarines  cn  $15.50/ 4lb box
+* D'Anjou Pears  BC  $3.00/ for 2
+* Satsuma Mandarines  cal  $5.70/ lb
+* Satsuma Mandarines  cal  $22.00/ 5lb box
 
 ### Weekly Specials
 
-* Fennel  BC  $6.00/ each
-* Brussel Sprout  mx  $9.00/ lb
-* Delicata Squash  BC  $3.00/ lb
-* Celery  BC   $5.50/ each
-* Zucchini  mx  $3.50/ lb
+* Red Cabbage BC  $3.25/ lb
+* Carrots BC  $6.00/ 2lb bag
+* Green Kale mx  $3.90/ bunch
+* White Mushroom BC   $5.00/ 227gr
+* Pomegranate cal  $4.00/ each
 * D'Anjou Pears  BC  $2.90/ for 2
 * Blueberries   $6.50/ 6oz
-* Chinese Mandarines cn  $15.50/ 4lb box
+* Satsuma Mandarines cal  $22.00/ 5lb box
 
 ***
 
