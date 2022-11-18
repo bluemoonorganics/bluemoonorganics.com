@@ -51,7 +51,7 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Garlic  cal  $6.00/ for 2
 * Yellow Onions was  $3.00/ lb
 * Yams  cal  $3.80/ lb
-* Red Cabbage BC  $3.25/ lb
+* Red Cabbage BC  $3.20/ lb
 * Fennel BC  $5.00/ each
 * Carrots BC  $6.00/ 2lb bag
 * White Mushrooms BC  $5.00/227gr
