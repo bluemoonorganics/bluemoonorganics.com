@@ -7,7 +7,7 @@ It’s easy to get organic produce delivered to your home! Now you can enjoy a c
 
 ### Delivery Areas
 
-Blue Moon Organics delivers fresh 100% Certified Organic produce to doorsteps in Port Moody, Coquitlam, Port Coquitlam, Anmore, Belcarra, Pitt Meadows, Maple Ridge, Mission, Langley, Burnaby and New Westminster.
+Blue Moon Organics delivers fresh 100% Certified Organic produce to doorsteps in Port Moody, Coquitlam, Port Coquitlam, Anmore, Belcarra, Pitt Meadows, Maple Ridge, Mission, Langley, Aldergrove, Burnaby and New Westminster.
 
 ### How does it work?
 
@@ -17,7 +17,7 @@ Your organic fruits and vegetables arrive on your doorstep in a Rubbermaid conta
 
 ### How much produce do I get?
 
-Each 36-litre container consists of 10 -12 items. We provide you with a balanced bin of fruit and vegetables. 
+Each 36-litre container consists of 10 -12 items. We provide you with a balanced bin of fruit and vegetables.
 
 There are occasionally delightfully unusual items such as kale, mango's, and sunburst squash.
 
