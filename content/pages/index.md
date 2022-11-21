@@ -65,7 +65,7 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Weekly Specials
 
-* Red Cabbage BC  $3.25/ lb
+* Red Cabbage BC  $3.20/ lb
 * Carrots BC  $6.00/ 2lb bag
 * Green Kale mx  $3.90/ bunch
 * White Mushroom BC   $5.00/ 227gr
