@@ -15,7 +15,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 ### Regular Box $42.00
 
 * 4 Spartan Apples BC
-* 4 Bananas ec
+* 4 Bananas ecu
 * 2 Navel Oranges cal
 * 1 Avocado mx
 * Bunched Spinach cal
