@@ -10,31 +10,31 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **November 21st to November 25th / 2022**
+### **November 28th to December 2nd / 2022**
 
 ### Regular Box $42.00
 
-* 4 Spartan Apples BC
+* 4 Braeburn Apples BC
 * 4 Bananas ec
 * 2 Navel Oranges cal
-* 1 Avocado mx
-* Bunched Spinach cal
+* 3 D'Anjou Pears BC
+* Bunched Red Beets cal
 * Celery BC
-* 1.5lbs Purple or Yellow Potatoes BC
-* Zucchini mx
-* Green Bell Pepper mx
-* Italian Parsley cal
-* Sweet Dumpling Squash BC
+* 1.5lbs Russet Potatoes BC
+* Field Cucumber mx
+* Green Onions mx
+* Red Radishes cal
+* Rainbow Chard cal
 
 ### Fruit Box $42.00
 
-* 5 Spartan Apples BC
+* 4 Braeburn Apples BC
 * 5 Bananas ec
-* 1 Pomegranate  cal
+* 2 Star Ruby Grapefruit cal
 * 3 Navel Oranges cal
-* 2lb Satsuma Mandarines  cal
-* 6oz Blueberries pe
-* 3 D'Anjou BC
+* 2lb Satsuma Mandarins cal
+* 1 Mini seedless Watermelon mx
+* 3 D'Anjou Pears BC
 
 ***
 
@@ -52,26 +52,27 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yellow Onions was  $3.00/ lb
 * Yams  cal  $3.80/ lb
 * Red Cabbage BC  $3.20/ lb
-* Fennel BC  $5.00/ each
+* Asparagus mx  $9.50/ lb
 * Carrots BC  $6.00/ 2lb bag
 * White Mushrooms BC  $5.00/227gr
-* Green Kale cal  BC  $3.90/ bunch
-* Pomegranate  cal  $4.00/ each
+* Sweet Dumpling Squash  BC  $3.00/ lb
+* Zucchini mx   $3.50/ lb
+* Avocado mx   $3.50/ each
 * Lemons  cal  $4.00/ for 3
-* Blueberries pe  $6.50/ 6oz
-* D'Anjou Pears  BC  $3.00/ for 2
+* Mini Watermelon mx  $7.00/ each
+* Star Ruby Grapefruit cal  $2.75/ each
 * Satsuma Mandarines  cal  $5.70/ lb
 * Satsuma Mandarines  cal  $22.00/ 5lb box
 
 ### Weekly Specials
 
-* Red Cabbage BC  $3.20/ lb
+* Asparagus mx   $9.50/ lb
 * Carrots BC  $6.00/ 2lb bag
-* Green Kale mx  $3.90/ bunch
+* Sweet Dumpling Squash BC  $3.00/ lb
 * White Mushroom BC   $5.00/ 227gr
-* Pomegranate cal  $4.00/ each
-* D'Anjou Pears  BC  $2.90/ for 2
-* Blueberries   $6.50/ 6oz
+* Star Ruby Grapefruit cal  $2.75/ each
+* Mini seedless Watermelon mx  $7.00/ each
+* Satsuma Mandarins cal   $11.40/ 2lb bag
 * Satsuma Mandarines cal  $22.00/ 5lb box
 
 ***
