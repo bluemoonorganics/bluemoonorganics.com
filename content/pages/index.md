@@ -10,17 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **We will be closed over the holidays and resume delivery the week of January 2nd 2023**
+### **Week of January 2nd to 5th 2023**
 
 ### Regular Box $42.00
 
-* closed over the holidays
-* resuming the week of January 2nd 2023
+* 4 Apples Braeburn  BC 
+* 3 Oranges Navel  cal
+* 4 Bananas  mx
+* 1 Avocado  mx
+* 2lbs Carrots  cal
+* 1lb Sweet Dumpling Squash  BC
+* 2lbs Potatoes Russet  BC
+* Broccolette  cal
+* Cucumber Field  mx
+* Kale Green  cal
 
 ### Fruit Box $42.00
 
-* closed over the holidays
-* resuming the week of January 2nd 2023
+* 5 Apples Braeburn  BC
+* 5 Bananas  mx
+* 2 Grapefruit Star Ruby  cal
+* 6oz Blackberries  mx
+* 2lbs Satsuma Mandarins  cal
+* 4 Oranges Navel  cal
+* 3 Pears D'Anjou  BC
 
 ***
 
@@ -32,13 +45,33 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Extras
 
-* closed over the holidays
-* resuming the week of January 2nd 2023
+* 6oz Spring Mix  cal   $7.00
+* 6oz Baby Spinach  cal   $7.00
+* Garlic  cal   $6.00/for 2
+* Yellow Onions  mb   $3.00/lb
+* Yams  cal   $3.50/lb
+* Red Cabbage  BC   $3.25/lb
+* Roma Tomatoes  mx   $4.00/lb
+* Romaine Lettuce  cal   $6.50/each
+* White Mushroom  BC  $5.00/227gr
+* Blackberries  mx   $5.00/6oz
+* Grapefruit  cal   $2.80/each
+* Lemons  cal   $4.00/for 3
+* Asian Pears  BC   $2.75/each
+* D'Anjou Pears  BC   $4.50/lb
+* Satsuma Mandarins  cal   $11.40/2lb bag
+* Satsuma Mandarins  cal   $22.00/5lb box
 
 ### Weekly Specials
 
-* closed over the holidays
-* resuming the week of January 2nd 2023
+* Romaine Lettuce  cal  $6,50/each
+* Blackberries  mx   $5.00/6oz
+* Asian Pears  BC   $2.75/each
+* Red Cabbage  BC   $3.25/lb
+* White Mushrooms  BC   $5.00/227gr
+* Roma Tomatoes  mx  $4.00/lb
+* Satsuma Mandarins  cal   $11.40/2lb bag
+* Satsuma Mandarins  cal   $22.00/5lb box 
 
 ***
 
