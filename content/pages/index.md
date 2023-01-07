@@ -64,7 +64,7 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Weekly Specials
 
-* Sweet Dumling Squash  BC  $2.90/lb
+* Sweet Dumpling Squash  BC  $2.90/lb
 * Blackberries  mx   $5.00/6oz
 * Asian Pears  BC   $2.50/each
 * Red Cabbage  BC   $3.25/lb
