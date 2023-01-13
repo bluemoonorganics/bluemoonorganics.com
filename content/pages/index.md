@@ -10,12 +10,12 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of January 9th to 13th 2023**
+### **Week of January 16th to 20th 2023**
 
 ### Regular Box $42.00
 
 * 4 Apples Braeburn  BC
-* 2 D'Anjou Pears  BC
+* 2 Oranges Cara Cara  cal
 * 4 Bananas  mx
 * 1 Mango Kent  mx
 * 0.75lbs Green Bean  mx
@@ -23,7 +23,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 1.5lbs Potatoes Russet  BC
 * Cauliflower  az
 * Zucchini  mx
-* Bunched Spinach  cal
+* Romaine Lettuce  cal
 
 ### Fruit Box $42.00
 
@@ -31,10 +31,10 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 5 Bananas  mx
 * 2 Asian Pears  BC
 * 6oz Blackberries  mx
-* 2lbs Satsuma Mandarins  cal
-* 3 Oranges Navel  cal
+* 1.5lbs Mandarins Page  cal
+* 3 Oranges Cara Cara  cal
 * 1 Mango Kent  mx
-* 2 Lemons  cal
+* 3 Pears D'Anjou  BC
 
 ***
 
@@ -52,25 +52,27 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yellow Onions  mb   $3.00/lb
 * Avocado  mx  $3.50/each
 * Yams  cal   $3.50/lb
-* Red Cabbage  BC   $3.25/lb
-* Carrots  cal   $5.50/2lb bag
+* Red Cabbage  BC   $3.20/lb
+* Carrots  BC   $6.50/2lb bag
+* Beets Red  BC  $3.60/lb
 * White Mushroom  BC  $5.00/227gr
 * Sweet Dumpling Squash  BC  $2.90/lb
-* Blackberries  mx   $5.00/6oz
+* Blackberries  mx   $6.00/6oz
 * Lemons  cal   $4.00/for 3
 * Asian Pears  BC   $2.50/each
-* Navel Oranges  cal   $2.10/each
-* Satsuma Mandarins  cal   $5.90/lb
+* Pears D'Anjou  BC   $3.75/lb
+* Mandarins Page  cal   $6.00/lb
 
 ### Weekly Specials
 
 * Sweet Dumpling Squash  BC  $2.90/lb
-* Blackberries  mx   $5.00/6oz
+* Red Beets  BC   $3.60/lb
 * Asian Pears  BC   $2.50/each
 * Red Cabbage  BC   $3.25/lb
 * White Mushrooms  BC   $5.00/227gr
-* Navel Oranges  cal  $2.10/each
-* Satsuma Mandarins  cal   $5.90/lb
+* D'Anjou Pears  BC  $3.75/lb
+* Mandarins Page  cal   $6.00/lb
+* Avocados  mx  $3.50/each
 
 ***
 
