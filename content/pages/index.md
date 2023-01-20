@@ -51,7 +51,6 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * 6oz Baby Spinach  cal   $7.00
 * Garlic  cal   $6.00/for 2
 * Yellow Onions  mb   $3.00/lb
-* Avocado  mx  $3.50/each
 * Yams  cal   $3.50/lb
 * Red Cabbage  BC   $3.20/lb
 * Red Bell Pepper  mx   $4.75/lb
