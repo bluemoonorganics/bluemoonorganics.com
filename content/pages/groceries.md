@@ -4,8 +4,6 @@ title: Groceries
 ---
 ## Flour (Anita's)
 
-* WW Stone ground (1 kg) — $9.50
-* All Purpose (1 kg) — $9.50
 * Whole Wheat Flour fine grind (10 kg) — $44.00
 * All Purpose Flour (10 kg) — $44.00
 
@@ -19,11 +17,7 @@ title: Groceries
 
 ## Oats (Certified Organic)
 
-* Regular (1kg) — $10.50
-* Regular (25lbs) — $56.00
-* Quick (1kg) — $10.50
-* Quick (25lbs) — $56.00
+* Regular (25lbs) — $66.00
+* Quick (25lbs) — $66.00
 
-## Pancake Mix (Certified Organic)
-
-* Ancient Grain Pancake Mix (1kg) — $9.50
+## 
