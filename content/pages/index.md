@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of January 23rd to 27th 2023**
+### **Week of January 30th to February 3rd 2023**
 
 ### Regular Box $42.00
 
@@ -19,22 +19,22 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  mx
 * 1 Mango Kent  mx
 * 1 Avocado  mx
-* Bunched Red Beets  cal
+* 1pt Red Grape Tomatoes  mx
 * 1.5lbs Potatoes Russet  BC
-* Broccoli  mx
-* Green Onions  mx
-* Green Butter Lettuce  cal
+* Broccoli  az
+* Red Bell Pepper  mx
+* Romaine Lettuce  cal
 * Bunched Carrots  mx
 
 ### Fruit Box $42.00
 
-* 5 Apples Braeburn  BC
+* 6 Apples Braeburn  BC
 * 5 Bananas  mx
-* 2 Asian Pears  BC
+* 3 Asian Pears  BC
 * 3 Lemons  cal
-* 2lbs Mandarins Tango  cal
+* 1.5lbs Mandarins Tango  cal
 * 3 Oranges Cara Cara  cal
-* 2 Mango Kent  mx
+* 1 Mango Kent  mx
 * 3 Pears D'Anjou  BC
 
 ***
@@ -53,10 +53,9 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.50/lb
 * Red Cabbage  BC   $3.20/lb
-* Red Bell Pepper  mx   $4.75/lb
+* Red Beets  cal   $3.75/lb
 * White Mushroom  BC  $5.00/227gr
 * Sweet Dumpling Squash  BC  $2.90/lb
-* Red Grape Tomatoes  mx   $5.50/pt
 * Lemons  cal   $4.00/for 3
 * Asian Pears  BC   $2.50/each
 * Pears D'Anjou  BC   $3.75/lb
@@ -64,13 +63,12 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Weekly Specials
 
-* Red Bell Pepper  mx  $4.75/lb
-* Red Grape Tomatoes  mx   $5.50/pt
-* Asian Pears  BC   $2.50/each 
+* Red Cabbage cal  $3.20/lb
+* Sweet Dumpling Squash BC   $290/lb
+* Asian Pears  BC   $2.50/each
 * White Mushrooms  BC   $5.00/227gr
 * D'Anjou Pears  BC  $3.75/lb
 * Mandarins Tango  cal   $4.75/lb
-* Avocados  mx  $3.50/each
 
 ***
 
