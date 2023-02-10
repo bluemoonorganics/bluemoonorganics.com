@@ -10,31 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of February 6th - 8th 2023**
+### **Week of February 13th - 17th 2023**
 
 ### Regular Box $42.00
 
 * 4 Apples Braeburn  BC
 * 2 Oranges Cara Cara  cal
 * 4 Bananas  mx
-* 1 Mango Kent  mx
-* 1 Avocado  mx
+* 2 Pears D'Anjou  BC
+* Celery  mx
 * 1pt Red Grape Tomatoes  mx
-* 2lbs Potatoes Russet  BC
+* 1.5lbs Potatoes Russet  BC
 * Broccoli  az
 * Bunched Carrots  mx
 * Green Leaf Lettuce  cal
+* Green Onions  mx
 
 ### Fruit Box $42.00
 
-* 6 Apples Braeburn  BC
+* 5 Apples Braeburn  BC
 * 5 Bananas  mx
-* 2 Asian Pears  BC
+* 1lb Kiwis  nz
 * 3 Lemons  cal
-* 2lbs Mandarins Tango  cal
+* 2 Grapefruits  cal
 * 3 Oranges Cara Cara  cal
-* 1 Mango Kent  mx
-* 3 Pears D'Anjou  BC
+* 1 Avocado  mx
+* 4 Pears D'Anjou  BC
 
 ***
 
@@ -50,26 +51,27 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * 6oz Baby Spinach  cal   $7.00
 * Garlic  cal   $6.00/for 2
 * Yellow Onions  mb   $3.00/lb
-* Yams  cal   $3.50/lb
+* Yams  cal   $3.75/lb
 * Red Cabbage  BC   $3.20/lb
-* Red Beets  cal   $3.75/lb
+* Red Bell Pepper  mx   $4.90/lb
 * White Mushroom  BC  $5.00/227gr
 * Sweet Dumpling Squash  BC  $2.90/lb
-* Celery  cal  $5.50/each
+* Field Cucumber  mx  $3.75/lb
+* Avocado  mx   $3.50/each
 * Lemons  cal   $4.00/for 3
-* Asian Pears  BC   $2.50/each
-* Pears D'Anjou  BC   $3.75/lb
-* Mandarins Tango  cal   $4.75/lb
+* Grapefruit  cal    $3.00/each
+* Kiwis  NZ   $16.00/2lb pack
+* Mandarins Page  cal   $5.50/lb
 
 ### Weekly Specials
 
 * Red Cabbage cal  $3.20/lb
-* Celery cal  $5.50/each
-* Sweet Dumpling Squash BC   $290/lb
-* Asian Pears  BC   $2.50/each
-* White Mushrooms  BC   $5.00/227gr
-* D'Anjou Pears  BC  $3.75/lb
-* Mandarins Tango  cal   $4.75/lb
+* Kiwis  nz    $16.00/2lb pack
+* Sweet Dumpling Squash BC   $2.90/lb
+* Red Bell Pepper mx    $4.90/lb
+* Field Cucumber mx   $3.75/lb
+* Kiwis nz    $16.00/2lb pack
+* Mandarins Page  cal   $5.50/lb
 
 ***
 
