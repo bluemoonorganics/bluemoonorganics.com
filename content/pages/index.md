@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of February 13th - 17th 2023**
+### **Week of February 20th - 24th 2023**
 
 ### Regular Box $42.00
 
@@ -19,23 +19,23 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 4 Bananas  mx
 * 2 Pears D'Anjou  BC
 * Celery  mx
-* 1pt Red Grape Tomatoes  mx
+* 1lb Roma Tomatoes  mx
 * 1.5lbs Potatoes Russet  BC
 * Broccoli  az
 * Bunched Carrots  mx
-* Green Leaf Lettuce  cal
-* Green Onions  mx
+* Romaine Lettuce  cal
+* Bunched Spinach  cal
 
 ### Fruit Box $42.00
 
 * 5 Apples Braeburn  BC
 * 5 Bananas  mx
-* 1lb Kiwis  nz
-* 3 Lemons  cal
+* 5 Gold Kiwis  nz
+* 2 Lemons  cal
 * 2 Grapefruits  cal
 * 3 Oranges Cara Cara  cal
 * 1 Avocado  mx
-* 4 Pears D'Anjou  BC
+* 3 Pears D'Anjou  BC
 
 ***
 
@@ -53,25 +53,24 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.75/lb
 * Red Cabbage  BC   $3.20/lb
-* Red Bell Pepper  mx   $4.90/lb
 * White Mushroom  BC  $5.00/227gr
 * Sweet Dumpling Squash  BC  $2.90/lb
-* Field Cucumber  mx  $3.75/lb
 * Avocado  mx   $3.50/each
+* Mango Kent  mx   $3.75/each
 * Lemons  cal   $4.00/for 3
-* Grapefruit  cal    $3.00/each
-* Kiwis  NZ   $16.00/2lb pack
-* Mandarins Page  cal   $5.50/lb
+* Grapefruit  cal    $2.50/each
+* Kiwis Gold  NZ   $7.25/lb
+* Mandarins Tango  cal   $6.50/lb
 
 ### Weekly Specials
 
-* Red Cabbage cal  $3.20/lb
-* Kiwis  nz    $16.00/2lb pack
+* Avocado  mx  $3.50/each
+* Kiwis Gold  nz    $7.25/lb
 * Sweet Dumpling Squash BC   $2.90/lb
-* Red Bell Pepper mx    $4.90/lb
-* Field Cucumber mx   $3.75/lb
-* Kiwis nz    $16.00/2lb pack
-* Mandarins Page  cal   $5.50/lb
+* Grapefruit  cal    $2.50/each
+* Mango Kent  mx   $3.75/each
+* Mushrooms White  BC    $5.00/227gr pack
+* Mandarins Tango  cal   $6.50/lb
 
 ***
 
