@@ -10,28 +10,28 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of February 20th - 24th 2023**
+### **Week of February 27th - March 3rd 2023**
 
 ### Regular Box $42.00
 
-* 4 Apples Braeburn  BC
-* 2 Oranges Cara Cara  cal
+* 1 Avocado  mx
+* 3 Oranges Cara Cara  cal
 * 4 Bananas  mx
 * 2 Pears D'Anjou  BC
-* Celery  mx
+* Bunched Gold Beets  mx
 * 1lb Roma Tomatoes  mx
 * 1.5lbs Potatoes Russet  BC
 * Broccoli  az
-* Bunched Carrots  mx
-* Romaine Lettuce  cal
-* Bunched Spinach  cal
+* Bunched Rainbow Carrots  mx
+* Red Leaf Lettuce  cal
+* Green Kale  cal
 
 ### Fruit Box $42.00
 
 * 5 Apples Braeburn  BC
 * 5 Bananas  mx
 * 5 Gold Kiwis  nz
-* 2 Lemons  cal
+* 1lb Tango Mandarins  cal
 * 2 Grapefruits  cal
 * 3 Oranges Cara Cara  cal
 * 1 Avocado  mx
@@ -54,8 +54,9 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yams  cal   $3.75/lb
 * Red Cabbage  BC   $3.20/lb
 * White Mushroom  BC  $5.00/227gr
-* Sweet Dumpling Squash  BC  $2.90/lb
-* Avocado  mx   $3.50/each
+* Celery  cal   $3.90/each
+* Hot House Cucumber  mx   $5.90/each
+* Apples Braeburn  BC   $3.25/lb
 * Mango Kent  mx   $3.75/each
 * Lemons  cal   $4.00/for 3
 * Grapefruit  cal    $2.50/each
@@ -64,9 +65,9 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Weekly Specials
 
-* Avocado  mx  $3.50/each
+* HH Cucumber  mx  $5.90/each
 * Kiwis Gold  nz    $7.25/lb
-* Sweet Dumpling Squash BC   $2.90/lb
+* Red Cabbage  BC   $3.25/lb
 * Grapefruit  cal    $2.50/each
 * Mango Kent  mx   $3.75/each
 * Mushrooms White  BC    $5.00/227gr pack
