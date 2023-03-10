@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of March 6th - March 10th 2023**
+### **Week of March 13th - March 17th 2023**
 
 ### Regular Box $42.00
 
-* 1 Avocado  mx
-* 3 Oranges Cara Cara  cal
+* 4 Gala Apples  BC
+* 2 Oranges Cara Cara  cal
 * 4 Bananas  mx
 * 2 Pears D'Anjou  BC
-* Celery cal
+* Bunched Spinach  cal
 * 1 Field Cucumber  mx
 * 1.5lbs Potatoes Russet  BC
 * Broccoli  az
-* Bunched Rainbow Carrots  mx
-* Green Butter Lettuce  cal
-* Red Radishes  cal
-* Italian Parsley  cal
+* Bunched Carrots  mx
+* Romaine Lettuce  cal
+* Roma Tomatoes  mx
+* Green Onions  cal
 
 ### Fruit Box $42.00
 
-* 5 Apples Braeburn  BC
+* 5 Apples Gala  BC
 * 5 Bananas  mx
 * 4 Gold Kiwis  nz
 * 1lb Tango Mandarins  cal
 * 2 Grapefruits  cal
 * 3 Oranges Cara Cara  cal
-* 1 Mango Kent  mx
+* 2 Lemons  cal
 * 3 Pears D'Anjou  BC
 * 1 Avocado  mx
 
@@ -56,9 +56,9 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yams  cal   $3.75/lb
 * Red Cabbage  BC   $3.20/lb
 * White Mushroom  BC  $5.00/227gr
-* Roma Tomatoes  mx   $4.25/lb
-* Apples Braeburn  BC   $3.25/lb
-* Mango Kent  mx   $3.00/each
+* Artichokes  cal   $4.00/each
+* Asparagus  cal   $9.99/lb
+* Avocados  mx   $8.99/3pack
 * Lemons  cal   $4.00/for 3
 * Grapefruit  cal    $2.50/each
 * Kiwis Gold  NZ   $7.25/lb
@@ -66,11 +66,11 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Weekly Specials
 
-* Roma Tomatoes  mx  $4.25/lb
+* Artichokes  cal   $4.00/each
+* Asparagus  cal  $9.99/lb
 * Kiwis Gold  nz    $7.25/lb
 * Red Cabbage  BC   $3.25/lb
 * Grapefruit  cal    $2.50/each
-* Mango Kent  mx   $3.00/each
 * Mushrooms White  BC    $5.00/227gr pack
 * Mandarins Tango  cal   $5.75/lb
 
