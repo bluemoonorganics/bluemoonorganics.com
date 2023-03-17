@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of March 13th - March 17th 2023**
+### **Week of March 20th - March 24th 2023**
 
 ### Regular Box $42.00
 
@@ -21,10 +21,10 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * Bunched Spinach  cal
 * 1 Field Cucumber  mx
 * 1.5lbs Potatoes Russet  BC
-* Broccoli  az
+* Red Cabbage  cal
 * Bunched Carrots  mx
-* Romaine Lettuce  cal
-* Roma Tomatoes  mx
+* Green Leaf Lettuce  cal
+* Red Grape Tomatoes  mx
 * Green Onions  cal
 
 ### Fruit Box $42.00
@@ -54,10 +54,11 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Garlic  cal   $6.00/for 2
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.75/lb
-* Red Cabbage  BC   $3.20/lb
+* Celery  mx   $4.50/each
 * White Mushroom  BC  $5.00/227gr
 * Artichokes  cal   $4.00/each
-* Asparagus  cal   $9.99/lb
+* Asparagus  cal   $8.99/lb
+* Broccoli  mx    $4.70/lb
 * Avocados  mx   $8.99/3pack
 * Lemons  cal   $4.00/for 3
 * Grapefruit  cal    $2.50/each
@@ -67,9 +68,10 @@ If your changes bring your order to more than $42.00 we will email you and confi
 ### Weekly Specials
 
 * Artichokes  cal   $4.00/each
-* Asparagus  cal  $9.99/lb
+* Asparagus  cal  $8.99/lb
 * Kiwis Gold  nz    $7.25/lb
-* Red Cabbage  BC   $3.25/lb
+* Celery  mx    $4.50/each
+* Broccoli  mx   $4.70/lb
 * Grapefruit  cal    $2.50/each
 * Mushrooms White  BC    $5.00/227gr pack
 * Mandarins Tango  cal   $5.75/lb
