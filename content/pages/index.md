@@ -10,34 +10,33 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of March 20th - March 24th 2023**
+### **Week of March 27th - March 31st 2023**
 
 ### Regular Box $42.00
 
 * 4 Gala Apples  BC
-* 2 Oranges Cara Cara  cal
+* 2 Oranges Navel  cal
 * 4 Bananas  mx
 * 2 Pears D'Anjou  BC
-* Bunched Spinach  cal
-* 1 Field Cucumber  mx
+* Celery  cal
+* 1lb Zucchini  mx
 * 1.5lbs Potatoes Russet  BC
-* Red Cabbage  cal
+* 227gr White Mushrooms  BC
 * Bunched Carrots  mx
-* Green Leaf Lettuce  cal
-* Red Grape Tomatoes  mx
-* Green Onions  cal
+* Romaine Lettuce  cal
+* Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
 * 5 Apples Gala  BC
 * 5 Bananas  mx
-* 4 Gold Kiwis  nz
+* 2 Avocados  mx
 * 1lb Tango Mandarins  cal
 * 2 Grapefruits  cal
-* 3 Oranges Cara Cara  cal
+* 3 Oranges Navel  cal
 * 2 Lemons  cal
 * 3 Pears D'Anjou  BC
-* 1 Avocado  mx
+* 1 Mango Tommy Atkins  mx
 
 ***
 
@@ -54,26 +53,26 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Garlic  cal   $6.00/for 2
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.75/lb
-* Celery  mx   $4.50/each
-* White Mushroom  BC  $5.00/227gr
+* Red Cabbage  cal   $2.40/lb
 * Artichokes  cal   $4.00/each
-* Asparagus  cal   $8.99/lb
+* Asparagus  cal   $7.99/lb
 * Broccoli  mx    $4.70/lb
-* Avocados  mx   $8.99/3pack
+* Spaghetti Squash  mx $2.50/lb
+* Avocados  mx   $6.50/2pack
+* Mango Tommy Atkins  mx  $4.50/ea
 * Lemons  cal   $4.00/for 3
 * Grapefruit  cal    $2.50/each
-* Kiwis Gold  NZ   $7.25/lb
 * Mandarins Tango  cal   $5.75/lb
 
 ### Weekly Specials
 
-* Artichokes  cal   $4.00/each
-* Asparagus  cal  $8.99/lb
-* Kiwis Gold  nz    $7.25/lb
-* Celery  mx    $4.50/each
+* Artichokes  cal   $3.00/each
+* Asparagus  cal  $7.99/lb
+* Mango Tommy Atkins  mx   $4.50/ea
+* Spaghetti Squash  mx    $2.50/lb
 * Broccoli  mx   $4.70/lb
+* Avocados  mx  $6.50/2pack
 * Grapefruit  cal    $2.50/each
-* Mushrooms White  BC    $5.00/227gr pack
 * Mandarins Tango  cal   $5.75/lb
 
 ***
