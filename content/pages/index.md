@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of March 27th - March 31st 2023**
+### **Week of April 3rd - April 7th 2023**
 
 ### Regular Box $42.00
 
@@ -18,25 +18,25 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 2 Oranges Navel  cal
 * 4 Bananas  mx
 * 2 Pears D'Anjou  BC
-* Celery  cal
+* Spaghetti Squash  cal
 * 1lb Zucchini  mx
 * 1.5lbs Potatoes Russet  BC
 * 227gr White Mushrooms  BC
 * Bunched Carrots  mx
-* Romaine Lettuce  cal
+* Escarole Lettuce  cal
 * Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
 * 5 Apples Gala  BC
 * 5 Bananas  mx
-* 2 Avocados  mx
+* 1 Avocados  mx
 * 1lb Tango Mandarins  cal
 * 2 Grapefruits  cal
-* 3 Oranges Navel  cal
-* 2 Lemons  cal
+* 2 Oranges Navel  cal
+* 3 Lemons  cal
 * 3 Pears D'Anjou  BC
-* 1 Mango Tommy Atkins  mx
+* 2 Mango Ataulfo  mx
 
 ***
 
@@ -51,25 +51,26 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * 6oz Spring Mix  cal   $7.00
 * 6oz Baby Spinach  cal   $7.00
 * Garlic  cal   $6.00/for 2
+* Ginger Yellow  peru  $6.50/half lb
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.75/lb
-* Red Cabbage  cal   $2.40/lb
-* Artichokes  cal   $4.00/each
+* Red Cabbage  cal   $2.50/lb
+* Celery  cal   $4.50/each
 * Asparagus  cal   $7.99/lb
 * Broccoli  mx    $4.70/lb
-* Spaghetti Squash  mx $2.50/lb
+* Field Cucumber  mx $5.00/for 2
 * Avocados  mx   $6.50/2pack
-* Mango Tommy Atkins  mx  $4.50/ea
+* Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
 * Grapefruit  cal    $2.50/each
 * Mandarins Tango  cal   $5.75/lb
 
 ### Weekly Specials
 
-* Artichokes  cal   $3.00/each
+* Ginger  peru   $6.50/half lb
 * Asparagus  cal  $7.99/lb
-* Mango Tommy Atkins  mx   $4.50/ea
-* Spaghetti Squash  mx    $2.50/lb
+* Mango Ataulfo  mx   $3.00/ea
+* Field Cucumber  mx    $5.00/for 2
 * Broccoli  mx   $4.70/lb
 * Avocados  mx  $6.50/2pack
 * Grapefruit  cal    $2.50/each
