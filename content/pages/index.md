@@ -10,33 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of April 3rd - April 7th 2023**
+### **Week of April 10th - April 14th 2023**
 
 ### Regular Box $42.00
 
 * 4 Gala Apples  BC
-* 2 Oranges Navel  cal
+* 3 Oranges Navel  cal
 * 4 Bananas  mx
 * 2 Pears D'Anjou  BC
 * Spaghetti Squash  cal
-* 1lb Zucchini  mx
-* 1.5lbs Potatoes Russet  BC
-* 227gr White Mushrooms  BC
+* Field Cucumber  mx
+* Green Onions  cal
+* Broccoli  cal
 * Bunched Carrots  mx
-* Escarole Lettuce  cal
+* 1.5lbs Russet Potatoes  BC
 * Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
 * 5 Apples Gala  BC
-* 5 Bananas  mx
-* 1 Avocados  mx
+* 6 Bananas  mx
+* 2 Mango Ataulfo  mx
 * 1lb Tango Mandarins  cal
 * 2 Grapefruits  cal
-* 2 Oranges Navel  cal
+* 4 Oranges Navel  cal
 * 3 Lemons  cal
 * 3 Pears D'Anjou  BC
-* 2 Mango Ataulfo  mx
 
 ***
 
@@ -55,10 +54,9 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.75/lb
 * Red Cabbage  cal   $2.50/lb
-* Celery  cal   $4.50/each
-* Asparagus  cal   $7.99/lb
-* Broccoli  mx    $4.70/lb
-* Field Cucumber  mx $5.00/for 2
+* Asparagus  cal   $8.99/lb
+* Mushroom White  BC    $5.00/227gr
+* Brussel Sprouts  cal   $7.00/lb
 * Avocados  mx   $6.50/2pack
 * Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
@@ -68,10 +66,10 @@ If your changes bring your order to more than $42.00 we will email you and confi
 ### Weekly Specials
 
 * Ginger  peru   $6.50/half lb
-* Asparagus  cal  $7.99/lb
+* Asparagus  cal  $8.99/lb
 * Mango Ataulfo  mx   $3.00/ea
 * Field Cucumber  mx    $5.00/for 2
-* Broccoli  mx   $4.70/lb
+* Brussel Sprout  cal   $7.00/lb
 * Avocados  mx  $6.50/2pack
 * Grapefruit  cal    $2.50/each
 * Mandarins Tango  cal   $5.75/lb
