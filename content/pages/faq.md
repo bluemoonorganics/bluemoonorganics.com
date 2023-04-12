@@ -43,4 +43,4 @@ Blue Moon Organics uses local farm fresh produce whenever possible. During out o
 
 ### How much does it cost?
 
-A container costs just $38.00 for choice of quality, organic produce. Blue Moon Organics guarantees their produce – your satisfaction is 100% guaranteed!
+A container costs just $42.00 for choice of quality, organic produce. Blue Moon Organics guarantees their produce – your satisfaction is 100% guaranteed!
