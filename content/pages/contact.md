@@ -1,12 +1,12 @@
 ---
 title: Contact
----
 
-**Tel**: 604-961-5349
+---
+**Tel**: 604-XXX-XXXX
 
 **Email**: [info@bluemoonorganics.com](mailto:info@bluemoonorganics.com)
 
-To set up your delivery schedule, call us at 604-961-5349 or [**SIGN UP here**](/sign-up).
+To set up your delivery schedule, call us at 604-XXX-XXXX or [**SIGN UP here**](/sign-up).
 
 To find out what’s in this week’s container, [visit the home page](/).
 
