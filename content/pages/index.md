@@ -15,7 +15,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 ### Regular Box $42.00
 
 * 3 Gala Apples  BC
-* 3 Oranges Navel  cal
+* 3 Oranges Navel  
 * 4 Bananas  mx
 * 2 Pears Bartlett  Arg
 * Celery  cal
