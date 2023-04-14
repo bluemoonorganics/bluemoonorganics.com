@@ -1,7 +1,9 @@
 ---
 title: About
-
+_template: page
 ---
+
+
 ![Antal and Kelly.](./uploads/kellyantal.gif "Antal and Kelly")
 
 In business since 1997, Blue Moon Organics has experienced tremendous growth due to the growing public interest in organically farmed produce. Owners Kelly and Antal Boros have been featured in local community newspaper articles and constantly receive rave reviews from their many customers.

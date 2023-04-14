@@ -1,8 +1,10 @@
 ---
 title: Pet Food
 description: ''
-
+_template: page
 ---
+
+
 Pet Chef Express provides the highest quality dog and cat food available. Made in Alberta with only the finest human grade products with no artificial colours, flavours or preservatives. Very competitive prices and **free** home delivery. Order some today by sending an email to [info@bluemoonorganics.com](mailto:info@bluemoonorganics.com) and add it to your weekly order.
 
 ## Dog Food

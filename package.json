@@ -12,11 +12,13 @@
 		"@gridsome/source-filesystem": "^0.6.2",
 		"@gridsome/transformer-remark": "^0.6.1",
 		"@sendgrid/mail": "^7.4.7",
+		"@tinacms/cli": "^1.5.6",
 		"dotenv": "^8.2.0",
 		"gridsome": "^0.7.20",
 		"netlify-cli": "^6.9.17",
 		"netlify-lambda": "^2.0.1",
-		"nodemailer": "^6.4.11"
+		"nodemailer": "^6.4.11",
+		"tinacms": "^1.4.6"
 	},
 	"devDependencies": {
 		"babel-eslint": "^10.1.0",
@@ -25,7 +27,7 @@
 		"eslint-plugin-gridsome": "^1.5.0",
 		"eslint-plugin-prettier": "^3.1.4",
 		"eslint-plugin-vue": "^6.2.2",
-		"node-sass": "^4.14.1",
+		"node-sass": "^8.0.0",
 		"sass-loader": "^9.0.3",
 		"stylelint": "^13.6.1",
 		"stylelint-config-sass-guidelines": "^7.0.0"

@@ -1,8 +1,10 @@
 ---
 title: FAQ
 description: ''
-
+_template: page
 ---
+
+
 It’s easy to get organic produce delivered to your home! Now you can enjoy a convenient and cost-effective way to enjoy Certified Organic fruits and vegetables grown the way nature intended!
 
 ### Delivery Areas
