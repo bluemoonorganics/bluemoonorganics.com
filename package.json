@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"@gridsome/source-filesystem": "^0.6.2",
-		"@gridsome/transformer-remark": "^0.6.1",
+		"@gridsome/transformer-remark": "^0.6.4",
 		"@sendgrid/mail": "^7.4.7",
 		"@tinacms/cli": "^1.5.6",
 		"dotenv": "^8.2.0",
