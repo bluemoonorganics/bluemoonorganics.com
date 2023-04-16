@@ -82,8 +82,8 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ## Our family
 
-![Our family.](./uploads/IMG_1376-copy.jpg "Our family")
+![Our family.](/images/IMG_1376-copy.jpg "Our family")
 
 ## COVID-19 Crew
 
-![COVID-19 crew.](./uploads/covid.jpg "COVID-19 crew")
+![COVID-19 crew.](/images/covid.jpg "COVID-19 crew")

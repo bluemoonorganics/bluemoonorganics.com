@@ -1,35 +1,30 @@
 {
-	"name": "bluemoonorganics.com",
-	"private": true,
-	"scripts": {
-		"build": "gridsome build && netlify-lambda build functions",
-		"develop": "gridsome develop",
-		"explore": "gridsome explore",
-		"lint": "eslint --ext .js,.vue .",
-		"fix": "eslint --ext .js,.vue . --fix"
-	},
-	"dependencies": {
-		"@gridsome/source-filesystem": "^0.6.2",
-		"@gridsome/transformer-remark": "^0.6.1",
-		"@sendgrid/mail": "^7.4.7",
-		"@tinacms/cli": "^1.5.6",
-		"dotenv": "^8.2.0",
-		"gridsome": "^0.7.20",
-		"netlify-cli": "^6.9.17",
-		"netlify-lambda": "^2.0.1",
-		"nodemailer": "^6.4.11",
-		"tinacms": "^1.4.6"
-	},
-	"devDependencies": {
-		"babel-eslint": "^10.1.0",
-		"eslint": "^7.7.0",
-		"eslint-config-prettier": "^6.11.0",
-		"eslint-plugin-gridsome": "^1.5.0",
-		"eslint-plugin-prettier": "^3.1.4",
-		"eslint-plugin-vue": "^6.2.2",
-		"node-sass": "^8.0.0",
-		"sass-loader": "^9.0.3",
-		"stylelint": "^13.6.1",
-		"stylelint-config-sass-guidelines": "^7.0.0"
-	}
+  "private": true,
+  "scripts": {
+    "dev": "tinacms dev -c \"next\"",
+    "build": "tinacms build && next build",
+    "start": "tinacms build && next start",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "@tinacms/cli": "^1.5.6",
+    "gray-matter": "^4.0.3",
+    "next": "latest",
+    "node-html-parser": "^6.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rehype": "^12.0.1",
+    "rehype-slug": "^5.1.0",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1",
+    "tinacms": "^1.4.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "sass": "^1.62.0",
+    "typescript": "^4.7.4"
+  }
 }
