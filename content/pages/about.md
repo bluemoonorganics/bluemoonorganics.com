@@ -3,9 +3,7 @@ title: About
 _template: page
 ---
 
-
-
-![Antal and Kelly.](./uploads/kellyantal.gif "Antal and Kelly")
+![Antal and Kelly.](./images/kellyantal.gif "Antal and Kelly")
 
 In business since 1997, Blue Moon Organics has experienced tremendous growth due to the growing public interest in organically farmed produce. Owners Kelly and Antal Boros have been featured in local community newspaper articles and constantly receive rave reviews from their many customers.
 
@@ -17,7 +15,7 @@ As a customer of Blue Moon Organics, you’ll receive a fresh selection of Certi
 
 Blue Moon Organics has seen tremendous growth and a growing public interest in organically farmed produce. Re-discover the great taste of our grandparents’ era. Visit our product profile page and discover how convenient home delivery can be. Call Blue Moon Organics today, or sign up right now!
 
-![Antal and Jessy.](./uploads/antaljess9e1.jpg "Antal and Jessy")
+![Antal and Jessy.](./images/antaljess9e1.jpg "Antal and Jessy")
 
 ## Here’s what our customers are saying about Blue Moon Organics!
 
