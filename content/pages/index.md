@@ -10,32 +10,32 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of April 10th - April 14th 2023**
+### **Week of April 17th - April 21st 2023**
 
 ### Regular Box $42.00
 
-* 4 Gala Apples  BC
-* 3 Oranges Navel  cal
+* 3 Gala Apples  BC
+* 3 Oranges Navel
 * 4 Bananas  mx
-* 2 Pears D'Anjou  BC
-* Spaghetti Squash  cal
-* Field Cucumber  mx
+* 2 Pears Bartlett  was
+* Celery  cal
+* Zucchini  mx
 * Green Onions  cal
-* Broccoli  cal
+* Green Chard  cal
 * Bunched Carrots  mx
-* 1.5lbs Russet Potatoes  BC
+* 2lbs Russet Potatoes  BC
 * Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
-* 5 Apples Gala  BC
+* 4 Apples Gala  BC
 * 6 Bananas  mx
 * 2 Mango Ataulfo  mx
 * 1lb Tango Mandarins  cal
 * 2 Grapefruits  cal
-* 4 Oranges Navel  cal
+* 3 Oranges Navel  cal
 * 3 Lemons  cal
-* 3 Pears D'Anjou  BC
+* 3 Pears Bartlett  arg
 
 ***
 
@@ -47,17 +47,16 @@ If your changes bring your order to more than $42.00 we will email you and confi
 
 ### Extras
 
-* 6oz Spring Mix  cal   $7.00
-* 6oz Baby Spinach  cal   $7.00
+* 6oz Spring Mix  cal   $7.50
+* 6oz Baby Spinach  cal   $7.50
 * Garlic  cal   $6.00/for 2
 * Ginger Yellow  peru  $6.50/half lb
 * Yellow Onions  mb   $3.00/lb
-* Yams  cal   $3.75/lb
-* Red Cabbage  cal   $2.50/lb
-* Asparagus  cal   $8.99/lb
-* Mushroom White  BC    $5.00/227gr
-* Brussel Sprouts  cal   $7.00/lb
-* Avocados  mx   $6.50/2pack
+* Yams  cal   $3.90/lb
+* Red Cabbage  cal   $3.00/lb
+* Broccoli  cal   $6.50/bunch
+* Mushroom White  BC    $5.75/227gr
+* Avocados  mx   $7.50/2pack
 * Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
 * Grapefruit  cal    $2.50/each
@@ -66,11 +65,10 @@ If your changes bring your order to more than $42.00 we will email you and confi
 ### Weekly Specials
 
 * Ginger  peru   $6.50/half lb
-* Asparagus  cal  $8.99/lb
+* Broccoli  cal  $6.50/bunch
 * Mango Ataulfo  mx   $3.00/ea
-* Field Cucumber  mx    $5.00/for 2
-* Brussel Sprout  cal   $7.00/lb
-* Avocados  mx  $6.50/2pack
+* Lemons  cal  $4.00/3pack
+* Avocados  mx  $7.50/2pack
 * Grapefruit  cal    $2.50/each
 * Mandarins Tango  cal   $5.75/lb
 
