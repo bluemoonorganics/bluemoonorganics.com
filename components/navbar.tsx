@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React, { useState } from "react";
 
-function Navbar({deliveryAreas}) {
+function Navbar({deliveryAreas=[]}) {
   const [showMobileMenu, setShowMobileMenu] = useState(false);
 
   const toggleMobileMenu = () => {

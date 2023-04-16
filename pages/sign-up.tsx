@@ -37,7 +37,7 @@ export default function SignUp() {
     sessionStorage.setItem("signupData", JSON.stringify(formData));
   }, [formData]);
 
-  const handleSubmit = async (event) {
+  const handleSubmit = async (event) => {
     event.preventDefault();
     console.log("Submitting...");
     const response = await fetch("/api/submission", {
