@@ -71,7 +71,6 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Avocados  mx  $7.50/2pack
 * Grapefruit  cal    $2.50/each
 * Mandarins Tango  cal   $5.75/lb
-* test
 
 ***
 
