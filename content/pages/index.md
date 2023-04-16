@@ -1,10 +1,10 @@
 ---
 title: Home
-
 ---
+
 Discover the convenience of having fresh Certified Organic Fruits and Vegetables delivered right to your home. A local family business since 1997, Blue Moon Organics delivers fresh 100% Certified Organic Fruits and Vegetables right to your home. We delivery to Anmore, Aldergrove, Burnaby, Belcarra, Coquitlam, Langley, Port Coquitlam, Port Moody, Pitt Meadows, New Westminster, Maple Ridge, Mission and East Surrey.
 
-[Call Blue Moon Organics](/contact) today, or [**SIGN UP**](/sign-up) right now!
+[Call Blue Moon Organics](/contact) today, or **[SIGN UP](/sign-up)** right now!
 
 ***
 
@@ -71,12 +71,13 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Avocados  mx  $7.50/2pack
 * Grapefruit  cal    $2.50/each
 * Mandarins Tango  cal   $5.75/lb
+* test
 
 ***
 
 ## Grocery items
 
-**Organic Grocery Items** – we have flours, grains, oats, maple syrup, pancake mix, rice and honey. [**View Grocery Items page**](/groceries)
+**Organic Grocery Items** – we have flours, grains, oats, maple syrup, pancake mix, rice and honey. **[View Grocery Items page](/groceries)**
 
 ***
 
