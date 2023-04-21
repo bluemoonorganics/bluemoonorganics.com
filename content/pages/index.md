@@ -10,21 +10,21 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of April 17th - April 21st 2023**
+### **Week of April 24th - April 28th 2023**
 
 ### Regular Box $42.00
 
 * 3 Gala Apples  BC
-* 3 Oranges Navel
+* 2 Oranges Navel
 * 4 Bananas  mx
-* 2 Pears Bartlett  was
+* 2 Grapefruit Rio Red
 * Celery  cal
-* Zucchini  mx
-* Green Onions  cal
-* Green Chard  cal
+* 1 Field Cucumber  mx
+* Green Kale  mx
+* Gold Bunched Beets  cal
 * Bunched Carrots  mx
-* 2lbs Russet Potatoes  BC
-* Roma Tomatoes  mx
+* 1.5lbs Russet Potatoes  BC
+* 1 pint Red Grape Tomatoes  mx
 
 ### Fruit Box $42.00
 
@@ -35,7 +35,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 2 Grapefruits  cal
 * 3 Oranges Navel  cal
 * 3 Lemons  cal
-* 3 Pears Bartlett  arg
+* 1 Avocado  mx
 
 ***
 
@@ -50,26 +50,26 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * 6oz Spring Mix  cal   $7.50
 * 6oz Baby Spinach  cal   $7.50
 * Garlic  cal   $6.00/for 2
-* Ginger Yellow  peru  $6.50/half lb
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.90/lb
 * Red Cabbage  cal   $3.00/lb
-* Broccoli  cal   $6.50/bunch
+* Red Bell Pepper  az   $4.75/lb
 * Mushroom White  BC    $5.75/227gr
+* Acorn Squash  mx   $2.50/lb
 * Avocados  mx   $7.50/2pack
 * Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
-* Grapefruit  cal    $2.50/each
+* Pears  was    $2.55/each
 * Mandarins Tango  cal   $5.75/lb
 
 ### Weekly Specials
 
-* Ginger  peru   $6.50/half lb
-* Broccoli  cal  $6.50/bunch
+* Red Bell Pepper  az   $4.75/lb
+* Acorn Squash  mx   $2.50/lb
 * Mango Ataulfo  mx   $3.00/ea
 * Lemons  cal  $4.00/3pack
 * Avocados  mx  $7.50/2pack
-* Grapefruit  cal    $2.50/each
+* Red Cabbage  cal    $3.00/lb
 * Mandarins Tango  cal   $5.75/lb
 
 ***
