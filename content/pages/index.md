@@ -10,30 +10,30 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of April 24th - April 28th 2023**
+### **Week of May 1st - May 5th 2023**
 
 ### Regular Box $42.00
 
-* 3 Gala Apples  BC
-* 2 Oranges Navel
+* 3 Fuji Apples  BC
+* 2 Oranges Cara Cara
 * 4 Bananas  mx
-* 2 Grapefruit Rio Red
-* Celery  cal
+* 3 Pears D'Anjou  was
+* Green Butter Lettuce  cal
 * 1 Field Cucumber  mx
-* Green Kale  mx
-* Gold Bunched Beets  cal
+* Red Radishes  mx
+* Red Bell Pepper  mx
 * Bunched Carrots  mx
 * 1.5lbs Russet Potatoes  BC
 * 1 pint Red Grape Tomatoes  mx
 
 ### Fruit Box $42.00
 
-* 4 Apples Gala  BC
-* 6 Bananas  mx
+* 5 Apples Fuji  BC
+* 5 Bananas  mx
 * 2 Mango Ataulfo  mx
-* 1lb Tango Mandarins  cal
+* 3 Kiwis  cal
 * 2 Grapefruits  cal
-* 3 Oranges Navel  cal
+* 3 Oranges Cara Cara  cal
 * 3 Lemons  cal
 * 1 Avocado  mx
 
@@ -53,24 +53,23 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Yellow Onions  mb   $3.00/lb
 * Yams  cal   $3.90/lb
 * Red Cabbage  cal   $3.00/lb
-* Red Bell Pepper  az   $4.75/lb
 * Mushroom White  BC    $5.75/227gr
 * Acorn Squash  mx   $2.50/lb
 * Avocados  mx   $7.50/2pack
 * Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
-* Pears  was    $2.55/each
-* Mandarins Tango  cal   $5.75/lb
+* Grapefruit Rio Red  cal    $1.90/each
+* Kiwis  cal   $2.25/each
 
 ### Weekly Specials
 
-* Red Bell Pepper  az   $4.75/lb
+* Baby Spinach or Spring Mix  cal   $7.50/5oz
 * Acorn Squash  mx   $2.50/lb
 * Mango Ataulfo  mx   $3.00/ea
 * Lemons  cal  $4.00/3pack
 * Avocados  mx  $7.50/2pack
 * Red Cabbage  cal    $3.00/lb
-* Mandarins Tango  cal   $5.75/lb
+* Kiwis  cal   $2.25/each
 
 ***
 
