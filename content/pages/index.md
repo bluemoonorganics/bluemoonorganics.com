@@ -10,17 +10,17 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of May 1st - May 5th 2023**
+### **Week of May 8th - May 12th 2023**
 
 ### Regular Box $42.00
 
-* 3 Fuji Apples  BC
+* 4 Fuji Apples  BC
 * 2 Oranges Cara Cara
 * 4 Bananas  mx
-* 3 Pears D'Anjou  was
-* Green Butter Lettuce  cal
+* 1 Avocado  mx
+* Red Bunched Beets  cal
 * 1 Field Cucumber  mx
-* Red Radishes  mx
+* Green Onions  mx
 * Red Bell Pepper  mx
 * Bunched Carrots  mx
 * 1.5lbs Russet Potatoes  BC
@@ -30,12 +30,12 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 * 5 Apples Fuji  BC
 * 5 Bananas  mx
-* 2 Mango Ataulfo  mx
+* 1 Mango Ataulfo  mx
 * 3 Kiwis  cal
 * 2 Grapefruits  cal
 * 3 Oranges Cara Cara  cal
 * 3 Lemons  cal
-* 1 Avocado  mx
+* 1lb Strawberries  cal
 
 ***
 
@@ -55,19 +55,19 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * Red Cabbage  cal   $3.00/lb
 * Mushroom White  BC    $5.75/227gr
 * Acorn Squash  mx   $2.50/lb
-* Avocados  mx   $7.50/2pack
+* Strawberries  cal   $7.75/lb
 * Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
-* Grapefruit Rio Red  cal    $1.90/each
+* Grapefruit Rio Red  cal    $2.25/each
 * Kiwis  cal   $2.25/each
+* Pears D'Anjou  was   $1.10/each
 
 ### Weekly Specials
 
 * Baby Spinach or Spring Mix  cal   $7.50/5oz
 * Acorn Squash  mx   $2.50/lb
 * Mango Ataulfo  mx   $3.00/ea
-* Lemons  cal  $4.00/3pack
-* Avocados  mx  $7.50/2pack
+* Strawberries  cal  $7.75/lb
 * Red Cabbage  cal    $3.00/lb
 * Kiwis  cal   $2.25/each
 
