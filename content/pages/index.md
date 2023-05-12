@@ -10,7 +10,7 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 
 ## What’s in the Box?
 
-### **Week of May 8th - May 12th 2023**
+### **Week of May 15th - May 19th 2023**
 
 ### Regular Box $42.00
 
@@ -18,13 +18,13 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 2 Oranges Cara Cara
 * 4 Bananas  mx
 * 1 Avocado  mx
-* Red Bunched Beets  cal
+* Celery  cal
 * 1 Field Cucumber  mx
-* Green Onions  mx
+* 1lb Yellow Onions  was
 * Red Bell Pepper  mx
 * Bunched Carrots  mx
-* 1.5lbs Russet Potatoes  BC
-* 1 pint Red Grape Tomatoes  mx
+* 1.25lbs Yams  cal
+* 1lb Roma Tomatoes  mx
 
 ### Fruit Box $42.00
 
@@ -33,8 +33,8 @@ Discover the convenience of having fresh Certified Organic Fruits and Vegetables
 * 1 Mango Ataulfo  mx
 * 3 Kiwis  cal
 * 2 Grapefruits  cal
-* 3 Oranges Cara Cara  cal
-* 3 Lemons  cal
+* 2 Oranges Cara Cara  cal
+* 2lbs Tango Mandarines  cal
 * 1lb Strawberries  cal
 
 ***
@@ -51,24 +51,25 @@ If your changes bring your order to more than $42.00 we will email you and confi
 * 6oz Baby Spinach  cal   $7.50
 * Garlic  cal   $6.00/for 2
 * Yellow Onions  mb   $3.00/lb
-* Yams  cal   $3.90/lb
+* Red Beets  cal   $4.80/lb
 * Red Cabbage  cal   $3.00/lb
 * Mushroom White  BC    $5.75/227gr
 * Acorn Squash  mx   $2.50/lb
-* Strawberries  cal   $7.75/lb
+* Strawberries  cal   $7.25/lb
 * Mango Ataulfo  mx  $3.00/ea
 * Lemons  cal   $4.00/for 3
-* Grapefruit Rio Red  cal    $2.25/each
+* Grapefruit Rio Red  cal    $1.90/each
 * Kiwis  cal   $2.25/each
 * Pears D'Anjou  was   $1.10/each
+* Tango Mandarines  cal   $3.50/lb
 
 ### Weekly Specials
 
 * Baby Spinach or Spring Mix  cal   $7.50/5oz
-* Acorn Squash  mx   $2.50/lb
+* Red Beets  cal   $4.80/lb
 * Mango Ataulfo  mx   $3.00/ea
-* Strawberries  cal  $7.75/lb
-* Red Cabbage  cal    $3.00/lb
+* Strawberries  cal  $7.25/lb
+* Tango Mandarines  cal    $3.50/lb
 * Kiwis  cal   $2.25/each
 
 ***
